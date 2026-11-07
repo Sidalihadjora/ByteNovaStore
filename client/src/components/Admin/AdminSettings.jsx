@@ -212,7 +212,7 @@ export default function AdminSettings({ onSettingsUpdated }) {
   }
 
   return (
-    <div className="p-6 sm:p-8 space-y-6 flex-1 overflow-y-auto">
+    <div className="p-4 sm:p-6 lg:p-8 space-y-6 flex-1 overflow-y-auto">
       <div>
         <h1 className="text-2xl font-black text-slate-900 tracking-tight">{t('admin_settings')}</h1>
         <p className="text-xs text-slate-500 mt-0.5">Identité, coordonnées et accès administrateur du magasin.</p>
@@ -229,7 +229,7 @@ export default function AdminSettings({ onSettingsUpdated }) {
         </div>
       )}
 
-      <form onSubmit={handleSaveSettings} className="bg-white p-6 sm:p-8 rounded-3xl border border-slate-200/80 shadow-xs space-y-7 text-xs">
+      <form onSubmit={handleSaveSettings} className="bg-white p-4 sm:p-6 lg:p-8 rounded-3xl border border-slate-200/80 shadow-xs space-y-7 text-xs">
         {settingGroups.map(group => (
           <section key={group.title} className="space-y-4">
             <h2 className="text-sm font-black text-slate-800 border-b border-slate-100 pb-2">{group.title}</h2>
@@ -309,7 +309,7 @@ export default function AdminSettings({ onSettingsUpdated }) {
         </div>
       </form>
 
-      <form onSubmit={handleSaveAccount} className="bg-white p-6 sm:p-8 rounded-3xl border border-slate-200/80 shadow-xs space-y-5 text-xs">
+      <form onSubmit={handleSaveAccount} className="bg-white p-4 sm:p-6 lg:p-8 rounded-3xl border border-slate-200/80 shadow-xs space-y-5 text-xs">
         <div>
           <h2 className="text-sm font-black text-slate-800">Compte administrateur</h2>
           <p className="text-slate-500 mt-1">Confirmez votre mot de passe actuel pour modifier les accès.</p>

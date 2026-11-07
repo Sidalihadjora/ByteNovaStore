@@ -37,20 +37,30 @@ export default function Navbar({
   return (
     <header className="sticky top-0 z-40 bg-white border-b border-slate-200 shadow-xs">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex items-center justify-between h-18 gap-4">
+        <div className="flex items-center justify-between min-h-16 sm:h-18 gap-2 sm:gap-4">
           {/* Logo */}
-          <div className="flex items-center gap-3">
+          <div className="flex min-w-0 items-center gap-2 sm:gap-3">
             <button
               onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-              className="md:hidden p-2 text-slate-600 hover:text-blue-600 rounded-lg focus:outline-hidden"
-              aria-label="Toggle menu"
+              className="md:hidden min-h-11 min-w-11 p-2 text-slate-600 hover:text-blue-600 rounded-lg focus:outline-hidden"
+              aria-label={isMobileMenuOpen ? (language === 'ar' ? 'إغلاق القائمة' : 'Fermer le menu') : (language === 'ar' ? 'فتح القائمة' : 'Ouvrir le menu')}
+              aria-expanded={isMobileMenuOpen}
+              aria-controls="mobile-store-menu"
             >
               {isMobileMenuOpen ? <X size={24} /> : <Menu size={24} />}
             </button>
 
             <div
               onClick={() => onSelectCategory(null)}
-              className="flex items-center gap-2 cursor-pointer group"
+              onKeyDown={(event) => {
+                if (event.key === 'Enter' || event.key === ' ') {
+                  event.preventDefault();
+                  onSelectCategory(null);
+                }
+              }}
+              role="button"
+              tabIndex={0}
+              className="flex min-w-0 items-center gap-2 cursor-pointer group"
             >
               <div
                 className="w-10 h-10 rounded-xl flex items-center justify-center text-white shadow-md shadow-blue-500/20 group-hover:scale-105 transition-transform overflow-hidden"
@@ -61,10 +71,10 @@ export default function Navbar({
                   : <ShoppingBag size={22} className="stroke-[2.5]" />}
               </div>
               <div className="flex flex-col">
-                <span className="text-xl sm:text-2xl font-black tracking-tight text-slate-900">
+                <span className="max-w-[42vw] truncate text-base sm:max-w-none sm:text-2xl font-black tracking-tight text-slate-900">
                   {language === 'ar' ? settings.store_name_ar || settings.store_name || 'ByteNova Store' : settings.store_name || 'ByteNova Store'}
                 </span>
-                <span className="text-[10px] font-semibold text-slate-400 tracking-wider uppercase -mt-1">
+                <span className="hidden min-[400px]:block text-[10px] font-semibold text-slate-400 tracking-wider uppercase -mt-1">
                   {language === 'ar' ? settings.store_slogan_ar || settings.store_slogan || '' : settings.store_slogan || ''}
                 </span>
               </div>
@@ -91,14 +101,14 @@ export default function Navbar({
           </div>
 
           {/* Right Action Icons: Auth & Cart */}
-          <div className="flex items-center gap-2 sm:gap-3">
+          <div className="flex shrink-0 items-center gap-1 sm:gap-3">
             <button
               onClick={toggleLanguage}
-              className="flex items-center gap-1.5 px-2 py-1.5 rounded-full bg-slate-100 hover:bg-slate-200 text-slate-700 transition-all cursor-pointer font-bold border border-slate-200 text-xs"
+              className="min-h-11 min-w-11 flex items-center justify-center gap-1.5 px-2 py-1.5 rounded-full bg-slate-100 hover:bg-slate-200 text-slate-700 transition-all cursor-pointer font-bold border border-slate-200 text-xs"
               title="Changer de langue / تغيير اللغة"
             >
               <Globe size={13} />
-              <span>{language === 'fr' ? 'العربية' : 'Français'}</span>
+              <span className="hidden min-[400px]:inline">{language === 'fr' ? 'العربية' : 'Français'}</span>
             </button>
             <button
               onClick={onOpenTrackOrder}
@@ -179,7 +189,7 @@ export default function Navbar({
             ) : (
               <button
                 onClick={onOpenAuth}
-                className="flex items-center gap-1.5 px-3.5 py-2 rounded-full border border-slate-300 hover:border-blue-600 hover:text-blue-600 text-slate-700 text-xs sm:text-sm font-semibold transition-all cursor-pointer bg-white"
+                className="hidden sm:flex items-center gap-1.5 px-3.5 py-2 rounded-full border border-slate-300 hover:border-blue-600 hover:text-blue-600 text-slate-700 text-xs sm:text-sm font-semibold transition-all cursor-pointer bg-white"
               >
                 <User size={16} />
                 <span className="hidden sm:inline">{t('sign_in')}</span>
@@ -189,7 +199,7 @@ export default function Navbar({
             {/* Shopping Cart Button */}
             <button
               onClick={() => setIsCartOpen(true)}
-              className="relative flex items-center gap-2 px-3.5 py-2 rounded-full bg-blue-600 hover:bg-blue-700 text-white font-semibold text-xs sm:text-sm shadow-md shadow-blue-500/20 transition-all cursor-pointer group"
+              className="relative min-h-11 min-w-11 flex items-center justify-center sm:justify-start gap-2 px-2.5 sm:px-3.5 py-2 rounded-full bg-blue-600 hover:bg-blue-700 text-white font-semibold text-xs sm:text-sm shadow-md shadow-blue-500/20 transition-all cursor-pointer group"
               aria-label="View Shopping Cart"
             >
               <ShoppingBag size={18} className="group-hover:scale-110 transition-transform" />
@@ -215,6 +225,60 @@ export default function Navbar({
             />
             <Search size={16} className={`absolute top-1/2 -translate-y-1/2 ${isRtl ? 'left-3' : 'right-3'} text-slate-400`} />
           </div>
+
+          {isMobileMenuOpen && (
+            <nav id="mobile-store-menu" className="md:hidden border-t border-slate-200 py-2" aria-label={language === 'ar' ? 'قائمة المتجر' : 'Menu de la boutique'}>
+              <div className="grid gap-1">
+                <button
+                  type="button"
+                  onClick={() => { onOpenTrackOrder(); setIsMobileMenuOpen(false); }}
+                  className="min-h-11 flex items-center gap-3 rounded-xl px-3 text-start text-sm font-semibold text-slate-700 hover:bg-slate-50"
+                >
+                  <Package size={18} />
+                  <span>{t('track_order')}</span>
+                </button>
+                {isAuthenticated ? (
+                  <button
+                    type="button"
+                    onClick={() => { onOpenAccount(); setIsMobileMenuOpen(false); }}
+                    className="min-h-11 flex items-center gap-3 rounded-xl px-3 text-start text-sm font-semibold text-slate-700 hover:bg-slate-50"
+                  >
+                    <User size={18} />
+                    <span>{t('my_profile')} & {t('my_orders')}</span>
+                  </button>
+                ) : (
+                  <button
+                    type="button"
+                    onClick={() => { onOpenAuth(); setIsMobileMenuOpen(false); }}
+                    className="min-h-11 flex items-center gap-3 rounded-xl px-3 text-start text-sm font-semibold text-slate-700 hover:bg-slate-50"
+                  >
+                    <User size={18} />
+                    <span>{t('sign_in')}</span>
+                  </button>
+                )}
+                {isAdmin && (
+                  <button
+                    type="button"
+                    onClick={() => { onOpenAdmin(); setIsMobileMenuOpen(false); }}
+                    className="min-h-11 flex items-center gap-3 rounded-xl px-3 text-start text-sm font-semibold text-amber-800 hover:bg-amber-50"
+                  >
+                    <LayoutDashboard size={18} />
+                    <span>{t('admin_panel')}</span>
+                  </button>
+                )}
+                {isAuthenticated && (
+                  <button
+                    type="button"
+                    onClick={() => { logout(); setIsMobileMenuOpen(false); }}
+                    className="min-h-11 flex items-center gap-3 rounded-xl px-3 text-start text-sm font-semibold text-red-600 hover:bg-red-50"
+                  >
+                    <LogOut size={18} />
+                    <span>{t('logout')}</span>
+                  </button>
+                )}
+              </div>
+            </nav>
+          )}
         </div>
       </div>
 
@@ -239,7 +303,7 @@ export default function Navbar({
               <button
                 key={cat.id}
                 onClick={() => onSelectCategory(cat.slug)}
-                className={`px-3.5 py-1.5 rounded-full text-xs font-semibold transition-all cursor-pointer flex items-center gap-1.5 ${
+                className={`min-h-10 px-3.5 py-1.5 rounded-full text-xs font-semibold transition-all cursor-pointer flex items-center gap-1.5 ${
                   isSelected
                     ? 'bg-blue-600 text-white shadow-xs'
                     : 'bg-white text-slate-600 border border-slate-200 hover:border-blue-500 hover:text-blue-600'

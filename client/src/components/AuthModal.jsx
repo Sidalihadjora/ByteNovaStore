@@ -106,11 +106,11 @@ export default function AuthModal({ isOpen, onClose, initialTab = 'login', onLog
 
   return (
     <div
-      className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-4 bg-slate-900/60 backdrop-blur-xs animate-fadeIn overflow-y-auto cursor-pointer"
+      className="responsive-modal fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-4 bg-slate-900/60 backdrop-blur-xs animate-fadeIn overflow-y-auto cursor-pointer"
       onClick={onClose}
     >
       <div
-        className="relative bg-white rounded-3xl max-w-md w-full my-8 shadow-2xl border border-slate-100 overflow-hidden flex flex-col cursor-default"
+        className="responsive-modal-panel relative bg-white rounded-3xl max-w-md w-full my-8 shadow-2xl border border-slate-100 overflow-hidden flex flex-col cursor-default"
         onClick={(e) => e.stopPropagation()}
       >
         {/* Header Tabs */}

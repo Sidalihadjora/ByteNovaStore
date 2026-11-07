@@ -174,7 +174,7 @@ export default function AdminOrders({ onPrintInvoice }) {
   };
 
   return (
-    <div className="p-6 sm:p-8 space-y-6 flex-1 overflow-y-auto">
+    <div className="p-4 sm:p-6 lg:p-8 space-y-6 flex-1 overflow-y-auto">
       {/* Top Header & Export Buttons */}
       <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4">
         <div>
@@ -298,7 +298,7 @@ export default function AdminOrders({ onPrintInvoice }) {
           </div>
         ) : (
           <div className="overflow-x-auto">
-            <table className="w-full text-start text-xs">
+            <table className="w-full min-w-max text-start text-xs">
               <thead className="bg-slate-50 border-b border-slate-200 text-slate-500 uppercase text-[10px] font-bold">
                 <tr>
                   <th className="p-4 text-start">N° Commande</th>
@@ -402,11 +402,11 @@ export default function AdminOrders({ onPrintInvoice }) {
       {/* View Order Details Modal */}
       {selectedOrder && (
         <div
-          className="fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-4 bg-slate-900/60 backdrop-blur-xs animate-fadeIn overflow-y-auto cursor-pointer"
+          className="responsive-modal fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-4 bg-slate-900/60 backdrop-blur-xs animate-fadeIn overflow-y-auto cursor-pointer"
           onClick={() => setSelectedOrder(null)}
         >
           <div
-            className="relative bg-white rounded-3xl max-w-xl w-full my-8 shadow-2xl border border-slate-100 overflow-hidden flex flex-col cursor-default"
+            className="responsive-modal-panel relative bg-white rounded-3xl max-w-xl w-full my-8 shadow-2xl border border-slate-100 overflow-hidden flex flex-col cursor-default"
             onClick={(e) => e.stopPropagation()}
           >
             <div className="p-5 border-b border-slate-100 bg-slate-50 flex items-center justify-between">

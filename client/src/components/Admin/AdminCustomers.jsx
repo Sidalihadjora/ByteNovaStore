@@ -62,7 +62,7 @@ export default function AdminCustomers() {
   }, [customerToDelete, deletingCustomerId]);
 
   return (
-    <div className="p-6 sm:p-8 space-y-6 flex-1 overflow-y-auto">
+    <div className="p-4 sm:p-6 lg:p-8 space-y-6 flex-1 overflow-y-auto">
       <div>
         <h1 className="text-2xl font-black text-slate-900 tracking-tight">
           {t('admin_customers')}
@@ -96,7 +96,7 @@ export default function AdminCustomers() {
           </div>
         ) : (
           <div className="overflow-x-auto">
-            <table className="w-full text-start text-xs">
+            <table className="w-full min-w-max text-start text-xs">
               <thead className="bg-slate-50 border-b border-slate-200 text-slate-500 uppercase text-[10px] font-bold">
                 <tr>
                   <th className="p-4 text-start">Client</th>
@@ -153,7 +153,7 @@ export default function AdminCustomers() {
 
       {customerToDelete && (
         <div
-          className="fixed inset-0 z-50 flex items-center justify-center bg-slate-900/60 p-4 backdrop-blur-xs"
+          className="responsive-modal fixed inset-0 z-50 flex items-center justify-center bg-slate-900/60 p-4 backdrop-blur-xs"
           onMouseDown={(event) => {
             if (event.target === event.currentTarget && deletingCustomerId === null) {
               setCustomerToDelete(null);
@@ -164,7 +164,7 @@ export default function AdminCustomers() {
             role="dialog"
             aria-modal="true"
             aria-labelledby="delete-customer-title"
-            className="w-full max-w-md overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-2xl"
+            className="responsive-modal-panel w-full max-w-md overflow-hidden rounded-2xl border border-slate-200 bg-white shadow-2xl"
             dir={language === 'ar' ? 'rtl' : 'ltr'}
           >
             <header className="flex items-center justify-between border-b border-slate-100 bg-slate-50 px-5 py-4">

@@ -28,7 +28,7 @@ export default function HeroSection({ settings = {}, wilayaStats = {}, onShopNow
         <div className="absolute top-0 end-0 -mt-12 -me-12 w-96 h-96 rounded-full bg-blue-500/20 blur-3xl pointer-events-none" />
         <div className="absolute bottom-0 start-1/4 -mb-12 w-80 h-80 rounded-full bg-indigo-500/15 blur-3xl pointer-events-none" />
 
-        <div className="relative z-10 max-w-7xl mx-auto px-6 sm:px-10 lg:px-12 py-12 sm:py-16 grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
+        <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-10 lg:px-12 py-8 sm:py-16 grid grid-cols-1 lg:grid-cols-12 gap-6 sm:gap-8 items-center">
           {/* Left Hero Text */}
           <div className="lg:col-span-7 flex flex-col items-start gap-4 text-start">
             <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-white/10 backdrop-blur-md border border-white/20 text-xs font-bold text-amber-300">
@@ -36,7 +36,7 @@ export default function HeroSection({ settings = {}, wilayaStats = {}, onShopNow
               <span>{freeDeliveryNotice}</span>
             </div>
 
-            <h1 className="text-3xl sm:text-5xl font-black tracking-tight leading-tight sm:leading-tight">
+            <h1 className="text-[clamp(1.75rem,6vw,3rem)] font-black tracking-tight leading-tight">
               {(language === 'ar' ? settings.store_slogan_ar : settings.store_slogan) || t('hero_title')}
             </h1>
 
@@ -61,8 +61,8 @@ export default function HeroSection({ settings = {}, wilayaStats = {}, onShopNow
           </div>
 
           {/* Right Hero Image / Featured Collage */}
-          <div className="lg:col-span-5 relative hidden lg:flex justify-center">
-            <div className="relative w-80 h-80 rounded-3xl overflow-hidden shadow-2xl border-4 border-white/20 bg-white/5 backdrop-blur-xs">
+          <div className="lg:col-span-5 relative flex justify-center">
+            <div className="relative h-60 w-full max-w-60 sm:h-80 sm:max-w-80 lg:h-80 lg:w-80 rounded-3xl overflow-hidden shadow-2xl border-4 border-white/20 bg-white/5 backdrop-blur-xs">
               <img
                 src={settings.hero_image || 'https://images.unsplash.com/photo-1598327105666-5b89351aff97?w=800&auto=format&fit=crop&q=80'}
                 alt="Smartphone Deals"

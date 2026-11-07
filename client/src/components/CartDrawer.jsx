@@ -60,7 +60,7 @@ export default function CartDrawer({ onProceedToCheckout }) {
       <div
         className={`fixed inset-y-0 ${
           isRtl ? 'left-0' : 'right-0'
-        } max-w-full flex w-screen max-w-md bg-white shadow-2xl flex-col transition-transform`}
+        } max-w-[100vw] flex w-screen max-w-md bg-white pb-[env(safe-area-inset-bottom)] shadow-2xl flex-col transition-transform`}
         onClick={(e) => e.stopPropagation()}
       >
         {/* Header */}
@@ -147,7 +147,7 @@ export default function CartDrawer({ onProceedToCheckout }) {
                       <div className="flex items-center border border-slate-200 rounded-lg bg-slate-50 p-0.5">
                         <button
                           onClick={() => updateQuantity(item.id, item.quantity - 1)}
-                          className="w-6 h-6 rounded bg-white shadow-xs hover:bg-slate-100 flex items-center justify-center text-slate-600 cursor-pointer"
+                          className="min-h-11 min-w-11 rounded bg-white shadow-xs hover:bg-slate-100 flex items-center justify-center text-slate-600 cursor-pointer"
                           aria-label="Decrease quantity"
                         >
                           <Minus size={12} />
@@ -158,7 +158,7 @@ export default function CartDrawer({ onProceedToCheckout }) {
                         <button
                           onClick={() => updateQuantity(item.id, item.quantity + 1)}
                           disabled={item.quantity >= item.stock_quantity}
-                          className="w-6 h-6 rounded bg-white shadow-xs hover:bg-slate-100 flex items-center justify-center text-slate-600 disabled:opacity-40 cursor-pointer"
+                          className="min-h-11 min-w-11 rounded bg-white shadow-xs hover:bg-slate-100 flex items-center justify-center text-slate-600 disabled:opacity-40 cursor-pointer"
                           aria-label="Increase quantity"
                         >
                           <Plus size={12} />
@@ -167,7 +167,7 @@ export default function CartDrawer({ onProceedToCheckout }) {
 
                       <button
                         onClick={() => removeFromCart(item.id)}
-                        className="text-slate-400 hover:text-red-600 p-1 rounded transition-colors cursor-pointer"
+                        className="min-h-11 min-w-11 text-slate-400 hover:text-red-600 p-1 rounded transition-colors cursor-pointer"
                         title={t('delete_product')}
                       >
                         <Trash2 size={16} />

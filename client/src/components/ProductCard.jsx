@@ -62,11 +62,11 @@ export default function ProductCard({ product, onQuickView }) {
         </div>
 
         {/* Quick View Button Hover Overlay */}
-        <div className="absolute inset-0 bg-slate-900/10 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center pointer-events-none">
+        <div className="absolute inset-0 bg-slate-900/10 opacity-100 sm:opacity-0 sm:group-hover:opacity-100 transition-opacity flex items-center justify-center pointer-events-none">
           <button
             type="button"
             onClick={() => onQuickView(product)}
-            className="pointer-events-auto bg-white/95 hover:bg-white text-slate-800 text-xs font-bold py-2 px-3.5 rounded-full shadow-lg transform translate-y-2 group-hover:translate-y-0 transition-all flex items-center gap-1.5 cursor-pointer hover:text-blue-600"
+            className="pointer-events-auto min-h-11 bg-white/95 hover:bg-white text-slate-800 text-xs font-bold py-2 px-3.5 rounded-full shadow-lg transform translate-y-0 sm:translate-y-2 opacity-100 sm:opacity-0 sm:group-hover:translate-y-0 sm:group-hover:opacity-100 transition-all flex items-center gap-1.5 cursor-pointer hover:text-blue-600"
           >
             <Eye size={15} />
             <span>{t('quick_view')}</span>
@@ -138,7 +138,7 @@ export default function ProductCard({ product, onQuickView }) {
             type="button"
             onClick={() => addToCart(product, 1)}
             disabled={isOutOfStock}
-            className={`w-full py-2.5 px-4 rounded-xl font-bold text-xs sm:text-sm flex items-center justify-center gap-2 transition-all cursor-pointer ${
+            className={`w-full min-h-11 py-2.5 px-3 sm:px-4 rounded-xl font-bold text-xs sm:text-sm flex items-center justify-center gap-2 transition-all cursor-pointer ${
               isOutOfStock
                 ? 'bg-slate-100 text-slate-400 cursor-not-allowed border border-slate-200'
                 : isJustAdded

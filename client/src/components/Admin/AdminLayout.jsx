@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { ShieldAlert, ArrowLeft, ArrowRight } from 'lucide-react';
+import { ShieldAlert, ArrowLeft, ArrowRight, Menu } from 'lucide-react';
 import { useAuth } from '../../context/AuthContext';
 import { useLanguage } from '../../context/LanguageContext';
 import AdminSidebar from './AdminSidebar';
@@ -17,6 +17,7 @@ export default function AdminLayout({ onExitAdmin, categories = [], onCategories
   const { isAdmin } = useAuth();
   const { language, isRtl } = useLanguage();
   const [currentView, setCurrentView] = useState('dashboard');
+  const [isSidebarOpen, setIsSidebarOpen] = useState(false);
   const [invoiceOrder, setInvoiceOrder] = useState(null);
 
   // Role Protection (Requirement 3: "Only authorized administrators can access the Admin Dashboard")
@@ -52,12 +53,39 @@ export default function AdminLayout({ onExitAdmin, categories = [], onCategories
       {/* Sidebar */}
       <AdminSidebar
         currentView={currentView}
-        onChangeView={setCurrentView}
+        onChangeView={(view) => {
+          setCurrentView(view);
+          setIsSidebarOpen(false);
+        }}
         onExitAdmin={onExitAdmin}
+        isMobileOpen={isSidebarOpen}
+        onClose={() => setIsSidebarOpen(false)}
       />
 
       {/* Main Content Area */}
-      <main className="flex-1 flex flex-col min-w-0 overflow-hidden">
+      {isSidebarOpen && (
+        <button
+          type="button"
+          className="fixed inset-0 z-40 bg-slate-950/60 md:hidden"
+          onClick={() => setIsSidebarOpen(false)}
+          aria-label={language === 'ar' ? 'إغلاق القائمة' : 'Fermer le menu'}
+        />
+      )}
+      <main className="flex min-h-screen min-w-0 flex-1 flex-col overflow-hidden">
+        <header className="sticky top-0 z-30 flex min-h-14 items-center gap-3 border-b border-slate-200 bg-white px-4 md:hidden">
+          <button
+            type="button"
+            onClick={() => setIsSidebarOpen(true)}
+            aria-label={language === 'ar' ? 'فتح قائمة الإدارة' : 'Ouvrir le menu d’administration'}
+            aria-expanded={isSidebarOpen}
+            className="inline-flex min-h-11 min-w-11 items-center justify-center rounded-xl text-slate-700 hover:bg-slate-100"
+          >
+            <Menu size={22} />
+          </button>
+          <span className="truncate text-sm font-bold text-slate-900">
+            {language === 'ar' ? 'لوحة الإدارة' : 'Administration'}
+          </span>
+        </header>
         {currentView === 'dashboard' && (
           <AdminDashboard
             onNavigateToOrders={() => setCurrentView('orders')}

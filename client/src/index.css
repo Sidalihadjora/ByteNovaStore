@@ -1,12 +1,77 @@
 @import "tailwindcss";
 
 @layer base {
+  *,
+  *::before,
+  *::after {
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-padding-top: 5rem;
+  }
+
   body {
+    margin: 0;
     font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+
+  img,
+  video,
+  canvas,
+  svg {
+    max-width: 100%;
+  }
+
+  button,
+  input,
+  select,
+  textarea {
+    font: inherit;
   }
   
   [dir="rtl"] body, [dir="rtl"] {
     font-family: 'Cairo', system-ui, -apple-system, sans-serif;
+  }
+}
+
+@media (max-width: 639px) {
+  .responsive-modal {
+    align-items: stretch;
+    padding-block: max(0.5rem, env(safe-area-inset-top)) max(0.5rem, env(safe-area-inset-bottom));
+  }
+
+  .responsive-modal-panel {
+    width: 100%;
+    max-height: calc(100dvh - 1rem - env(safe-area-inset-top) - env(safe-area-inset-bottom));
+    margin-block: auto;
+    border-radius: 1rem;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+  }
+}
+
+@media (max-width: 639px) {
+  input:not([type="checkbox"]):not([type="radio"]):not([type="range"]),
+  select,
+  textarea {
+    font-size: 16px;
+  }
+
+  input:not([type="checkbox"]):not([type="radio"]):not([type="range"]):not([type="file"]):not([type="hidden"]),
+  select {
+    min-height: 44px;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
   }
 }
 

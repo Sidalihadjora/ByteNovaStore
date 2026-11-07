@@ -10,14 +10,15 @@ import {
   Settings,
   LogOut,
   ExternalLink,
-  Store
+  Store,
+  X
 } from 'lucide-react';
 import { useLanguage } from '../../context/LanguageContext';
 import { useAuth } from '../../context/AuthContext';
 import { useStoreSettings } from '../../context/StoreSettingsContext';
 
-export default function AdminSidebar({ currentView, onChangeView, onExitAdmin }) {
-  const { t, language } = useLanguage();
+export default function AdminSidebar({ currentView, onChangeView, onExitAdmin, isMobileOpen = false, onClose }) {
+  const { t, language, isRtl } = useLanguage();
   const { logout } = useAuth();
   const { settings } = useStoreSettings();
 
@@ -33,7 +34,12 @@ export default function AdminSidebar({ currentView, onChangeView, onExitAdmin })
   ];
 
   return (
-    <aside className="w-64 bg-slate-900 text-slate-300 flex flex-col shrink-0 border-e border-slate-800 select-none">
+    <aside
+      className={`fixed inset-y-0 start-0 z-50 flex w-72 max-w-[85vw] shrink-0 flex-col select-none border-e border-slate-800 bg-slate-900 text-slate-300 transition-transform duration-300 md:sticky md:top-0 md:z-30 md:h-screen md:w-64 md:max-w-none md:translate-x-0 ${
+        isMobileOpen ? 'visible translate-x-0' : isRtl ? 'invisible translate-x-full md:visible md:translate-x-0' : 'invisible -translate-x-full md:visible md:translate-x-0'
+      }`}
+      aria-label={language === 'ar' ? 'قائمة الإدارة' : 'Navigation administration'}
+    >
       {/* Brand Header */}
       <div className="p-5 border-b border-slate-800 flex items-center justify-between">
         <div className="flex items-center gap-2.5">
@@ -51,6 +57,14 @@ export default function AdminSidebar({ currentView, onChangeView, onExitAdmin })
             </span>
           </div>
         </div>
+        <button
+          type="button"
+          onClick={onClose}
+          aria-label={language === 'ar' ? 'إغلاق القائمة' : 'Fermer le menu'}
+          className="inline-flex min-h-11 min-w-11 items-center justify-center rounded-lg text-slate-400 hover:bg-slate-800 hover:text-white md:hidden"
+        >
+          <X size={20} />
+        </button>
       </div>
 
       {/* Navigation Items */}
@@ -62,7 +76,7 @@ export default function AdminSidebar({ currentView, onChangeView, onExitAdmin })
             <button
               key={item.key}
               onClick={() => onChangeView(item.key)}
-              className={`w-full flex items-center gap-3 px-3.5 py-2.5 rounded-xl text-xs font-bold transition-all cursor-pointer ${
+              className={`min-h-11 w-full flex items-center gap-3 px-3.5 py-2.5 rounded-xl text-xs font-bold transition-all cursor-pointer ${
                 isActive
                   ? 'bg-blue-600 text-white shadow-md shadow-blue-500/25'
                   : 'text-slate-400 hover:bg-slate-800/80 hover:text-white'

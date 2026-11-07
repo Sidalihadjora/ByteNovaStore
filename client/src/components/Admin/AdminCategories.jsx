@@ -113,7 +113,7 @@ export default function AdminCategories({ onCategoriesUpdated }) {
   };
 
   return (
-    <div className="p-6 sm:p-8 space-y-6 flex-1 overflow-y-auto">
+    <div className="p-4 sm:p-6 lg:p-8 space-y-6 flex-1 overflow-y-auto">
       <div className="flex items-center justify-between">
         <div>
           <h1 className="text-2xl font-black text-slate-900 tracking-tight">
@@ -141,7 +141,7 @@ export default function AdminCategories({ onCategoriesUpdated }) {
           </div>
         ) : (
           <div className="overflow-x-auto">
-            <table className="w-full text-start text-xs">
+            <table className="w-full min-w-max text-start text-xs">
               <thead className="bg-slate-50 border-b border-slate-200 text-slate-500 uppercase text-[10px] font-bold">
                 <tr>
                   <th className="p-4 text-start">Nom (FR)</th>
@@ -189,11 +189,11 @@ export default function AdminCategories({ onCategoriesUpdated }) {
       {/* Add / Edit Modal */}
       {isModalOpen && (
         <div
-          className="fixed inset-0 z-50 flex items-center justify-center p-3 bg-slate-900/60 backdrop-blur-xs cursor-pointer animate-fadeIn"
+          className="responsive-modal fixed inset-0 z-50 flex items-center justify-center p-3 bg-slate-900/60 backdrop-blur-xs cursor-pointer animate-fadeIn"
           onClick={() => setIsModalOpen(false)}
         >
           <div
-            className="bg-white rounded-3xl max-w-md w-full p-6 shadow-2xl cursor-default"
+            className="responsive-modal-panel bg-white rounded-3xl max-w-md w-full p-6 shadow-2xl cursor-default"
             onClick={(e) => e.stopPropagation()}
           >
             <div className="flex justify-between items-center mb-4">

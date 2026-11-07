@@ -57,7 +57,7 @@ export default function AdminDashboard({ onNavigateToOrders, onNavigateToProduct
   const maxRevenue = salesByDay.length > 0 ? Math.max(...salesByDay.map(d => d.daily_revenue), 1000) : 1000;
 
   return (
-    <div className="p-6 sm:p-8 space-y-8 flex-1 overflow-y-auto">
+    <div className="p-4 sm:p-6 lg:p-8 space-y-6 sm:space-y-8 flex-1 overflow-y-auto">
       {/* Top Welcome Title */}
       <div>
         <h1 className="text-2xl font-black text-slate-900 tracking-tight">
@@ -289,7 +289,7 @@ export default function AdminDashboard({ onNavigateToOrders, onNavigateToProduct
         </div>
 
         <div className="overflow-x-auto">
-          <table className="w-full text-start text-xs">
+          <table className="w-full min-w-max text-start text-xs">
             <thead>
               <tr className="border-b border-slate-200 text-slate-400 uppercase text-[10px] font-bold">
                 <th className="pb-3 text-start">{t('order_number')}</th>
