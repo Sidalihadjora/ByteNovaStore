@@ -1,0 +1,8259 @@
+[
+  {
+    "code": 1,
+    "arabic": "أدرار",
+    "ascii": "Adrar",
+    "en": "Adrar",
+    "communes": [
+      {
+        "arabic": "تيمقتن",
+        "ascii": "Timekten",
+        "en": "Timekten"
+      },
+      {
+        "arabic": "تيت",
+        "ascii": "Tit",
+        "en": "Tit"
+      },
+      {
+        "arabic": "اقبلي",
+        "ascii": "Akabli",
+        "en": "Akabli"
+      },
+      {
+        "arabic": "أولف",
+        "ascii": "Aoulef",
+        "en": "Aoulef"
+      },
+      {
+        "arabic": "بودة",
+        "ascii": "Bouda",
+        "en": "Bouda"
+      },
+      {
+        "arabic": "أولاد أحمد تيمي",
+        "ascii": "Ouled Ahmed Timmi",
+        "en": "Ouled Ahmed Timmi"
+      },
+      {
+        "arabic": "أدرار",
+        "ascii": "Adrar",
+        "en": "Adrar"
+      },
+      {
+        "arabic": "فنوغيل",
+        "ascii": "Fenoughil",
+        "en": "Fenoughil"
+      },
+      {
+        "arabic": "تامست",
+        "ascii": "Tamest",
+        "en": "Tamest"
+      },
+      {
+        "arabic": "تامنطيط",
+        "ascii": "Tamantit",
+        "en": "Tamantit"
+      },
+      {
+        "arabic": "إن زغمير",
+        "ascii": "In Zghmir",
+        "en": "In Zghmir"
+      },
+      {
+        "arabic": "زاوية كنتة",
+        "ascii": "Zaouiet Kounta",
+        "en": "Zaouiet Kounta"
+      },
+      {
+        "arabic": "رقان",
+        "ascii": "Reggane",
+        "en": "Reggane"
+      },
+      {
+        "arabic": "سالي",
+        "ascii": "Sali",
+        "en": "Sali"
+      },
+      {
+        "arabic": "السبع",
+        "ascii": "Sebaa",
+        "en": "Sebaa"
+      },
+      {
+        "arabic": "تسابيت",
+        "ascii": "Tsabit",
+        "en": "Tsabit"
+      }
+    ]
+  },
+  {
+    "code": 2,
+    "arabic": "الشلف",
+    "ascii": "Chlef",
+    "en": "Chlef",
+    "communes": [
+      {
+        "arabic": "تلعصة",
+        "ascii": "Talassa",
+        "en": "Talassa"
+      },
+      {
+        "arabic": "تاجنة",
+        "ascii": "Tadjena",
+        "en": "Tadjena"
+      },
+      {
+        "arabic": "أبو الحسن",
+        "ascii": "Abou El Hassane",
+        "en": "Abou El Hassane"
+      },
+      {
+        "arabic": "الزبوجة",
+        "ascii": "Zeboudja",
+        "en": "Zeboudja"
+      },
+      {
+        "arabic": "بوزغاية",
+        "ascii": "Bouzeghaia",
+        "en": "Bouzeghaia"
+      },
+      {
+        "arabic": "بنايرية",
+        "ascii": "Benairia",
+        "en": "Benairia"
+      },
+      {
+        "arabic": "الحجاج",
+        "ascii": "El Hadjadj",
+        "en": "El Hadjadj"
+      },
+      {
+        "arabic": "أولاد بن عبد القادر",
+        "ascii": "Ouled Ben Abdelkader",
+        "en": "Ouled Ben Abdelkader"
+      },
+      {
+        "arabic": "عين مران",
+        "ascii": "Ain Merane",
+        "en": "Ain Merane"
+      },
+      {
+        "arabic": "الهرانفة",
+        "ascii": "Herenfa",
+        "en": "Herenfa"
+      },
+      {
+        "arabic": "بريرة",
+        "ascii": "Breira",
+        "en": "Breira"
+      },
+      {
+        "arabic": "بني حواء",
+        "ascii": "Beni Haoua",
+        "en": "Beni Haoua"
+      },
+      {
+        "arabic": "وادي قوسين",
+        "ascii": "Oued Goussine",
+        "en": "Oued Goussine"
+      },
+      {
+        "arabic": "أولاد عباس",
+        "ascii": "Ouled Abbes",
+        "en": "Ouled Abbes"
+      },
+      {
+        "arabic": "وادي الفضة",
+        "ascii": "Oued Fodda",
+        "en": "Oued Fodda"
+      },
+      {
+        "arabic": "بني راشد",
+        "ascii": "Beni Rached",
+        "en": "Beni Rached"
+      },
+      {
+        "arabic": "المرسى",
+        "ascii": "El Marsa",
+        "en": "El Marsa"
+      },
+      {
+        "arabic": "مصدق",
+        "ascii": "Moussadek",
+        "en": "Moussadek"
+      },
+      {
+        "arabic": "الشلف",
+        "ascii": "Chlef",
+        "en": "Chlef"
+      },
+      {
+        "arabic": "أم الدروع",
+        "ascii": "Oum Drou",
+        "en": "Oum Drou"
+      },
+      {
+        "arabic": "سنجاس",
+        "ascii": "Sendjas",
+        "en": "Sendjas"
+      },
+      {
+        "arabic": "سيدي عبد الرحمن",
+        "ascii": "Sidi Abderrahmane",
+        "en": "Sidi Abderrahmane"
+      },
+      {
+        "arabic": "سيدي عكاشة",
+        "ascii": "Sidi Akkacha",
+        "en": "Sidi Akkacha"
+      },
+      {
+        "arabic": "تنس",
+        "ascii": "Tenes",
+        "en": "Tenes"
+      },
+      {
+        "arabic": "بني بوعتاب",
+        "ascii": "Beni Bouattab",
+        "en": "Beni Bouattab"
+      },
+      {
+        "arabic": "الكريمية",
+        "ascii": "El Karimia",
+        "en": "El Karimia"
+      },
+      {
+        "arabic": "حرشون",
+        "ascii": "Harchoun",
+        "en": "Harchoun"
+      },
+      {
+        "arabic": "تاوقريت",
+        "ascii": "Taougrit",
+        "en": "Taougrit"
+      },
+      {
+        "arabic": "الظهرة",
+        "ascii": "Dahra",
+        "en": "Dahra"
+      },
+      {
+        "arabic": "الشطية",
+        "ascii": "Chettia",
+        "en": "Chettia"
+      },
+      {
+        "arabic": "أولاد فارس",
+        "ascii": "Ouled Fares",
+        "en": "Ouled Fares"
+      },
+      {
+        "arabic": "الأبيض مجاجة",
+        "ascii": "Labiod Medjadja",
+        "en": "Labiod Medjadja"
+      },
+      {
+        "arabic": "بوقادير",
+        "ascii": "Boukadir",
+        "en": "Boukadir"
+      },
+      {
+        "arabic": "وادي سلي",
+        "ascii": "Oued Sly",
+        "en": "Oued Sly"
+      },
+      {
+        "arabic": "الصبحة",
+        "ascii": "Sobha",
+        "en": "Sobha"
+      }
+    ]
+  },
+  {
+    "code": 3,
+    "arabic": "الأغواط",
+    "ascii": "Laghouat",
+    "en": "Laghouat",
+    "communes": [
+      {
+        "arabic": "تاجموت",
+        "ascii": "Tadjemout",
+        "en": "Tadjemout"
+      },
+      {
+        "arabic": "تاجرونة",
+        "ascii": "Tadjrouna",
+        "en": "Tadjrouna"
+      },
+      {
+        "arabic": "عين ماضي",
+        "ascii": "Ain Madhi",
+        "en": "Ain Madhi"
+      },
+      {
+        "arabic": "الحويطة",
+        "ascii": "El Haouita",
+        "en": "El Haouita"
+      },
+      {
+        "arabic": "الخنق",
+        "ascii": "Kheneg",
+        "en": "Kheneg"
+      },
+      {
+        "arabic": "الأغواط",
+        "ascii": "Laghouat",
+        "en": "Laghouat"
+      },
+      {
+        "arabic": "قصر الحيران",
+        "ascii": "Ksar El Hirane",
+        "en": "Ksar El Hirane"
+      },
+      {
+        "arabic": "بن ناصر بن شهرة",
+        "ascii": "Benacer Benchohra",
+        "en": "Benacer Benchohra"
+      },
+      {
+        "arabic": "العسافية",
+        "ascii": "El Assafia",
+        "en": "El Assafia"
+      },
+      {
+        "arabic": "سيدي مخلوف",
+        "ascii": "Sidi Makhlouf",
+        "en": "Sidi Makhlouf"
+      },
+      {
+        "arabic": "حاسي الدلاعة",
+        "ascii": "Hassi Delaa",
+        "en": "Hassi Delaa"
+      },
+      {
+        "arabic": "حاسي الرمل",
+        "ascii": "Hassi R'Mel",
+        "en": "Hassi R'Mel"
+      }
+    ]
+  },
+  {
+    "code": 4,
+    "arabic": "أم البواقي",
+    "ascii": "Oum El Bouaghi",
+    "en": "Oum El Bouaghi",
+    "communes": [
+      {
+        "arabic": "فكيرينة",
+        "ascii": "Fkirina",
+        "en": "Fkirina"
+      },
+      {
+        "arabic": "وادي نيني",
+        "ascii": "Oued Nini",
+        "en": "Oued Nini"
+      },
+      {
+        "arabic": "الفجوج بوغرارة سعودي",
+        "ascii": "El Fedjoudj Boughrara Saoudi",
+        "en": "El Fedjoudj Boughrara Saoudi"
+      },
+      {
+        "arabic": "عين فكرون",
+        "ascii": "Ain Fekroun",
+        "en": "Ain Fekroun"
+      },
+      {
+        "arabic": "الرحية",
+        "ascii": "Rahia",
+        "en": "Rahia"
+      },
+      {
+        "arabic": "مسكيانة",
+        "ascii": "Meskiana",
+        "en": "Meskiana"
+      },
+      {
+        "arabic": "البلالة",
+        "ascii": "El Belala",
+        "en": "El Belala"
+      },
+      {
+        "arabic": "بحير الشرقي",
+        "ascii": "Behir Chergui",
+        "en": "Behir Chergui"
+      },
+      {
+        "arabic": "قصر الصباحي",
+        "ascii": "Ksar Sbahi",
+        "en": "Ksar Sbahi"
+      },
+      {
+        "arabic": "سوق نعمان",
+        "ascii": "Souk Naamane",
+        "en": "Souk Naamane"
+      },
+      {
+        "arabic": "أولاد زواي",
+        "ascii": "Ouled Zouai",
+        "en": "Ouled Zouai"
+      },
+      {
+        "arabic": "بئر الشهداء",
+        "ascii": "Bir Chouhada",
+        "en": "Bir Chouhada"
+      },
+      {
+        "arabic": "أم البواقي",
+        "ascii": "Oum El Bouaghi",
+        "en": "Oum El Bouaghi"
+      },
+      {
+        "arabic": "عين الزيتون",
+        "ascii": "Ain Zitoun",
+        "en": "Ain Zitoun"
+      },
+      {
+        "arabic": "عين ببوش",
+        "ascii": "Ain Babouche",
+        "en": "Ain Babouche"
+      },
+      {
+        "arabic": "عين الديس",
+        "ascii": "Ain Diss",
+        "en": "Ain Diss"
+      },
+      {
+        "arabic": "عين البيضاء",
+        "ascii": "Ain Beida",
+        "en": "Ain Beida"
+      },
+      {
+        "arabic": "بريش",
+        "ascii": "Berriche",
+        "en": "Berriche"
+      },
+      {
+        "arabic": "الزرق",
+        "ascii": "Zorg",
+        "en": "Zorg"
+      },
+      {
+        "arabic": "عين مليلة",
+        "ascii": "Ain M'lila",
+        "en": "Ain M'lila"
+      },
+      {
+        "arabic": "أولاد قاسم",
+        "ascii": "Ouled Gacem",
+        "en": "Ouled Gacem"
+      },
+      {
+        "arabic": "أولاد حملة",
+        "ascii": "Ouled Hamla",
+        "en": "Ouled Hamla"
+      },
+      {
+        "arabic": "العامرية",
+        "ascii": "El Amiria",
+        "en": "El Amiria"
+      },
+      {
+        "arabic": "سيقوس",
+        "ascii": "Sigus",
+        "en": "Sigus"
+      },
+      {
+        "arabic": "الضلعة",
+        "ascii": "Dhalaa",
+        "en": "Dhalaa"
+      },
+      {
+        "arabic": "الجازية",
+        "ascii": "El Djazia",
+        "en": "El Djazia"
+      },
+      {
+        "arabic": "عين كرشة",
+        "ascii": "Ain Kercha",
+        "en": "Ain Kercha"
+      },
+      {
+        "arabic": "الحرملية",
+        "ascii": "El Harmilia",
+        "en": "El Harmilia"
+      },
+      {
+        "arabic": "هنشير تومغني",
+        "ascii": "Hanchir Toumghani",
+        "en": "Hanchir Toumghani"
+      }
+    ]
+  },
+  {
+    "code": 5,
+    "arabic": "باتنة",
+    "ascii": "Batna",
+    "en": "Batna",
+    "communes": [
+      {
+        "arabic": "معافة",
+        "ascii": "Maafa",
+        "en": "Maafa"
+      },
+      {
+        "arabic": "عين التوتة",
+        "ascii": "Ain Touta",
+        "en": "Ain Touta"
+      },
+      {
+        "arabic": "بني فضالة الحقانية",
+        "ascii": "Beni Fedhala El Hakania",
+        "en": "Beni Fedhala El Hakania"
+      },
+      {
+        "arabic": "أولاد عوف",
+        "ascii": "Ouled Aouf",
+        "en": "Ouled Aouf"
+      },
+      {
+        "arabic": "القصبات",
+        "ascii": "Gosbat",
+        "en": "Gosbat"
+      },
+      {
+        "arabic": "تالخمت",
+        "ascii": "Talkhamt",
+        "en": "Talkhamt"
+      },
+      {
+        "arabic": "رأس العيون",
+        "ascii": "Ras El Aioun",
+        "en": "Ras El Aioun"
+      },
+      {
+        "arabic": "الرحبات",
+        "ascii": "Rahbat",
+        "en": "Rahbat"
+      },
+      {
+        "arabic": "أولاد سلام",
+        "ascii": "Ouled Sellem",
+        "en": "Ouled Sellem"
+      },
+      {
+        "arabic": "القيقبة",
+        "ascii": "Guigba",
+        "en": "Guigba"
+      },
+      {
+        "arabic": "تيمقاد",
+        "ascii": "Timgad",
+        "en": "Timgad"
+      },
+      {
+        "arabic": "أولاد فاضل",
+        "ascii": "Ouled Fadel",
+        "en": "Ouled Fadel"
+      },
+      {
+        "arabic": "تاكسلانت",
+        "ascii": "Taxlent",
+        "en": "Taxlent"
+      },
+      {
+        "arabic": "أولاد سي سليمان",
+        "ascii": "Ouled Si Slimane",
+        "en": "Ouled Si Slimane"
+      },
+      {
+        "arabic": "لمسان",
+        "ascii": "Lemsane",
+        "en": "Lemsane"
+      },
+      {
+        "arabic": "ثنية العابد",
+        "ascii": "Teniet El Abed",
+        "en": "Teniet El Abed"
+      },
+      {
+        "arabic": "شير",
+        "ascii": "Chir",
+        "en": "Chir"
+      },
+      {
+        "arabic": "وادي الطاقة",
+        "ascii": "Oued Taga",
+        "en": "Oued Taga"
+      },
+      {
+        "arabic": "باتنة",
+        "ascii": "Batna",
+        "en": "Batna"
+      },
+      {
+        "arabic": "فسديس",
+        "ascii": "Fesdis",
+        "en": "Fesdis"
+      },
+      {
+        "arabic": "وادي الشعبة",
+        "ascii": "Oued Chaaba",
+        "en": "Oued Chaaba"
+      },
+      {
+        "arabic": "حيدوسة",
+        "ascii": "Hidoussa",
+        "en": "Hidoussa"
+      },
+      {
+        "arabic": "قصر بلزمة",
+        "ascii": "Ksar Belezma",
+        "en": "Ksar Belezma"
+      },
+      {
+        "arabic": "مروانة",
+        "ascii": "Merouana",
+        "en": "Merouana"
+      },
+      {
+        "arabic": "وادي الماء",
+        "ascii": "Oued El Ma",
+        "en": "Oued El Ma"
+      },
+      {
+        "arabic": "لازرو",
+        "ascii": "Lazrou",
+        "en": "Lazrou"
+      },
+      {
+        "arabic": "سريانة",
+        "ascii": "Seriana",
+        "en": "Seriana"
+      },
+      {
+        "arabic": "زانة البيضاء",
+        "ascii": "Zana El Beida",
+        "en": "Zana El Beida"
+      },
+      {
+        "arabic": "منعة",
+        "ascii": "Menaa",
+        "en": "Menaa"
+      },
+      {
+        "arabic": "تغرغار",
+        "ascii": "Tigherghar",
+        "en": "Tigherghar"
+      },
+      {
+        "arabic": "عين ياقوت",
+        "ascii": "Ain Yagout",
+        "en": "Ain Yagout"
+      },
+      {
+        "arabic": "بومية",
+        "ascii": "Boumia",
+        "en": "Boumia"
+      },
+      {
+        "arabic": "جرمة",
+        "ascii": "Djerma",
+        "en": "Djerma"
+      },
+      {
+        "arabic": "المعذر",
+        "ascii": "Elmadher",
+        "en": "Elmadher"
+      },
+      {
+        "arabic": "عيون العصافير",
+        "ascii": "Ouyoun El Assafir",
+        "en": "Ouyoun El Assafir"
+      },
+      {
+        "arabic": "تازولت",
+        "ascii": "Tazoult",
+        "en": "Tazoult"
+      },
+      {
+        "arabic": "بومقر",
+        "ascii": "Boumagueur",
+        "en": "Boumagueur"
+      },
+      {
+        "arabic": "نقاوس",
+        "ascii": "N'Gaous",
+        "en": "N'Gaous"
+      },
+      {
+        "arabic": "سفيان",
+        "ascii": "Sefiane",
+        "en": "Sefiane"
+      },
+      {
+        "arabic": "أريس",
+        "ascii": "Arris",
+        "en": "Arris"
+      },
+      {
+        "arabic": "تيغانمين",
+        "ascii": "Tighanimine",
+        "en": "Tighanimine"
+      },
+      {
+        "arabic": "عين جاسر",
+        "ascii": "Ain Djasser",
+        "en": "Ain Djasser"
+      },
+      {
+        "arabic": "الحاسي",
+        "ascii": "El Hassi",
+        "en": "El Hassi"
+      },
+      {
+        "arabic": "فم الطوب",
+        "ascii": "Foum Toub",
+        "en": "Foum Toub"
+      },
+      {
+        "arabic": "إشمول",
+        "ascii": "Ichmoul",
+        "en": "Ichmoul"
+      },
+      {
+        "arabic": "إينوغيسن",
+        "ascii": "Inoughissene",
+        "en": "Inoughissene"
+      },
+      {
+        "arabic": "بوزينة",
+        "ascii": "Bouzina",
+        "en": "Bouzina"
+      },
+      {
+        "arabic": "لارباع",
+        "ascii": "Larbaa",
+        "en": "Larbaa"
+      },
+      {
+        "arabic": "بولهيلات",
+        "ascii": "Boulhilat",
+        "en": "Boulhilat"
+      },
+      {
+        "arabic": "الشمرة",
+        "ascii": "Chemora",
+        "en": "Chemora"
+      },
+      {
+        "arabic": "غسيرة",
+        "ascii": "Ghassira",
+        "en": "Ghassira"
+      },
+      {
+        "arabic": "كيمل",
+        "ascii": "Kimmel",
+        "en": "Kimmel"
+      },
+      {
+        "arabic": "تكوت",
+        "ascii": "T'Kout",
+        "en": "T'Kout"
+      }
+    ]
+  },
+  {
+    "code": 6,
+    "arabic": "بجاية",
+    "ascii": "Bejaia",
+    "en": "Bejaia",
+    "communes": [
+      {
+        "arabic": "سيدي عياد",
+        "ascii": "Sidi Ayad",
+        "en": "Sidi Ayad"
+      },
+      {
+        "arabic": "الفلاي",
+        "ascii": "Leflaye",
+        "en": "Leflaye"
+      },
+      {
+        "arabic": "سيدي عيش",
+        "ascii": "Sidi-Aich",
+        "en": "Sidi-Aich"
+      },
+      {
+        "arabic": "تيفرة",
+        "ascii": "Tifra",
+        "en": "Tifra"
+      },
+      {
+        "arabic": "تينبدار",
+        "ascii": "Tinebdar",
+        "en": "Tinebdar"
+      },
+      {
+        "arabic": "برباشة",
+        "ascii": "Barbacha",
+        "en": "Barbacha"
+      },
+      {
+        "arabic": "كنديرة",
+        "ascii": "Kendira",
+        "en": "Kendira"
+      },
+      {
+        "arabic": "القصر",
+        "ascii": "El Kseur",
+        "en": "El Kseur"
+      },
+      {
+        "arabic": "فناية الماثن",
+        "ascii": "Fenaia Il Maten",
+        "en": "Fenaia Il Maten"
+      },
+      {
+        "arabic": "توجة",
+        "ascii": "Toudja",
+        "en": "Toudja"
+      },
+      {
+        "arabic": "ذراع القايد",
+        "ascii": "Dra El Caid",
+        "en": "Dra El Caid"
+      },
+      {
+        "arabic": "خراطة",
+        "ascii": "Kherrata",
+        "en": "Kherrata"
+      },
+      {
+        "arabic": "بجاية",
+        "ascii": "Bejaia",
+        "en": "Bejaia"
+      },
+      {
+        "arabic": "وادي غير",
+        "ascii": "Oued Ghir",
+        "en": "Oued Ghir"
+      },
+      {
+        "arabic": "بني معوش",
+        "ascii": "Benimaouche",
+        "en": "Benimaouche"
+      },
+      {
+        "arabic": "بني جليل",
+        "ascii": "Beni Djellil",
+        "en": "Beni Djellil"
+      },
+      {
+        "arabic": "فرعون",
+        "ascii": "Feraoun",
+        "en": "Feraoun"
+      },
+      {
+        "arabic": "سمعون",
+        "ascii": "Smaoun",
+        "en": "Smaoun"
+      },
+      {
+        "arabic": "أميزور",
+        "ascii": "Amizour",
+        "en": "Amizour"
+      },
+      {
+        "arabic": "تيمزريت",
+        "ascii": "Timezrit",
+        "en": "Timezrit"
+      },
+      {
+        "arabic": "مالبو",
+        "ascii": "Melbou",
+        "en": "Melbou"
+      },
+      {
+        "arabic": "سوق لإثنين",
+        "ascii": "Souk El Tenine",
+        "en": "Souk El Tenine"
+      },
+      {
+        "arabic": "تامريجت",
+        "ascii": "Tamridjet",
+        "en": "Tamridjet"
+      },
+      {
+        "arabic": "بوخليفة",
+        "ascii": "Boukhelifa",
+        "en": "Boukhelifa"
+      },
+      {
+        "arabic": "تالة حمزة",
+        "ascii": "Tala Hamza",
+        "en": "Tala Hamza"
+      },
+      {
+        "arabic": "تيشي",
+        "ascii": "Tichy",
+        "en": "Tichy"
+      },
+      {
+        "arabic": "أيت رزين",
+        "ascii": "Ait R'zine",
+        "en": "Ait R'zine"
+      },
+      {
+        "arabic": "إغيل علي",
+        "ascii": "Ighil-Ali",
+        "en": "Ighil-Ali"
+      },
+      {
+        "arabic": "أيت إسماعيل",
+        "ascii": "Ait-Smail",
+        "en": "Ait-Smail"
+      },
+      {
+        "arabic": "درقينة",
+        "ascii": "Darguina",
+        "en": "Darguina"
+      },
+      {
+        "arabic": "تاسكريوت",
+        "ascii": "Taskriout",
+        "en": "Taskriout"
+      },
+      {
+        "arabic": "أوقاس",
+        "ascii": "Aokas",
+        "en": "Aokas"
+      },
+      {
+        "arabic": "تيزي نبربر",
+        "ascii": "Tizi-N'berber",
+        "en": "Tizi-N'berber"
+      },
+      {
+        "arabic": "أدكار",
+        "ascii": "Adekar",
+        "en": "Adekar"
+      },
+      {
+        "arabic": "بني كسيلة",
+        "ascii": "Beni K'sila",
+        "en": "Beni K'sila"
+      },
+      {
+        "arabic": "تاوريرت إغيل",
+        "ascii": "Taourit Ighil",
+        "en": "Taourit Ighil"
+      },
+      {
+        "arabic": "أقبو",
+        "ascii": "Akbou",
+        "en": "Akbou"
+      },
+      {
+        "arabic": "شلاطة",
+        "ascii": "Chellata",
+        "en": "Chellata"
+      },
+      {
+        "arabic": "اغرم",
+        "ascii": "Ighram",
+        "en": "Ighram"
+      },
+      {
+        "arabic": "تامقرة",
+        "ascii": "Tamokra",
+        "en": "Tamokra"
+      },
+      {
+        "arabic": "أمالو",
+        "ascii": "Amalou",
+        "en": "Amalou"
+      },
+      {
+        "arabic": "بوحمزة",
+        "ascii": "Bouhamza",
+        "en": "Bouhamza"
+      },
+      {
+        "arabic": "مسيسنة",
+        "ascii": "M'cisna",
+        "en": "M'cisna"
+      },
+      {
+        "arabic": "صدوق",
+        "ascii": "Seddouk",
+        "en": "Seddouk"
+      },
+      {
+        "arabic": "بني مليكش",
+        "ascii": "Beni-Mallikeche",
+        "en": "Beni-Mallikeche"
+      },
+      {
+        "arabic": "بو جليل",
+        "ascii": "Boudjellil",
+        "en": "Boudjellil"
+      },
+      {
+        "arabic": "تازمالت",
+        "ascii": "Tazmalt",
+        "en": "Tazmalt"
+      },
+      {
+        "arabic": "أكفادو",
+        "ascii": "Akfadou",
+        "en": "Akfadou"
+      },
+      {
+        "arabic": "شميني",
+        "ascii": "Chemini",
+        "en": "Chemini"
+      },
+      {
+        "arabic": "سوق اوفلا",
+        "ascii": "Souk Oufella",
+        "en": "Souk Oufella"
+      },
+      {
+        "arabic": "طيبان",
+        "ascii": "Tibane",
+        "en": "Tibane"
+      },
+      {
+        "arabic": "أوزلاقن",
+        "ascii": "Ouzellaguen",
+        "en": "Ouzellaguen"
+      }
+    ]
+  },
+  {
+    "code": 7,
+    "arabic": "بسكرة",
+    "ascii": "Biskra",
+    "en": "Biskra",
+    "communes": [
+      {
+        "arabic": "الفيض",
+        "ascii": "El Feidh",
+        "en": "El Feidh"
+      },
+      {
+        "arabic": "خنقة سيدي ناجي",
+        "ascii": "Khangat Sidi Nadji",
+        "en": "Khangat Sidi Nadji"
+      },
+      {
+        "arabic": "زريبة الوادي",
+        "ascii": "Zeribet El Oued",
+        "en": "Zeribet El Oued"
+      },
+      {
+        "arabic": "المزيرعة",
+        "ascii": "Meziraa",
+        "en": "Meziraa"
+      },
+      {
+        "arabic": "ليشانة",
+        "ascii": "Lichana",
+        "en": "Lichana"
+      },
+      {
+        "arabic": "بوشقرون",
+        "ascii": "Bouchagroun",
+        "en": "Bouchagroun"
+      },
+      {
+        "arabic": "برج بن عزوز",
+        "ascii": "Bordj Ben Azzouz",
+        "en": "Bordj Ben Azzouz"
+      },
+      {
+        "arabic": "طولقة",
+        "ascii": "Tolga",
+        "en": "Tolga"
+      },
+      {
+        "arabic": "مخادمة",
+        "ascii": "Mekhadma",
+        "en": "Mekhadma"
+      },
+      {
+        "arabic": "مليلي",
+        "ascii": "M'Lili",
+        "en": "M'Lili"
+      },
+      {
+        "arabic": "أورلال",
+        "ascii": "Ourlal",
+        "en": "Ourlal"
+      },
+      {
+        "arabic": "أوماش",
+        "ascii": "Oumache",
+        "en": "Oumache"
+      },
+      {
+        "arabic": "ليوة",
+        "ascii": "Lioua",
+        "en": "Lioua"
+      },
+      {
+        "arabic": "بسكرة",
+        "ascii": "Biskra",
+        "en": "Biskra"
+      },
+      {
+        "arabic": "الحاجب",
+        "ascii": "El Hadjeb",
+        "en": "El Hadjeb"
+      },
+      {
+        "arabic": "فوغالة",
+        "ascii": "Foughala",
+        "en": "Foughala"
+      },
+      {
+        "arabic": "الغروس",
+        "ascii": "El Ghrous",
+        "en": "El Ghrous"
+      },
+      {
+        "arabic": "عين الناقة",
+        "ascii": "Ain Naga",
+        "en": "Ain Naga"
+      },
+      {
+        "arabic": "شتمة",
+        "ascii": "Chetma",
+        "en": "Chetma"
+      },
+      {
+        "arabic": "الحوش",
+        "ascii": "El Haouch",
+        "en": "El Haouch"
+      },
+      {
+        "arabic": "سيدي عقبة",
+        "ascii": "Sidi Okba",
+        "en": "Sidi Okba"
+      },
+      {
+        "arabic": "مشونش",
+        "ascii": "M'Chouneche",
+        "en": "M'Chouneche"
+      }
+    ]
+  },
+  {
+    "code": 8,
+    "arabic": "بشار",
+    "ascii": "Bechar",
+    "en": "Bechar",
+    "communes": [
+      {
+        "arabic": "بشار",
+        "ascii": "Bechar",
+        "en": "Bechar"
+      },
+      {
+        "arabic": "بوكايس",
+        "ascii": "Boukais",
+        "en": "Boukais"
+      },
+      {
+        "arabic": "لحمر",
+        "ascii": "Lahmar",
+        "en": "Lahmar"
+      },
+      {
+        "arabic": "موغل",
+        "ascii": "Mogheul",
+        "en": "Mogheul"
+      },
+      {
+        "arabic": "المريجة",
+        "ascii": "Meridja",
+        "en": "Meridja"
+      },
+      {
+        "arabic": "القنادسة",
+        "ascii": "Kenadsa",
+        "en": "Kenadsa"
+      },
+      {
+        "arabic": "تاغيت",
+        "ascii": "Taghit",
+        "en": "Taghit"
+      },
+      {
+        "arabic": "العبادلة",
+        "ascii": "Abadla",
+        "en": "Abadla"
+      },
+      {
+        "arabic": "عرق فراج",
+        "ascii": "Erg-Ferradj",
+        "en": "Erg-Ferradj"
+      },
+      {
+        "arabic": "مشرع هواري بومدين",
+        "ascii": "Machraa-Houari-Boumediene",
+        "en": "Machraa-Houari-Boumediene"
+      },
+      {
+        "arabic": "بني ونيف",
+        "ascii": "Beni-Ounif",
+        "en": "Beni-Ounif"
+      },
+      {
+        "arabic": "تبلبالة",
+        "ascii": "Tabelbala",
+        "en": "Tabelbala"
+      }
+    ]
+  },
+  {
+    "code": 9,
+    "arabic": "البليدة",
+    "ascii": "Blida",
+    "en": "Blida",
+    "communes": [
+      {
+        "arabic": "بني مراد",
+        "ascii": "Beni Mered",
+        "en": "Beni Mered"
+      },
+      {
+        "arabic": "أولاد يعيش",
+        "ascii": "Ouled Yaich",
+        "en": "Ouled Yaich"
+      },
+      {
+        "arabic": "الشريعة",
+        "ascii": "Chrea",
+        "en": "Chrea"
+      },
+      {
+        "arabic": "اولاد سلامة",
+        "ascii": "Ouled Slama",
+        "en": "Ouled Slama"
+      },
+      {
+        "arabic": "حمام ملوان",
+        "ascii": "Hammam Elouane",
+        "en": "Hammam Elouane"
+      },
+      {
+        "arabic": "بوقرة",
+        "ascii": "Bougara",
+        "en": "Bougara"
+      },
+      {
+        "arabic": "موزاية",
+        "ascii": "Mouzaia",
+        "en": "Mouzaia"
+      },
+      {
+        "arabic": "الشفة",
+        "ascii": "Chiffa",
+        "en": "Chiffa"
+      },
+      {
+        "arabic": "عين الرمانة",
+        "ascii": "Ain Romana",
+        "en": "Ain Romana"
+      },
+      {
+        "arabic": "صوحان",
+        "ascii": "Souhane",
+        "en": "Souhane"
+      },
+      {
+        "arabic": "الأربعاء",
+        "ascii": "Larbaa",
+        "en": "Larbaa"
+      },
+      {
+        "arabic": "الصومعة",
+        "ascii": "Soumaa",
+        "en": "Soumaa"
+      },
+      {
+        "arabic": "قرواو",
+        "ascii": "Guerrouaou",
+        "en": "Guerrouaou"
+      },
+      {
+        "arabic": "بوفاريك",
+        "ascii": "Boufarik",
+        "en": "Boufarik"
+      },
+      {
+        "arabic": "مفتاح",
+        "ascii": "Meftah",
+        "en": "Meftah"
+      },
+      {
+        "arabic": "جبابرة",
+        "ascii": "Djebabra",
+        "en": "Djebabra"
+      },
+      {
+        "arabic": "وادي جر",
+        "ascii": "Oued Djer",
+        "en": "Oued Djer"
+      },
+      {
+        "arabic": "العفرون",
+        "ascii": "El-Affroun",
+        "en": "El-Affroun"
+      },
+      {
+        "arabic": "وادي العلايق",
+        "ascii": "Oued El Alleug",
+        "en": "Oued El Alleug"
+      },
+      {
+        "arabic": "بن خليل",
+        "ascii": "Benkhelil",
+        "en": "Benkhelil"
+      },
+      {
+        "arabic": "بني تامو",
+        "ascii": "Beni-Tamou",
+        "en": "Beni-Tamou"
+      },
+      {
+        "arabic": "الشبلي",
+        "ascii": "Chebli",
+        "en": "Chebli"
+      },
+      {
+        "arabic": "بوعينان",
+        "ascii": "Bouinan",
+        "en": "Bouinan"
+      },
+      {
+        "arabic": "بوعرفة",
+        "ascii": "Bouarfa",
+        "en": "Bouarfa"
+      },
+      {
+        "arabic": "البليدة",
+        "ascii": "Blida",
+        "en": "Blida"
+      }
+    ]
+  },
+  {
+    "code": 10,
+    "arabic": "البويرة",
+    "ascii": "Bouira",
+    "en": "Bouira",
+    "communes": [
+      {
+        "arabic": "عين العلوي",
+        "ascii": "Ain Laloui",
+        "en": "Ain Laloui"
+      },
+      {
+        "arabic": "عين الحجر",
+        "ascii": "Ain El Hadjar",
+        "en": "Ain El Hadjar"
+      },
+      {
+        "arabic": "عين بسام",
+        "ascii": "Ain-Bessem",
+        "en": "Ain-Bessem"
+      },
+      {
+        "arabic": "الحجرة الزرقاء",
+        "ascii": "Hadjera Zerga",
+        "en": "Hadjera Zerga"
+      },
+      {
+        "arabic": "مزدور",
+        "ascii": "Mezdour",
+        "en": "Mezdour"
+      },
+      {
+        "arabic": "تاقديت",
+        "ascii": "Taguedite",
+        "en": "Taguedite"
+      },
+      {
+        "arabic": "برج أوخريص",
+        "ascii": "Bordj Okhriss",
+        "en": "Bordj Okhriss"
+      },
+      {
+        "arabic": "ريدان",
+        "ascii": "Ridane",
+        "en": "Ridane"
+      },
+      {
+        "arabic": "المعمورة",
+        "ascii": "Maamora",
+        "en": "Maamora"
+      },
+      {
+        "arabic": "الحاكمية",
+        "ascii": "El-Hakimia",
+        "en": "El-Hakimia"
+      },
+      {
+        "arabic": "ديرة",
+        "ascii": "Dirah",
+        "en": "Dirah"
+      },
+      {
+        "arabic": "الدشمية",
+        "ascii": "Dechmia",
+        "en": "Dechmia"
+      },
+      {
+        "arabic": "سور الغزلان",
+        "ascii": "Sour El Ghozlane",
+        "en": "Sour El Ghozlane"
+      },
+      {
+        "arabic": "أهل القصر",
+        "ascii": "Ahl El Ksar",
+        "en": "Ahl El Ksar"
+      },
+      {
+        "arabic": "بشلول",
+        "ascii": "Bechloul",
+        "en": "Bechloul"
+      },
+      {
+        "arabic": "العجيبة",
+        "ascii": "El Adjiba",
+        "en": "El Adjiba"
+      },
+      {
+        "arabic": "الأسنام",
+        "ascii": "El Asnam",
+        "en": "El Asnam"
+      },
+      {
+        "arabic": "أولاد راشد",
+        "ascii": "Ouled Rached",
+        "en": "Ouled Rached"
+      },
+      {
+        "arabic": "آث منصور",
+        "ascii": "Ath Mansour",
+        "en": "Ath Mansour"
+      },
+      {
+        "arabic": "سحاريج",
+        "ascii": "Saharidj",
+        "en": "Saharidj"
+      },
+      {
+        "arabic": "أمشدالة",
+        "ascii": "M Chedallah",
+        "en": "M Chedallah"
+      },
+      {
+        "arabic": "حنيف",
+        "ascii": "Hanif",
+        "en": "Hanif"
+      },
+      {
+        "arabic": "شرفة",
+        "ascii": "Chorfa",
+        "en": "Chorfa"
+      },
+      {
+        "arabic": "أغبالو",
+        "ascii": "Aghbalou",
+        "en": "Aghbalou"
+      },
+      {
+        "arabic": "روراوة",
+        "ascii": "Raouraoua",
+        "en": "Raouraoua"
+      },
+      {
+        "arabic": "الخبوزية",
+        "ascii": "El Khabouzia",
+        "en": "El Khabouzia"
+      },
+      {
+        "arabic": "بئر غبالو",
+        "ascii": "Bir Ghbalou",
+        "en": "Bir Ghbalou"
+      },
+      {
+        "arabic": "البويرة",
+        "ascii": "Bouira",
+        "en": "Bouira"
+      },
+      {
+        "arabic": "عين الترك",
+        "ascii": "Ain Turk",
+        "en": "Ain Turk"
+      },
+      {
+        "arabic": "أيت لعزيز",
+        "ascii": "Ait Laaziz",
+        "en": "Ait Laaziz"
+      },
+      {
+        "arabic": "المقراني",
+        "ascii": "El-Mokrani",
+        "en": "El-Mokrani"
+      },
+      {
+        "arabic": "سوق الخميس",
+        "ascii": "Souk El Khemis",
+        "en": "Souk El Khemis"
+      },
+      {
+        "arabic": "أعمر",
+        "ascii": "Aomar",
+        "en": "Aomar"
+      },
+      {
+        "arabic": "جباحية",
+        "ascii": "Djebahia",
+        "en": "Djebahia"
+      },
+      {
+        "arabic": "قادرية",
+        "ascii": "Kadiria",
+        "en": "Kadiria"
+      },
+      {
+        "arabic": "الهاشمية",
+        "ascii": "El Hachimia",
+        "en": "El Hachimia"
+      },
+      {
+        "arabic": "وادي البردي",
+        "ascii": "Oued El Berdi",
+        "en": "Oued El Berdi"
+      },
+      {
+        "arabic": "حيزر",
+        "ascii": "Haizer",
+        "en": "Haizer"
+      },
+      {
+        "arabic": "تاغزوت",
+        "ascii": "Taghzout",
+        "en": "Taghzout"
+      },
+      {
+        "arabic": "بودربالة",
+        "ascii": "Bouderbala",
+        "en": "Bouderbala"
+      },
+      {
+        "arabic": "بوكرم",
+        "ascii": "Boukram",
+        "en": "Boukram"
+      },
+      {
+        "arabic": "قرومة",
+        "ascii": "Guerrouma",
+        "en": "Guerrouma"
+      },
+      {
+        "arabic": "الأخضرية",
+        "ascii": "Lakhdaria",
+        "en": "Lakhdaria"
+      },
+      {
+        "arabic": "معلة",
+        "ascii": "Maala",
+        "en": "Maala"
+      },
+      {
+        "arabic": "زبربر",
+        "ascii": "Z'barbar (El Isseri)",
+        "en": "Z'barbar (El Isseri)"
+      }
+    ]
+  },
+  {
+    "code": 11,
+    "arabic": "تمنراست",
+    "ascii": "Tamanrasset",
+    "en": "Tamanrasset",
+    "communes": [
+      {
+        "arabic": "تاظروك",
+        "ascii": "Tazrouk",
+        "en": "Tazrouk"
+      },
+      {
+        "arabic": "أدلس",
+        "ascii": "Idles",
+        "en": "Idles"
+      },
+      {
+        "arabic": "ابلسة",
+        "ascii": "Abelsa",
+        "en": "Abelsa"
+      },
+      {
+        "arabic": "تمنراست",
+        "ascii": "Tamanrasset",
+        "en": "Tamanrasset"
+      },
+      {
+        "arabic": "عين امقل",
+        "ascii": "Ain Amguel",
+        "en": "Ain Amguel"
+      }
+    ]
+  },
+  {
+    "code": 12,
+    "arabic": "تبسة",
+    "ascii": "Tebessa",
+    "en": "Tebessa",
+    "communes": [
+      {
+        "arabic": "الحويجبات",
+        "ascii": "Lahouidjbet",
+        "en": "Lahouidjbet"
+      },
+      {
+        "arabic": "الماء الابيض",
+        "ascii": "El Ma Labiod",
+        "en": "El Ma Labiod"
+      },
+      {
+        "arabic": "العوينات",
+        "ascii": "El Aouinet",
+        "en": "El Aouinet"
+      },
+      {
+        "arabic": "بوخضرة",
+        "ascii": "Boukhadra",
+        "en": "Boukhadra"
+      },
+      {
+        "arabic": "بئر مقدم",
+        "ascii": "Bir Mokkadem",
+        "en": "Bir Mokkadem"
+      },
+      {
+        "arabic": "قريقر",
+        "ascii": "Gourrigueur",
+        "en": "Gourrigueur"
+      },
+      {
+        "arabic": "الحمامات",
+        "ascii": "Hammamet",
+        "en": "Hammamet"
+      },
+      {
+        "arabic": "بئر الذهب",
+        "ascii": "Bir Dheheb",
+        "en": "Bir Dheheb"
+      },
+      {
+        "arabic": "مرسط",
+        "ascii": "Morsott",
+        "en": "Morsott"
+      },
+      {
+        "arabic": "صفصاف الوسرى",
+        "ascii": "Safsaf El Ouesra",
+        "en": "Safsaf El Ouesra"
+      },
+      {
+        "arabic": "أم علي",
+        "ascii": "Oum Ali",
+        "en": "Oum Ali"
+      },
+      {
+        "arabic": "بكارية",
+        "ascii": "Bekkaria",
+        "en": "Bekkaria"
+      },
+      {
+        "arabic": "بولحاف الدير",
+        "ascii": "Boulhaf Dyr",
+        "en": "Boulhaf Dyr"
+      },
+      {
+        "arabic": "الكويف",
+        "ascii": "El Kouif",
+        "en": "El Kouif"
+      },
+      {
+        "arabic": "الونزة",
+        "ascii": "Ouenza",
+        "en": "Ouenza"
+      },
+      {
+        "arabic": "المريج",
+        "ascii": "El Meridj",
+        "en": "El Meridj"
+      },
+      {
+        "arabic": "عين الزرقاء",
+        "ascii": "Ain Zerga",
+        "en": "Ain Zerga"
+      },
+      {
+        "arabic": "سطح قنطيس",
+        "ascii": "Stah Guentis",
+        "en": "Stah Guentis"
+      },
+      {
+        "arabic": "العقلة",
+        "ascii": "El Ogla",
+        "en": "El Ogla"
+      },
+      {
+        "arabic": "المزرعة",
+        "ascii": "El Mezeraa",
+        "en": "El Mezeraa"
+      },
+      {
+        "arabic": "بجن",
+        "ascii": "Bedjene",
+        "en": "Bedjene"
+      },
+      {
+        "arabic": "ثليجان",
+        "ascii": "Thlidjene",
+        "en": "Thlidjene"
+      },
+      {
+        "arabic": "الشريعة",
+        "ascii": "Cheria",
+        "en": "Cheria"
+      },
+      {
+        "arabic": "تبسة",
+        "ascii": "Tebessa",
+        "en": "Tebessa"
+      }
+    ]
+  },
+  {
+    "code": 13,
+    "arabic": "تلمسان",
+    "ascii": "Tlemcen",
+    "en": "Tlemcen",
+    "communes": [
+      {
+        "arabic": "باب العسة",
+        "ascii": "Bab El Assa",
+        "en": "Bab El Assa"
+      },
+      {
+        "arabic": "سوق الثلاثاء",
+        "ascii": "Souk Thlata",
+        "en": "Souk Thlata"
+      },
+      {
+        "arabic": "السواني",
+        "ascii": "Souani",
+        "en": "Souani"
+      },
+      {
+        "arabic": "تيرني بني هديل",
+        "ascii": "Tirni Beni Hediel",
+        "en": "Tirni Beni Hediel"
+      },
+      {
+        "arabic": "منصورة",
+        "ascii": "Mansourah",
+        "en": "Mansourah"
+      },
+      {
+        "arabic": "بني مستر",
+        "ascii": "Beni Mester",
+        "en": "Beni Mester"
+      },
+      {
+        "arabic": "عين غرابة",
+        "ascii": "Ain Ghoraba",
+        "en": "Ain Ghoraba"
+      },
+      {
+        "arabic": "شتوان",
+        "ascii": "Chetouane",
+        "en": "Chetouane"
+      },
+      {
+        "arabic": "عمير",
+        "ascii": "Amieur",
+        "en": "Amieur"
+      },
+      {
+        "arabic": "عين فزة",
+        "ascii": "Ain Fezza",
+        "en": "Ain Fezza"
+      },
+      {
+        "arabic": "هنين",
+        "ascii": "Honaine",
+        "en": "Honaine"
+      },
+      {
+        "arabic": "بني خلاد",
+        "ascii": "Beni Khellad",
+        "en": "Beni Khellad"
+      },
+      {
+        "arabic": "ندرومة",
+        "ascii": "Nedroma",
+        "en": "Nedroma"
+      },
+      {
+        "arabic": "جبالة",
+        "ascii": "Djebala",
+        "en": "Djebala"
+      },
+      {
+        "arabic": "مسيردة الفواقة",
+        "ascii": "Msirda Fouaga",
+        "en": "Msirda Fouaga"
+      },
+      {
+        "arabic": "مرسى بن مهيدي",
+        "ascii": "Marsa Ben M'Hidi",
+        "en": "Marsa Ben M'Hidi"
+      },
+      {
+        "arabic": "سيدي مجاهد",
+        "ascii": "Sidi Medjahed",
+        "en": "Sidi Medjahed"
+      },
+      {
+        "arabic": "بني بوسعيد",
+        "ascii": "Beni Boussaid",
+        "en": "Beni Boussaid"
+      },
+      {
+        "arabic": "سبدو",
+        "ascii": "Sebdou",
+        "en": "Sebdou"
+      },
+      {
+        "arabic": "بوحلو",
+        "ascii": "Bouhlou",
+        "en": "Bouhlou"
+      },
+      {
+        "arabic": "صبرة",
+        "ascii": "Sabra",
+        "en": "Sabra"
+      },
+      {
+        "arabic": "مغنية",
+        "ascii": "Maghnia",
+        "en": "Maghnia"
+      },
+      {
+        "arabic": "حمام بوغرارة",
+        "ascii": "Hammam Boughrara",
+        "en": "Hammam Boughrara"
+      },
+      {
+        "arabic": "زناتة",
+        "ascii": "Zenata",
+        "en": "Zenata"
+      },
+      {
+        "arabic": "أولاد رياح",
+        "ascii": "Ouled Riyah",
+        "en": "Ouled Riyah"
+      },
+      {
+        "arabic": "الحناية",
+        "ascii": "Hennaya",
+        "en": "Hennaya"
+      },
+      {
+        "arabic": "سيدي العبدلي",
+        "ascii": "Sidi Abdelli",
+        "en": "Sidi Abdelli"
+      },
+      {
+        "arabic": "بن سكران",
+        "ascii": "Bensekrane",
+        "en": "Bensekrane"
+      },
+      {
+        "arabic": "فلاوسن",
+        "ascii": "Fellaoucene",
+        "en": "Fellaoucene"
+      },
+      {
+        "arabic": "عين الكبيرة",
+        "ascii": "Ain Kebira",
+        "en": "Ain Kebira"
+      },
+      {
+        "arabic": "عين فتاح",
+        "ascii": "Ain Fetah",
+        "en": "Ain Fetah"
+      },
+      {
+        "arabic": "تلمسان",
+        "ascii": "Tlemcen",
+        "en": "Tlemcen"
+      },
+      {
+        "arabic": "عين النحالة",
+        "ascii": "Ain Nehala",
+        "en": "Ain Nehala"
+      },
+      {
+        "arabic": "عين تالوت",
+        "ascii": "Ain Tallout",
+        "en": "Ain Tallout"
+      },
+      {
+        "arabic": "عين يوسف",
+        "ascii": "Ain Youcef",
+        "en": "Ain Youcef"
+      },
+      {
+        "arabic": "بني وارسوس",
+        "ascii": "Beni Ouarsous",
+        "en": "Beni Ouarsous"
+      },
+      {
+        "arabic": "الفحول",
+        "ascii": "El Fehoul",
+        "en": "El Fehoul"
+      },
+      {
+        "arabic": "الرمشي",
+        "ascii": "Remchi",
+        "en": "Remchi"
+      },
+      {
+        "arabic": "سبعة شيوخ",
+        "ascii": "Sebaa Chioukh",
+        "en": "Sebaa Chioukh"
+      },
+      {
+        "arabic": "دار يغمراسن",
+        "ascii": "Dar Yaghmouracene",
+        "en": "Dar Yaghmouracene"
+      },
+      {
+        "arabic": "الغزوات",
+        "ascii": "Ghazaouet",
+        "en": "Ghazaouet"
+      },
+      {
+        "arabic": "السواحلية",
+        "ascii": "Souahlia",
+        "en": "Souahlia"
+      },
+      {
+        "arabic": "تيانت",
+        "ascii": "Tianet",
+        "en": "Tianet"
+      },
+      {
+        "arabic": "بني صميل",
+        "ascii": "Beni Semiel",
+        "en": "Beni Semiel"
+      },
+      {
+        "arabic": "وادي الخضر",
+        "ascii": "Oued Lakhdar",
+        "en": "Oued Lakhdar"
+      },
+      {
+        "arabic": "أولاد ميمون",
+        "ascii": "Ouled Mimoun",
+        "en": "Ouled Mimoun"
+      },
+      {
+        "arabic": "بني بهدل",
+        "ascii": "Beni Bahdel",
+        "en": "Beni Bahdel"
+      },
+      {
+        "arabic": "بني سنوس",
+        "ascii": "Beni Snous",
+        "en": "Beni Snous"
+      },
+      {
+        "arabic": "العزايل",
+        "ascii": "Azails",
+        "en": "Azails"
+      }
+    ]
+  },
+  {
+    "code": 14,
+    "arabic": "تيارت",
+    "ascii": "Tiaret",
+    "en": "Tiaret",
+    "communes": [
+      {
+        "arabic": "مهدية",
+        "ascii": "Mahdia",
+        "en": "Mahdia"
+      },
+      {
+        "arabic": "عين دزاريت",
+        "ascii": "Ain Dzarit",
+        "en": "Ain Dzarit"
+      },
+      {
+        "arabic": "السبعين",
+        "ascii": "Sebaine",
+        "en": "Sebaine"
+      },
+      {
+        "arabic": "الناظورة",
+        "ascii": "Nadorah",
+        "en": "Nadorah"
+      },
+      {
+        "arabic": "الفايجة",
+        "ascii": "Faidja",
+        "en": "Faidja"
+      },
+      {
+        "arabic": "سي عبد الغني",
+        "ascii": "Sidi Abdelghani",
+        "en": "Sidi Abdelghani"
+      },
+      {
+        "arabic": "السوقر",
+        "ascii": "Sougueur",
+        "en": "Sougueur"
+      },
+      {
+        "arabic": "توسنينة",
+        "ascii": "Tousnina",
+        "en": "Tousnina"
+      },
+      {
+        "arabic": "مغيلة",
+        "ascii": "Meghila",
+        "en": "Meghila"
+      },
+      {
+        "arabic": "السبت",
+        "ascii": "Sebt",
+        "en": "Sebt"
+      },
+      {
+        "arabic": "سيدي حسني",
+        "ascii": "Sidi Hosni",
+        "en": "Sidi Hosni"
+      },
+      {
+        "arabic": "عين الحديد",
+        "ascii": "Ain El Hadid",
+        "en": "Ain El Hadid"
+      },
+      {
+        "arabic": "فرندة",
+        "ascii": "Frenda",
+        "en": "Frenda"
+      },
+      {
+        "arabic": "تخمرت",
+        "ascii": "Takhemaret",
+        "en": "Takhemaret"
+      },
+      {
+        "arabic": "عين كرمس",
+        "ascii": "Ain Kermes",
+        "en": "Ain Kermes"
+      },
+      {
+        "arabic": "جبيلات الرصفاء",
+        "ascii": "Djebilet Rosfa",
+        "en": "Djebilet Rosfa"
+      },
+      {
+        "arabic": "مادنة",
+        "ascii": "Madna",
+        "en": "Madna"
+      },
+      {
+        "arabic": "مدريسة",
+        "ascii": "Medrissa",
+        "en": "Medrissa"
+      },
+      {
+        "arabic": "سيدي عبد الرحمن",
+        "ascii": "Sidi Abderrahmane",
+        "en": "Sidi Abderrahmane"
+      },
+      {
+        "arabic": "قرطوفة",
+        "ascii": "Guertoufa",
+        "en": "Guertoufa"
+      },
+      {
+        "arabic": "الرحوية",
+        "ascii": "Rahouia",
+        "en": "Rahouia"
+      },
+      {
+        "arabic": "وادي ليلي",
+        "ascii": "Oued Lili",
+        "en": "Oued Lili"
+      },
+      {
+        "arabic": "سيدي علي ملال",
+        "ascii": "Sidi Ali Mellal",
+        "en": "Sidi Ali Mellal"
+      },
+      {
+        "arabic": "تيدة",
+        "ascii": "Tidda",
+        "en": "Tidda"
+      },
+      {
+        "arabic": "جيلالي بن عمار",
+        "ascii": "Djileli Ben Amar",
+        "en": "Djileli Ben Amar"
+      },
+      {
+        "arabic": "مشرع الصفا",
+        "ascii": "Mechraa Sfa",
+        "en": "Mechraa Sfa"
+      },
+      {
+        "arabic": "تاقدمت",
+        "ascii": "Tagdemt",
+        "en": "Tagdemt"
+      },
+      {
+        "arabic": "تيارت",
+        "ascii": "Tiaret",
+        "en": "Tiaret"
+      },
+      {
+        "arabic": "مدروسة",
+        "ascii": "Medroussa",
+        "en": "Medroussa"
+      },
+      {
+        "arabic": "ملاكو",
+        "ascii": "Mellakou",
+        "en": "Mellakou"
+      },
+      {
+        "arabic": "سيدي بختي",
+        "ascii": "Sidi Bakhti",
+        "en": "Sidi Bakhti"
+      },
+      {
+        "arabic": "عين الذهب",
+        "ascii": "Ain Deheb",
+        "en": "Ain Deheb"
+      },
+      {
+        "arabic": "شحيمة",
+        "ascii": "Chehaima",
+        "en": "Chehaima"
+      },
+      {
+        "arabic": "النعيمة",
+        "ascii": "Naima",
+        "en": "Naima"
+      },
+      {
+        "arabic": "عين بوشقيف",
+        "ascii": "Ain Bouchekif",
+        "en": "Ain Bouchekif"
+      },
+      {
+        "arabic": "دحموني",
+        "ascii": "Dahmouni",
+        "en": "Dahmouni"
+      }
+    ]
+  },
+  {
+    "code": 15,
+    "arabic": "تيزي وزو",
+    "ascii": "Tizi Ouzou",
+    "en": "Tizi Ouzou",
+    "communes": [
+      {
+        "arabic": "ميزرانة",
+        "ascii": "Mizrana",
+        "en": "Mizrana"
+      },
+      {
+        "arabic": "إفليسن",
+        "ascii": "Iflissen",
+        "en": "Iflissen"
+      },
+      {
+        "arabic": "تيقزيرت",
+        "ascii": "Tigzirt",
+        "en": "Tigzirt"
+      },
+      {
+        "arabic": "إيجار",
+        "ascii": "Idjeur",
+        "en": "Idjeur"
+      },
+      {
+        "arabic": "بني زيكي",
+        "ascii": "Beni-Zikki",
+        "en": "Beni-Zikki"
+      },
+      {
+        "arabic": "إيلولة أومالو",
+        "ascii": "Illoula Oumalou",
+        "en": "Illoula Oumalou"
+      },
+      {
+        "arabic": "بوزقن",
+        "ascii": "Bouzeguene",
+        "en": "Bouzeguene"
+      },
+      {
+        "arabic": "بني دوالة",
+        "ascii": "Beni-Douala",
+        "en": "Beni-Douala"
+      },
+      {
+        "arabic": "بني عيسي",
+        "ascii": "Beni-Aissi",
+        "en": "Beni-Aissi"
+      },
+      {
+        "arabic": "أيت محمود",
+        "ascii": "Ait-Mahmoud",
+        "en": "Ait-Mahmoud"
+      },
+      {
+        "arabic": "بني زمنزار",
+        "ascii": "Beni Zmenzer",
+        "en": "Beni Zmenzer"
+      },
+      {
+        "arabic": "أقني قغران",
+        "ascii": "Agouni-Gueghrane",
+        "en": "Agouni-Gueghrane"
+      },
+      {
+        "arabic": "أيت بوادو",
+        "ascii": "Ait Bouaddou",
+        "en": "Ait Bouaddou"
+      },
+      {
+        "arabic": "واضية",
+        "ascii": "Ouadhias",
+        "en": "Ouadhias"
+      },
+      {
+        "arabic": "تيزي نثلاثة",
+        "ascii": "Tizi N'tleta",
+        "en": "Tizi N'tleta"
+      },
+      {
+        "arabic": "أغريب",
+        "ascii": "Aghribs",
+        "en": "Aghribs"
+      },
+      {
+        "arabic": "أيت شافع",
+        "ascii": "Ait-Chafaa",
+        "en": "Ait-Chafaa"
+      },
+      {
+        "arabic": "أقرو",
+        "ascii": "Akerrou",
+        "en": "Akerrou"
+      },
+      {
+        "arabic": "أزفون",
+        "ascii": "Azeffoun",
+        "en": "Azeffoun"
+      },
+      {
+        "arabic": "أسي يوسف",
+        "ascii": "Assi-Youcef",
+        "en": "Assi-Youcef"
+      },
+      {
+        "arabic": "بوغني",
+        "ascii": "Boghni",
+        "en": "Boghni"
+      },
+      {
+        "arabic": "بونوح",
+        "ascii": "Bounouh",
+        "en": "Bounouh"
+      },
+      {
+        "arabic": "مشطراس",
+        "ascii": "Mechtras",
+        "en": "Mechtras"
+      },
+      {
+        "arabic": "ذراع بن خدة",
+        "ascii": "Draa-Ben-Khedda",
+        "en": "Draa-Ben-Khedda"
+      },
+      {
+        "arabic": "سيدي نعمان",
+        "ascii": "Sidi Namane",
+        "en": "Sidi Namane"
+      },
+      {
+        "arabic": "تادمايت",
+        "ascii": "Tadmait",
+        "en": "Tadmait"
+      },
+      {
+        "arabic": "تيرمتين",
+        "ascii": "Tirmitine",
+        "en": "Tirmitine"
+      },
+      {
+        "arabic": "أيت بومهدي",
+        "ascii": "Ait Boumahdi",
+        "en": "Ait Boumahdi"
+      },
+      {
+        "arabic": "أيت تودرت",
+        "ascii": "Ait-Toudert",
+        "en": "Ait-Toudert"
+      },
+      {
+        "arabic": "واسيف",
+        "ascii": "Ouacif",
+        "en": "Ouacif"
+      },
+      {
+        "arabic": "أيت خليلي",
+        "ascii": "Ait Khellili",
+        "en": "Ait Khellili"
+      },
+      {
+        "arabic": "مقلع",
+        "ascii": "Mekla",
+        "en": "Mekla"
+      },
+      {
+        "arabic": "صوامع",
+        "ascii": "Souama",
+        "en": "Souama"
+      },
+      {
+        "arabic": "بني يني",
+        "ascii": "Beni-Yenni",
+        "en": "Beni-Yenni"
+      },
+      {
+        "arabic": "إبودرارن",
+        "ascii": "Iboudrarene",
+        "en": "Iboudrarene"
+      },
+      {
+        "arabic": "يطافن",
+        "ascii": "Yatafene",
+        "en": "Yatafene"
+      },
+      {
+        "arabic": "تيزي وزو",
+        "ascii": "Tizi-Ouzou",
+        "en": "Tizi-Ouzou"
+      },
+      {
+        "arabic": "أبي يوسف",
+        "ascii": "Abi-Youcef",
+        "en": "Abi-Youcef"
+      },
+      {
+        "arabic": "عين الحمام",
+        "ascii": "Ain-El-Hammam",
+        "en": "Ain-El-Hammam"
+      },
+      {
+        "arabic": "أيت يحيى",
+        "ascii": "Ait-Yahia",
+        "en": "Ait-Yahia"
+      },
+      {
+        "arabic": "اقبيل",
+        "ascii": "Akbil",
+        "en": "Akbil"
+      },
+      {
+        "arabic": "بوجيمة",
+        "ascii": "Boudjima",
+        "en": "Boudjima"
+      },
+      {
+        "arabic": "ماكودة",
+        "ascii": "Makouda",
+        "en": "Makouda"
+      },
+      {
+        "arabic": "عين الزاوية",
+        "ascii": "Ain-Zaouia",
+        "en": "Ain-Zaouia"
+      },
+      {
+        "arabic": "أيت يحي موسى",
+        "ascii": "Ait Yahia Moussa",
+        "en": "Ait Yahia Moussa"
+      },
+      {
+        "arabic": "ذراع الميزان",
+        "ascii": "Draa-El-Mizan",
+        "en": "Draa-El-Mizan"
+      },
+      {
+        "arabic": "فريقات",
+        "ascii": "Frikat",
+        "en": "Frikat"
+      },
+      {
+        "arabic": "مكيرة",
+        "ascii": "M'kira",
+        "en": "M'kira"
+      },
+      {
+        "arabic": "تيزي غنيف",
+        "ascii": "Tizi-Gheniff",
+        "en": "Tizi-Gheniff"
+      },
+      {
+        "arabic": "إيليلتن",
+        "ascii": "Illilten",
+        "en": "Illilten"
+      },
+      {
+        "arabic": "إمسوحال",
+        "ascii": "Imsouhal",
+        "en": "Imsouhal"
+      },
+      {
+        "arabic": "إفرحونان",
+        "ascii": "Iferhounene",
+        "en": "Iferhounene"
+      },
+      {
+        "arabic": "عزازقة",
+        "ascii": "Azazga",
+        "en": "Azazga"
+      },
+      {
+        "arabic": "فريحة",
+        "ascii": "Freha",
+        "en": "Freha"
+      },
+      {
+        "arabic": "إيفيغاء",
+        "ascii": "Ifigha",
+        "en": "Ifigha"
+      },
+      {
+        "arabic": "إعكورن",
+        "ascii": "Yakourene",
+        "en": "Yakourene"
+      },
+      {
+        "arabic": "زكري",
+        "ascii": "Zekri",
+        "en": "Zekri"
+      },
+      {
+        "arabic": "أيت عقواشة",
+        "ascii": "Ait Aggouacha",
+        "en": "Ait Aggouacha"
+      },
+      {
+        "arabic": "إيرجن",
+        "ascii": "Irdjen",
+        "en": "Irdjen"
+      },
+      {
+        "arabic": "الأربعاء ناث إيراثن",
+        "ascii": "Larbaa Nath Irathen",
+        "en": "Larbaa Nath Irathen"
+      },
+      {
+        "arabic": "أيت أومالو",
+        "ascii": "Ait-Oumalou",
+        "en": "Ait-Oumalou"
+      },
+      {
+        "arabic": "تيزي راشد",
+        "ascii": "Tizi-Rached",
+        "en": "Tizi-Rached"
+      },
+      {
+        "arabic": "أيت عيسى ميمون",
+        "ascii": "Ait-Aissa-Mimoun",
+        "en": "Ait-Aissa-Mimoun"
+      },
+      {
+        "arabic": "واقنون",
+        "ascii": "Ouaguenoun",
+        "en": "Ouaguenoun"
+      },
+      {
+        "arabic": "تيميزار",
+        "ascii": "Timizart",
+        "en": "Timizart"
+      },
+      {
+        "arabic": "معاتقة",
+        "ascii": "Maatkas",
+        "en": "Maatkas"
+      },
+      {
+        "arabic": "سوق الإثنين",
+        "ascii": "Souk-El-Tenine",
+        "en": "Souk-El-Tenine"
+      }
+    ]
+  },
+  {
+    "code": 16,
+    "arabic": "الجزائر",
+    "ascii": "Alger",
+    "en": "Alger",
+    "communes": [
+      {
+        "arabic": "حسين داي",
+        "ascii": "Hussein Dey",
+        "en": "Hussein Dey"
+      },
+      {
+        "arabic": "القبة",
+        "ascii": "Kouba",
+        "en": "Kouba"
+      },
+      {
+        "arabic": "محمد بلوزداد",
+        "ascii": "Mohamed Belouzdad",
+        "en": "Mohamed Belouzdad"
+      },
+      {
+        "arabic": "المغارية",
+        "ascii": "El Magharia",
+        "en": "El Magharia"
+      },
+      {
+        "arabic": "الكاليتوس",
+        "ascii": "Les Eucalyptus",
+        "en": "Les Eucalyptus"
+      },
+      {
+        "arabic": "سيدي موسى",
+        "ascii": "Sidi Moussa",
+        "en": "Sidi Moussa"
+      },
+      {
+        "arabic": "براقي",
+        "ascii": "Baraki",
+        "en": "Baraki"
+      },
+      {
+        "arabic": "عين طاية",
+        "ascii": "Ain Taya",
+        "en": "Ain Taya"
+      },
+      {
+        "arabic": "باب الزوار",
+        "ascii": "Bab Ezzouar",
+        "en": "Bab Ezzouar"
+      },
+      {
+        "arabic": "برج الكيفان",
+        "ascii": "Bordj El Kiffan",
+        "en": "Bordj El Kiffan"
+      },
+      {
+        "arabic": "الدار البيضاء",
+        "ascii": "Dar El Beida",
+        "en": "Dar El Beida"
+      },
+      {
+        "arabic": "المحمدية",
+        "ascii": "Mohammadia",
+        "en": "Mohammadia"
+      },
+      {
+        "arabic": "برج البحري",
+        "ascii": "Bordj El Bahri",
+        "en": "Bordj El Bahri"
+      },
+      {
+        "arabic": "المرسى",
+        "ascii": "El Marsa",
+        "en": "El Marsa"
+      },
+      {
+        "arabic": "بئر توتة",
+        "ascii": "Bir Touta",
+        "en": "Bir Touta"
+      },
+      {
+        "arabic": "اولاد شبل",
+        "ascii": "Ouled Chebel",
+        "en": "Ouled Chebel"
+      },
+      {
+        "arabic": "تسالة المرجة",
+        "ascii": "Tessala El Merdja",
+        "en": "Tessala El Merdja"
+      },
+      {
+        "arabic": "هراوة",
+        "ascii": "Herraoua",
+        "en": "Herraoua"
+      },
+      {
+        "arabic": "رغاية",
+        "ascii": "Reghaia",
+        "en": "Reghaia"
+      },
+      {
+        "arabic": "الرويبة",
+        "ascii": "Rouiba",
+        "en": "Rouiba"
+      },
+      {
+        "arabic": "المعالمة",
+        "ascii": "Maalma",
+        "en": "Maalma"
+      },
+      {
+        "arabic": "الرحمانية",
+        "ascii": "Rahmania",
+        "en": "Rahmania"
+      },
+      {
+        "arabic": "سويدانية",
+        "ascii": "Souidania",
+        "en": "Souidania"
+      },
+      {
+        "arabic": "سطاوالي",
+        "ascii": "Staoueli",
+        "en": "Staoueli"
+      },
+      {
+        "arabic": "زرالدة",
+        "ascii": "Zeralda",
+        "en": "Zeralda"
+      },
+      {
+        "arabic": "بابا حسن",
+        "ascii": "Baba Hassen",
+        "en": "Baba Hassen"
+      },
+      {
+        "arabic": "الدويرة",
+        "ascii": "Douira",
+        "en": "Douira"
+      },
+      {
+        "arabic": "الدرارية",
+        "ascii": "Draria",
+        "en": "Draria"
+      },
+      {
+        "arabic": "العاشور",
+        "ascii": "El Achour",
+        "en": "El Achour"
+      },
+      {
+        "arabic": "الخرايسية",
+        "ascii": "Khraissia",
+        "en": "Khraissia"
+      },
+      {
+        "arabic": "عين بنيان",
+        "ascii": "Ain Benian",
+        "en": "Ain Benian"
+      },
+      {
+        "arabic": "الشراقة",
+        "ascii": "Cheraga",
+        "en": "Cheraga"
+      },
+      {
+        "arabic": "دالي ابراهيم",
+        "ascii": "Dely Ibrahim",
+        "en": "Dely Ibrahim"
+      },
+      {
+        "arabic": "اولاد فايت",
+        "ascii": "Ouled Fayet",
+        "en": "Ouled Fayet"
+      },
+      {
+        "arabic": "الحمامات",
+        "ascii": "Hammamet",
+        "en": "Hammamet"
+      },
+      {
+        "arabic": "الجزائر الوسطى",
+        "ascii": "Alger Centre",
+        "en": "Alger Centre"
+      },
+      {
+        "arabic": "المدنية",
+        "ascii": "El Madania",
+        "en": "El Madania"
+      },
+      {
+        "arabic": "المرادية",
+        "ascii": "El Mouradia",
+        "en": "El Mouradia"
+      },
+      {
+        "arabic": "سيدي امحمد",
+        "ascii": "Sidi M'hamed",
+        "en": "Sidi M'hamed"
+      },
+      {
+        "arabic": "السحاولة",
+        "ascii": "Sehaoula",
+        "en": "Sehaoula"
+      },
+      {
+        "arabic": "بئر مراد رايس",
+        "ascii": "Bir Mourad Rais",
+        "en": "Bir Mourad Rais"
+      },
+      {
+        "arabic": "بئر خادم",
+        "ascii": "Birkhadem",
+        "en": "Birkhadem"
+      },
+      {
+        "arabic": "جسر قسنطينة",
+        "ascii": "Djasr Kasentina",
+        "en": "Djasr Kasentina"
+      },
+      {
+        "arabic": "حيدرة",
+        "ascii": "Hydra",
+        "en": "Hydra"
+      },
+      {
+        "arabic": "بولوغين بن زيري",
+        "ascii": "Bologhine Ibnou Ziri",
+        "en": "Bologhine Ibnou Ziri"
+      },
+      {
+        "arabic": "القصبة",
+        "ascii": "Casbah",
+        "en": "Casbah"
+      },
+      {
+        "arabic": "وادي قريش",
+        "ascii": "Oued Koriche",
+        "en": "Oued Koriche"
+      },
+      {
+        "arabic": "الرايس حميدو",
+        "ascii": "Rais Hamidou",
+        "en": "Rais Hamidou"
+      },
+      {
+        "arabic": "باب الوادي",
+        "ascii": "Bab El Oued",
+        "en": "Bab El Oued"
+      },
+      {
+        "arabic": "ابن عكنون",
+        "ascii": "Ben Aknoun",
+        "en": "Ben Aknoun"
+      },
+      {
+        "arabic": "بني مسوس",
+        "ascii": "Beni Messous",
+        "en": "Beni Messous"
+      },
+      {
+        "arabic": "بوزريعة",
+        "ascii": "Bouzareah",
+        "en": "Bouzareah"
+      },
+      {
+        "arabic": "الابيار",
+        "ascii": "El Biar",
+        "en": "El Biar"
+      },
+      {
+        "arabic": "باش جراح",
+        "ascii": "Bachedjerah",
+        "en": "Bachedjerah"
+      },
+      {
+        "arabic": "بوروبة",
+        "ascii": "Bourouba",
+        "en": "Bourouba"
+      },
+      {
+        "arabic": "الحراش",
+        "ascii": "El Harrach",
+        "en": "El Harrach"
+      },
+      {
+        "arabic": "وادي السمار",
+        "ascii": "Oued Smar",
+        "en": "Oued Smar"
+      }
+    ]
+  },
+  {
+    "code": 17,
+    "arabic": "الجلفة",
+    "ascii": "Djelfa",
+    "en": "Djelfa",
+    "communes": [
+      {
+        "arabic": "حاسي العش",
+        "ascii": "Hassi El Euch",
+        "en": "Hassi El Euch"
+      },
+      {
+        "arabic": "زعفران",
+        "ascii": "Zaafrane",
+        "en": "Zaafrane"
+      },
+      {
+        "arabic": "عين معبد",
+        "ascii": "Ain Maabed",
+        "en": "Ain Maabed"
+      },
+      {
+        "arabic": "حاسي بحبح",
+        "ascii": "Hassi Bahbah",
+        "en": "Hassi Bahbah"
+      },
+      {
+        "arabic": "عين الإبل",
+        "ascii": "Ain El Ibel",
+        "en": "Ain El Ibel"
+      },
+      {
+        "arabic": "تعظميت",
+        "ascii": "Tadmit",
+        "en": "Tadmit"
+      },
+      {
+        "arabic": "زكار",
+        "ascii": "Zaccar",
+        "en": "Zaccar"
+      },
+      {
+        "arabic": "مجبارة",
+        "ascii": "Moudjbara",
+        "en": "Moudjbara"
+      },
+      {
+        "arabic": "القديد",
+        "ascii": "El Gueddid",
+        "en": "El Gueddid"
+      },
+      {
+        "arabic": "الشارف",
+        "ascii": "Charef",
+        "en": "Charef"
+      },
+      {
+        "arabic": "بن يعقوب",
+        "ascii": "Ben Yaagoub",
+        "en": "Ben Yaagoub"
+      },
+      {
+        "arabic": "سيدي بايزيد",
+        "ascii": "Sidi Baizid",
+        "en": "Sidi Baizid"
+      },
+      {
+        "arabic": "مليليحة",
+        "ascii": "M'Liliha",
+        "en": "M'Liliha"
+      },
+      {
+        "arabic": "دار الشيوخ",
+        "ascii": "Dar Chioukh",
+        "en": "Dar Chioukh"
+      },
+      {
+        "arabic": "دويس",
+        "ascii": "Douis",
+        "en": "Douis"
+      },
+      {
+        "arabic": "الادريسية",
+        "ascii": "El Idrissia",
+        "en": "El Idrissia"
+      },
+      {
+        "arabic": "عين الشهداء",
+        "ascii": "Ain Chouhada",
+        "en": "Ain Chouhada"
+      },
+      {
+        "arabic": "الجلفة",
+        "ascii": "Djelfa",
+        "en": "Djelfa"
+      }
+    ]
+  },
+  {
+    "code": 18,
+    "arabic": "جيجل",
+    "ascii": "Jijel",
+    "en": "Jijel",
+    "communes": [
+      {
+        "arabic": "جيجل",
+        "ascii": "Jijel",
+        "en": "Jijel"
+      },
+      {
+        "arabic": "العوانة",
+        "ascii": "El Aouana",
+        "en": "El Aouana"
+      },
+      {
+        "arabic": "سلمى بن زيادة",
+        "ascii": "Selma Benziada",
+        "en": "Selma Benziada"
+      },
+      {
+        "arabic": "أراقن سويسي",
+        "ascii": "Erraguene Souissi",
+        "en": "Erraguene Souissi"
+      },
+      {
+        "arabic": "زيامة منصورية",
+        "ascii": "Ziama Mansouriah",
+        "en": "Ziama Mansouriah"
+      },
+      {
+        "arabic": "بوسيف أولاد عسكر",
+        "ascii": "Boussif Ouled Askeur",
+        "en": "Boussif Ouled Askeur"
+      },
+      {
+        "arabic": "الشحنة",
+        "ascii": "Chahna",
+        "en": "Chahna"
+      },
+      {
+        "arabic": "الامير عبد القادر",
+        "ascii": "Emir Abdelkader",
+        "en": "Emir Abdelkader"
+      },
+      {
+        "arabic": "وجانة",
+        "ascii": "Oudjana",
+        "en": "Oudjana"
+      },
+      {
+        "arabic": "الطاهير",
+        "ascii": "Taher",
+        "en": "Taher"
+      },
+      {
+        "arabic": "الشقفة",
+        "ascii": "Chekfa",
+        "en": "Chekfa"
+      },
+      {
+        "arabic": "القنار نشفي",
+        "ascii": "El Kennar Nouchfi",
+        "en": "El Kennar Nouchfi"
+      },
+      {
+        "arabic": "سيدي عبد العزيز",
+        "ascii": "Sidi Abdelaziz",
+        "en": "Sidi Abdelaziz"
+      },
+      {
+        "arabic": "برج الطهر",
+        "ascii": "Bordj T'har",
+        "en": "Bordj T'har"
+      },
+      {
+        "arabic": "الميلية",
+        "ascii": "El Milia",
+        "en": "El Milia"
+      },
+      {
+        "arabic": "أولاد يحيى خدروش",
+        "ascii": "Ouled Yahia Khadrouch",
+        "en": "Ouled Yahia Khadrouch"
+      },
+      {
+        "arabic": "أولاد رابح",
+        "ascii": "Ouled Rabah",
+        "en": "Ouled Rabah"
+      },
+      {
+        "arabic": "سيدي معروف",
+        "ascii": "Sidi Marouf",
+        "en": "Sidi Marouf"
+      },
+      {
+        "arabic": "غبالة",
+        "ascii": "Ghebala",
+        "en": "Ghebala"
+      },
+      {
+        "arabic": "السطارة",
+        "ascii": "Settara",
+        "en": "Settara"
+      },
+      {
+        "arabic": "بوراوي بلهادف",
+        "ascii": "Bouraoui Belhadef",
+        "en": "Bouraoui Belhadef"
+      },
+      {
+        "arabic": "العنصر",
+        "ascii": "El Ancer",
+        "en": "El Ancer"
+      },
+      {
+        "arabic": "خيري واد عجول",
+        "ascii": "Khiri Oued Adjoul",
+        "en": "Khiri Oued Adjoul"
+      },
+      {
+        "arabic": "الجمعة بني حبيبي",
+        "ascii": "Djemaa Beni Habibi",
+        "en": "Djemaa Beni Habibi"
+      },
+      {
+        "arabic": "جيملة",
+        "ascii": "Djimla",
+        "en": "Djimla"
+      },
+      {
+        "arabic": "بودريعة بني ياجيس",
+        "ascii": "Boudria Beniyadjis",
+        "en": "Boudria Beniyadjis"
+      },
+      {
+        "arabic": "قاوس",
+        "ascii": "Kaous",
+        "en": "Kaous"
+      },
+      {
+        "arabic": "تاكسنة",
+        "ascii": "Texenna",
+        "en": "Texenna"
+      }
+    ]
+  },
+  {
+    "code": 19,
+    "arabic": "سطيف",
+    "ascii": "Setif",
+    "en": "Setif",
+    "communes": [
+      {
+        "arabic": "الرصفة",
+        "ascii": "Rosfa",
+        "en": "Rosfa"
+      },
+      {
+        "arabic": "بوطالب",
+        "ascii": "Boutaleb",
+        "en": "Boutaleb"
+      },
+      {
+        "arabic": "الحامة",
+        "ascii": "Hamma",
+        "en": "Hamma"
+      },
+      {
+        "arabic": "أولاد تبان",
+        "ascii": "Ouled Tebben",
+        "en": "Ouled Tebben"
+      },
+      {
+        "arabic": "صالح باي",
+        "ascii": "Salah Bey",
+        "en": "Salah Bey"
+      },
+      {
+        "arabic": "واد البارد",
+        "ascii": "Oued El Bared",
+        "en": "Oued El Bared"
+      },
+      {
+        "arabic": "تيزي نبشار",
+        "ascii": "Tizi N'bechar",
+        "en": "Tizi N'bechar"
+      },
+      {
+        "arabic": "عموشة",
+        "ascii": "Amoucha",
+        "en": "Amoucha"
+      },
+      {
+        "arabic": "مزلوق",
+        "ascii": "Mezloug",
+        "en": "Mezloug"
+      },
+      {
+        "arabic": "أوريسيا",
+        "ascii": "El Ouricia",
+        "en": "El Ouricia"
+      },
+      {
+        "arabic": "عين عباسة",
+        "ascii": "Ain Abessa",
+        "en": "Ain Abessa"
+      },
+      {
+        "arabic": "عين أرنات",
+        "ascii": "Ain Arnat",
+        "en": "Ain Arnat"
+      },
+      {
+        "arabic": "قلال",
+        "ascii": "Guellal",
+        "en": "Guellal"
+      },
+      {
+        "arabic": "قصر الابطال",
+        "ascii": "Kasr El Abtal",
+        "en": "Kasr El Abtal"
+      },
+      {
+        "arabic": "أولاد سي أحمد",
+        "ascii": "Ouled Si Ahmed",
+        "en": "Ouled Si Ahmed"
+      },
+      {
+        "arabic": "عين ولمان",
+        "ascii": "Ain Oulmene",
+        "en": "Ain Oulmene"
+      },
+      {
+        "arabic": "أيت نوال مزادة",
+        "ascii": "Ait Naoual Mezada",
+        "en": "Ait Naoual Mezada"
+      },
+      {
+        "arabic": "ايت تيزي",
+        "ascii": "Ait-Tizi",
+        "en": "Ait-Tizi"
+      },
+      {
+        "arabic": "بوعنداس",
+        "ascii": "Bouandas",
+        "en": "Bouandas"
+      },
+      {
+        "arabic": "بوسلام",
+        "ascii": "Bousselam",
+        "en": "Bousselam"
+      },
+      {
+        "arabic": "حمام السخنة",
+        "ascii": "Hamam Soukhna",
+        "en": "Hamam Soukhna"
+      },
+      {
+        "arabic": "الطاية",
+        "ascii": "Taya",
+        "en": "Taya"
+      },
+      {
+        "arabic": "التلة",
+        "ascii": "Tella",
+        "en": "Tella"
+      },
+      {
+        "arabic": "عين أزال",
+        "ascii": "Ain Azel",
+        "en": "Ain Azel"
+      },
+      {
+        "arabic": "عين الحجر",
+        "ascii": "Ain Lahdjar",
+        "en": "Ain Lahdjar"
+      },
+      {
+        "arabic": "بيضاء برج",
+        "ascii": "Beidha Bordj",
+        "en": "Beidha Bordj"
+      },
+      {
+        "arabic": "بئر حدادة",
+        "ascii": "Bir Haddada",
+        "en": "Bir Haddada"
+      },
+      {
+        "arabic": "قنزات",
+        "ascii": "Guenzet",
+        "en": "Guenzet"
+      },
+      {
+        "arabic": "حربيل",
+        "ascii": "Harbil",
+        "en": "Harbil"
+      },
+      {
+        "arabic": "عين الروى",
+        "ascii": "Ain-Roua",
+        "en": "Ain-Roua"
+      },
+      {
+        "arabic": "بني وسين",
+        "ascii": "Beni Oussine",
+        "en": "Beni Oussine"
+      },
+      {
+        "arabic": "بوقاعة",
+        "ascii": "Bougaa",
+        "en": "Bougaa"
+      },
+      {
+        "arabic": "ذراع قبيلة",
+        "ascii": "Draa-Kebila",
+        "en": "Draa-Kebila"
+      },
+      {
+        "arabic": "حمام قرقور",
+        "ascii": "Hammam Guergour",
+        "en": "Hammam Guergour"
+      },
+      {
+        "arabic": "سطيف",
+        "ascii": "Setif",
+        "en": "Setif"
+      },
+      {
+        "arabic": "عين الكبيرة",
+        "ascii": "Ain El Kebira",
+        "en": "Ain El Kebira"
+      },
+      {
+        "arabic": "الدهامشة",
+        "ascii": "Dehamcha",
+        "en": "Dehamcha"
+      },
+      {
+        "arabic": "أولاد عدوان",
+        "ascii": "Ouled Addouane",
+        "en": "Ouled Addouane"
+      },
+      {
+        "arabic": "عين السبت",
+        "ascii": "Ain-Sebt",
+        "en": "Ain-Sebt"
+      },
+      {
+        "arabic": "بني عزيز",
+        "ascii": "Beni-Aziz",
+        "en": "Beni-Aziz"
+      },
+      {
+        "arabic": "معاوية",
+        "ascii": "Maaouia",
+        "en": "Maaouia"
+      },
+      {
+        "arabic": "بلاعة",
+        "ascii": "Bellaa",
+        "en": "Bellaa"
+      },
+      {
+        "arabic": "بئر العرش",
+        "ascii": "Bir-El-Arch",
+        "en": "Bir-El-Arch"
+      },
+      {
+        "arabic": "الولجة",
+        "ascii": "El-Ouldja",
+        "en": "El-Ouldja"
+      },
+      {
+        "arabic": "تاشودة",
+        "ascii": "Tachouda",
+        "en": "Tachouda"
+      },
+      {
+        "arabic": "تالة إيفاسن",
+        "ascii": "Tala-Ifacene",
+        "en": "Tala-Ifacene"
+      },
+      {
+        "arabic": "ماوكلان",
+        "ascii": "Maouaklane",
+        "en": "Maouaklane"
+      },
+      {
+        "arabic": "سرج الغول",
+        "ascii": "Serdj-El-Ghoul",
+        "en": "Serdj-El-Ghoul"
+      },
+      {
+        "arabic": "بابور",
+        "ascii": "Babor",
+        "en": "Babor"
+      },
+      {
+        "arabic": "قجال",
+        "ascii": "Guidjel",
+        "en": "Guidjel"
+      },
+      {
+        "arabic": "أولاد صابر",
+        "ascii": "Ouled Sabor",
+        "en": "Ouled Sabor"
+      },
+      {
+        "arabic": "بازر سكرة",
+        "ascii": "Bazer-Sakra",
+        "en": "Bazer-Sakra"
+      },
+      {
+        "arabic": "العلمة",
+        "ascii": "El Eulma",
+        "en": "El Eulma"
+      },
+      {
+        "arabic": "قلتة زرقاء",
+        "ascii": "Guelta Zerka",
+        "en": "Guelta Zerka"
+      },
+      {
+        "arabic": "بني فودة",
+        "ascii": "Beni Fouda",
+        "en": "Beni Fouda"
+      },
+      {
+        "arabic": "جميلة",
+        "ascii": "Djemila",
+        "en": "Djemila"
+      },
+      {
+        "arabic": "عين لقراج",
+        "ascii": "Ain-Legradj",
+        "en": "Ain-Legradj"
+      },
+      {
+        "arabic": "بني شبانة",
+        "ascii": "Beni Chebana",
+        "en": "Beni Chebana"
+      },
+      {
+        "arabic": "بني ورتيلان",
+        "ascii": "Beni Ourtilane",
+        "en": "Beni Ourtilane"
+      },
+      {
+        "arabic": "بني موحلي",
+        "ascii": "Beni-Mouhli",
+        "en": "Beni-Mouhli"
+      }
+    ]
+  },
+  {
+    "code": 20,
+    "arabic": "سعيدة",
+    "ascii": "Saida",
+    "en": "Saida",
+    "communes": [
+      {
+        "arabic": "سعيدة",
+        "ascii": "Saida",
+        "en": "Saida"
+      },
+      {
+        "arabic": "تيرسين",
+        "ascii": "Tircine",
+        "en": "Tircine"
+      },
+      {
+        "arabic": "أولاد إبراهيم",
+        "ascii": "Ouled Brahim",
+        "en": "Ouled Brahim"
+      },
+      {
+        "arabic": "عين السلطان",
+        "ascii": "Ain Soltane",
+        "en": "Ain Soltane"
+      },
+      {
+        "arabic": "المعمورة",
+        "ascii": "Maamora",
+        "en": "Maamora"
+      },
+      {
+        "arabic": "الحساسنة",
+        "ascii": "El Hassasna",
+        "en": "El Hassasna"
+      },
+      {
+        "arabic": "عين السخونة",
+        "ascii": "Ain Sekhouna",
+        "en": "Ain Sekhouna"
+      },
+      {
+        "arabic": "سيدي بوبكر",
+        "ascii": "Sidi Boubekeur",
+        "en": "Sidi Boubekeur"
+      },
+      {
+        "arabic": "أولاد خالد",
+        "ascii": "Ouled Khaled",
+        "en": "Ouled Khaled"
+      },
+      {
+        "arabic": "هونت",
+        "ascii": "Hounet",
+        "en": "Hounet"
+      },
+      {
+        "arabic": "سيدي عمر",
+        "ascii": "Sidi Amar",
+        "en": "Sidi Amar"
+      },
+      {
+        "arabic": "يوب",
+        "ascii": "Youb",
+        "en": "Youb"
+      },
+      {
+        "arabic": "دوي ثابت",
+        "ascii": "Doui Thabet",
+        "en": "Doui Thabet"
+      },
+      {
+        "arabic": "سيدي احمد",
+        "ascii": "Sidi Ahmed",
+        "en": "Sidi Ahmed"
+      },
+      {
+        "arabic": "مولاي العربي",
+        "ascii": "Moulay Larbi",
+        "en": "Moulay Larbi"
+      },
+      {
+        "arabic": "عين الحجر",
+        "ascii": "Ain El Hadjar",
+        "en": "Ain El Hadjar"
+      }
+    ]
+  },
+  {
+    "code": 21,
+    "arabic": "سكيكدة",
+    "ascii": "Skikda",
+    "en": "Skikda",
+    "communes": [
+      {
+        "arabic": "عين بوزيان",
+        "ascii": "Ain Bouziane",
+        "en": "Ain Bouziane"
+      },
+      {
+        "arabic": "بني ولبان",
+        "ascii": "Beni Oulbane",
+        "en": "Beni Oulbane"
+      },
+      {
+        "arabic": "سيدي مزغيش",
+        "ascii": "Sidi Mezghiche",
+        "en": "Sidi Mezghiche"
+      },
+      {
+        "arabic": "صالح بو الشعور",
+        "ascii": "Salah Bouchaour",
+        "en": "Salah Bouchaour"
+      },
+      {
+        "arabic": "زردازة",
+        "ascii": "Zerdezas",
+        "en": "Zerdezas"
+      },
+      {
+        "arabic": "أولاد حبابة",
+        "ascii": "Ouled Habbaba",
+        "en": "Ouled Habbaba"
+      },
+      {
+        "arabic": "مجاز الدشيش",
+        "ascii": "Emjez Edchich",
+        "en": "Emjez Edchich"
+      },
+      {
+        "arabic": "الحروش",
+        "ascii": "El Arrouch",
+        "en": "El Arrouch"
+      },
+      {
+        "arabic": "الحدائق",
+        "ascii": "El Hadaiek",
+        "en": "El Hadaiek"
+      },
+      {
+        "arabic": "بوشطاطة",
+        "ascii": "Bouchetata",
+        "en": "Bouchetata"
+      },
+      {
+        "arabic": "عين زويت",
+        "ascii": "Ain Zouit",
+        "en": "Ain Zouit"
+      },
+      {
+        "arabic": "بني بشير",
+        "ascii": "Beni Bechir",
+        "en": "Beni Bechir"
+      },
+      {
+        "arabic": "رمضان جمال",
+        "ascii": "Ramdane Djamel",
+        "en": "Ramdane Djamel"
+      },
+      {
+        "arabic": "بين الويدان",
+        "ascii": "Bin El Ouiden",
+        "en": "Bin El Ouiden"
+      },
+      {
+        "arabic": "تمالوس",
+        "ascii": "Tamalous",
+        "en": "Tamalous"
+      },
+      {
+        "arabic": "الكركرة",
+        "ascii": "Kerkara",
+        "en": "Kerkara"
+      },
+      {
+        "arabic": "عين قشرة",
+        "ascii": "Ain Kechra",
+        "en": "Ain Kechra"
+      },
+      {
+        "arabic": "الولجة بولبلوط",
+        "ascii": "Ouldja Boulbalout",
+        "en": "Ouldja Boulbalout"
+      },
+      {
+        "arabic": "أم الطوب",
+        "ascii": "Oum Toub",
+        "en": "Oum Toub"
+      },
+      {
+        "arabic": "الغدير",
+        "ascii": "El Ghedir",
+        "en": "El Ghedir"
+      },
+      {
+        "arabic": "السبت",
+        "ascii": "Es Sebt",
+        "en": "Es Sebt"
+      },
+      {
+        "arabic": "عين شرشار",
+        "ascii": "Ain Charchar",
+        "en": "Ain Charchar"
+      },
+      {
+        "arabic": "عزابة",
+        "ascii": "Azzaba",
+        "en": "Azzaba"
+      },
+      {
+        "arabic": "جندل سعدي محمد",
+        "ascii": "Djendel Saadi Mohamed",
+        "en": "Djendel Saadi Mohamed"
+      },
+      {
+        "arabic": "الزيتونة",
+        "ascii": "Zitouna",
+        "en": "Zitouna"
+      },
+      {
+        "arabic": "قنواع",
+        "ascii": "Kanoua",
+        "en": "Kanoua"
+      },
+      {
+        "arabic": "أولاد عطية",
+        "ascii": "Ouled Attia",
+        "en": "Ouled Attia"
+      },
+      {
+        "arabic": "وادي الزهور",
+        "ascii": "Oued Zhour",
+        "en": "Oued Zhour"
+      },
+      {
+        "arabic": "خناق مايو",
+        "ascii": "Khenag Maoune",
+        "en": "Khenag Maoune"
+      },
+      {
+        "arabic": "القل",
+        "ascii": "Collo",
+        "en": "Collo"
+      },
+      {
+        "arabic": "الشرايع",
+        "ascii": "Cheraia",
+        "en": "Cheraia"
+      },
+      {
+        "arabic": "بني زيد",
+        "ascii": "Beni Zid",
+        "en": "Beni Zid"
+      },
+      {
+        "arabic": "المرسى",
+        "ascii": "El Marsa",
+        "en": "El Marsa"
+      },
+      {
+        "arabic": "بن عزوز",
+        "ascii": "Ben Azzouz",
+        "en": "Ben Azzouz"
+      },
+      {
+        "arabic": "بكوش لخضر",
+        "ascii": "Bekkouche Lakhdar",
+        "en": "Bekkouche Lakhdar"
+      },
+      {
+        "arabic": "فلفلة",
+        "ascii": "Filfila",
+        "en": "Filfila"
+      },
+      {
+        "arabic": "حمادي كرومة",
+        "ascii": "Hammadi Krouma",
+        "en": "Hammadi Krouma"
+      },
+      {
+        "arabic": "سكيكدة",
+        "ascii": "Skikda",
+        "en": "Skikda"
+      }
+    ]
+  },
+  {
+    "code": 22,
+    "arabic": "سيدي بلعباس",
+    "ascii": "Sidi Bel Abbes",
+    "en": "Sidi Bel Abbes",
+    "communes": [
+      {
+        "arabic": "سيدي علي بن يوب",
+        "ascii": "Sidi Ali Benyoub",
+        "en": "Sidi Ali Benyoub"
+      },
+      {
+        "arabic": "طابية",
+        "ascii": "Tabia",
+        "en": "Tabia"
+      },
+      {
+        "arabic": "بوخنفيس",
+        "ascii": "Boukhanefis",
+        "en": "Boukhanefis"
+      },
+      {
+        "arabic": "مولاي سليسن",
+        "ascii": "Moulay Slissen",
+        "en": "Moulay Slissen"
+      },
+      {
+        "arabic": "الحصيبة",
+        "ascii": "El Hacaiba",
+        "en": "El Hacaiba"
+      },
+      {
+        "arabic": "عين تندمين",
+        "ascii": "Ain Tindamine",
+        "en": "Ain Tindamine"
+      },
+      {
+        "arabic": "تنيرة",
+        "ascii": "Tenira",
+        "en": "Tenira"
+      },
+      {
+        "arabic": "وادي سفيون",
+        "ascii": "Oued Sefioun",
+        "en": "Oued Sefioun"
+      },
+      {
+        "arabic": "حاسي دحو",
+        "ascii": "Hassi Dahou",
+        "en": "Hassi Dahou"
+      },
+      {
+        "arabic": "بن عشيبة شلية",
+        "ascii": "Benachiba Chelia",
+        "en": "Benachiba Chelia"
+      },
+      {
+        "arabic": "وادي تاوريرة",
+        "ascii": "Oued Taourira",
+        "en": "Oued Taourira"
+      },
+      {
+        "arabic": "مرين",
+        "ascii": "Merine",
+        "en": "Merine"
+      },
+      {
+        "arabic": "تفسور",
+        "ascii": "Tefessour",
+        "en": "Tefessour"
+      },
+      {
+        "arabic": "تاودموت",
+        "ascii": "Taoudmout",
+        "en": "Taoudmout"
+      },
+      {
+        "arabic": "سيدي يعقوب",
+        "ascii": "Sidi Yacoub",
+        "en": "Sidi Yacoub"
+      },
+      {
+        "arabic": "سيدي لحسن",
+        "ascii": "Sidi Lahcene",
+        "en": "Sidi Lahcene"
+      },
+      {
+        "arabic": "سيدي خالد",
+        "ascii": "Sidi Khaled",
+        "en": "Sidi Khaled"
+      },
+      {
+        "arabic": "العمارنة",
+        "ascii": "Amarnas",
+        "en": "Amarnas"
+      },
+      {
+        "arabic": "سيدي ابراهيم",
+        "ascii": "Sidi Brahim",
+        "en": "Sidi Brahim"
+      },
+      {
+        "arabic": "سيدي حمادوش",
+        "ascii": "Sidi Hamadouche",
+        "en": "Sidi Hamadouche"
+      },
+      {
+        "arabic": "مكدرة",
+        "ascii": "Makedra",
+        "en": "Makedra"
+      },
+      {
+        "arabic": "عين البرد",
+        "ascii": "Ain El Berd",
+        "en": "Ain El Berd"
+      },
+      {
+        "arabic": "حاسي زهانة",
+        "ascii": "Hassi Zahana",
+        "en": "Hassi Zahana"
+      },
+      {
+        "arabic": "شيطوان البلايلة",
+        "ascii": "Chetouane Belaila",
+        "en": "Chetouane Belaila"
+      },
+      {
+        "arabic": "بن باديس",
+        "ascii": "Ben Badis",
+        "en": "Ben Badis"
+      },
+      {
+        "arabic": "بضرابين المقراني",
+        "ascii": "Bedrabine El Mokrani",
+        "en": "Bedrabine El Mokrani"
+      },
+      {
+        "arabic": "سفيزف",
+        "ascii": "Sfisef",
+        "en": "Sfisef"
+      },
+      {
+        "arabic": "مسيد",
+        "ascii": "M'cid",
+        "en": "M'cid"
+      },
+      {
+        "arabic": "بوجبهة البرج",
+        "ascii": "Boudjebaa El Bordj",
+        "en": "Boudjebaa El Bordj"
+      },
+      {
+        "arabic": "عين أدن",
+        "ascii": "Ain- Adden",
+        "en": "Ain- Adden"
+      },
+      {
+        "arabic": "سيدي شعيب",
+        "ascii": "Sidi Chaib",
+        "en": "Sidi Chaib"
+      },
+      {
+        "arabic": "مرحوم",
+        "ascii": "Marhoum",
+        "en": "Marhoum"
+      },
+      {
+        "arabic": "بئر الحمام",
+        "ascii": "Bir El Hammam",
+        "en": "Bir El Hammam"
+      },
+      {
+        "arabic": "رجم دموش",
+        "ascii": "Redjem Demouche",
+        "en": "Redjem Demouche"
+      },
+      {
+        "arabic": "راس الماء",
+        "ascii": "Ras El Ma",
+        "en": "Ras El Ma"
+      },
+      {
+        "arabic": "وادي السبع",
+        "ascii": "Oued Sebaa",
+        "en": "Oued Sebaa"
+      },
+      {
+        "arabic": "سيدي بلعباس",
+        "ascii": "Sidi Bel-Abbes",
+        "en": "Sidi Bel-Abbes"
+      },
+      {
+        "arabic": "عين الثريد",
+        "ascii": "Ain Thrid",
+        "en": "Ain Thrid"
+      },
+      {
+        "arabic": "السهالة الثورة",
+        "ascii": "Sehala Thaoura",
+        "en": "Sehala Thaoura"
+      },
+      {
+        "arabic": "تسالة",
+        "ascii": "Tessala",
+        "en": "Tessala"
+      },
+      {
+        "arabic": "بلعربي",
+        "ascii": "Belarbi",
+        "en": "Belarbi"
+      },
+      {
+        "arabic": "مصطفى بن ابراهيم",
+        "ascii": "Mostefa Ben Brahim",
+        "en": "Mostefa Ben Brahim"
+      },
+      {
+        "arabic": "تلموني",
+        "ascii": "Tilmouni",
+        "en": "Tilmouni"
+      },
+      {
+        "arabic": "زروالة",
+        "ascii": "Zerouala",
+        "en": "Zerouala"
+      },
+      {
+        "arabic": "الضاية",
+        "ascii": "Dhaya",
+        "en": "Dhaya"
+      },
+      {
+        "arabic": "مزاورو",
+        "ascii": "Mezaourou",
+        "en": "Mezaourou"
+      },
+      {
+        "arabic": "تغاليمت",
+        "ascii": "Teghalimet",
+        "en": "Teghalimet"
+      },
+      {
+        "arabic": "تلاغ",
+        "ascii": "Telagh",
+        "en": "Telagh"
+      },
+      {
+        "arabic": "عين قادة",
+        "ascii": "Ain Kada",
+        "en": "Ain Kada"
+      },
+      {
+        "arabic": "لمطار",
+        "ascii": "Lamtar",
+        "en": "Lamtar"
+      },
+      {
+        "arabic": "سيدي علي بوسيدي",
+        "ascii": "Sidi Ali Boussidi",
+        "en": "Sidi Ali Boussidi"
+      },
+      {
+        "arabic": "سيدي دحو الزاير",
+        "ascii": "Sidi Dahou Zairs",
+        "en": "Sidi Dahou Zairs"
+      }
+    ]
+  },
+  {
+    "code": 23,
+    "arabic": "عنابة",
+    "ascii": "Annaba",
+    "en": "Annaba",
+    "communes": [
+      {
+        "arabic": "عنابة",
+        "ascii": "Annaba",
+        "en": "Annaba"
+      },
+      {
+        "arabic": "سرايدي",
+        "ascii": "Seraidi",
+        "en": "Seraidi"
+      },
+      {
+        "arabic": "برحال",
+        "ascii": "Berrahal",
+        "en": "Berrahal"
+      },
+      {
+        "arabic": "واد العنب",
+        "ascii": "Oued El Aneb",
+        "en": "Oued El Aneb"
+      },
+      {
+        "arabic": "التريعات",
+        "ascii": "Treat",
+        "en": "Treat"
+      },
+      {
+        "arabic": "الحجار",
+        "ascii": "El Hadjar",
+        "en": "El Hadjar"
+      },
+      {
+        "arabic": "سيدي عمار",
+        "ascii": "Sidi Amar",
+        "en": "Sidi Amar"
+      },
+      {
+        "arabic": "البوني",
+        "ascii": "El Bouni",
+        "en": "El Bouni"
+      },
+      {
+        "arabic": "عين الباردة",
+        "ascii": "Ain El Berda",
+        "en": "Ain El Berda"
+      },
+      {
+        "arabic": "الشرفة",
+        "ascii": "Cheurfa",
+        "en": "Cheurfa"
+      },
+      {
+        "arabic": "العلمة",
+        "ascii": "El Eulma",
+        "en": "El Eulma"
+      },
+      {
+        "arabic": "شطايبي",
+        "ascii": "Chetaibi",
+        "en": "Chetaibi"
+      }
+    ]
+  },
+  {
+    "code": 24,
+    "arabic": "قالمة",
+    "ascii": "Guelma",
+    "en": "Guelma",
+    "communes": [
+      {
+        "arabic": "نشماية",
+        "ascii": "Nechmaya",
+        "en": "Nechmaya"
+      },
+      {
+        "arabic": "بومهرة أحمد",
+        "ascii": "Boumahra Ahmed",
+        "en": "Boumahra Ahmed"
+      },
+      {
+        "arabic": "جبالة الخميسي",
+        "ascii": "Djeballah Khemissi",
+        "en": "Djeballah Khemissi"
+      },
+      {
+        "arabic": "بلخير",
+        "ascii": "Belkheir",
+        "en": "Belkheir"
+      },
+      {
+        "arabic": "بني مزلين",
+        "ascii": "Beni Mezline",
+        "en": "Beni Mezline"
+      },
+      {
+        "arabic": "قلعة بوصبع",
+        "ascii": "Guelaat Bou Sbaa",
+        "en": "Guelaat Bou Sbaa"
+      },
+      {
+        "arabic": "بوحمدان",
+        "ascii": "Bou Hamdane",
+        "en": "Bou Hamdane"
+      },
+      {
+        "arabic": "حمام دباغ",
+        "ascii": "Hammam Debagh",
+        "en": "Hammam Debagh"
+      },
+      {
+        "arabic": "الركنية",
+        "ascii": "Roknia",
+        "en": "Roknia"
+      },
+      {
+        "arabic": "الدهوارة",
+        "ascii": "Dahouara",
+        "en": "Dahouara"
+      },
+      {
+        "arabic": "حمام النبايل",
+        "ascii": "Hammam N'bail",
+        "en": "Hammam N'bail"
+      },
+      {
+        "arabic": "وادي الشحم",
+        "ascii": "Oued Cheham",
+        "en": "Oued Cheham"
+      },
+      {
+        "arabic": "قالمة",
+        "ascii": "Guelma",
+        "en": "Guelma"
+      },
+      {
+        "arabic": "بن جراح",
+        "ascii": "Bendjarah",
+        "en": "Bendjarah"
+      },
+      {
+        "arabic": "عين بن بيضاء",
+        "ascii": "Ain Ben Beida",
+        "en": "Ain Ben Beida"
+      },
+      {
+        "arabic": "بوشقوف",
+        "ascii": "Bouchegouf",
+        "en": "Bouchegouf"
+      },
+      {
+        "arabic": "مجاز الصفاء",
+        "ascii": "Medjez Sfa",
+        "en": "Medjez Sfa"
+      },
+      {
+        "arabic": "وادي فراغة",
+        "ascii": "Oued Ferragha",
+        "en": "Oued Ferragha"
+      },
+      {
+        "arabic": "بوعاتي محمود",
+        "ascii": "Bouati Mahmoud",
+        "en": "Bouati Mahmoud"
+      },
+      {
+        "arabic": "الفجوج",
+        "ascii": "El Fedjoudj",
+        "en": "El Fedjoudj"
+      },
+      {
+        "arabic": "هيليوبوليس",
+        "ascii": "Heliopolis",
+        "en": "Heliopolis"
+      },
+      {
+        "arabic": "مجاز عمار",
+        "ascii": "Medjez Amar",
+        "en": "Medjez Amar"
+      },
+      {
+        "arabic": "هواري بومدين",
+        "ascii": "Houari Boumedienne",
+        "en": "Houari Boumedienne"
+      },
+      {
+        "arabic": "رأس العقبة",
+        "ascii": "Ras El Agba",
+        "en": "Ras El Agba"
+      },
+      {
+        "arabic": "سلاوة عنونة",
+        "ascii": "Sellaoua Announa",
+        "en": "Sellaoua Announa"
+      },
+      {
+        "arabic": "برج صباط",
+        "ascii": "Bordj Sabath",
+        "en": "Bordj Sabath"
+      },
+      {
+        "arabic": "وادي الزناتي",
+        "ascii": "Oued Zenati",
+        "en": "Oued Zenati"
+      },
+      {
+        "arabic": "عين رقادة",
+        "ascii": "Ain Regada",
+        "en": "Ain Regada"
+      },
+      {
+        "arabic": "عين العربي",
+        "ascii": "Ain Larbi",
+        "en": "Ain Larbi"
+      },
+      {
+        "arabic": "عين مخلوف",
+        "ascii": "Ain Makhlouf",
+        "en": "Ain Makhlouf"
+      },
+      {
+        "arabic": "تاملوكة",
+        "ascii": "Tamlouka",
+        "en": "Tamlouka"
+      },
+      {
+        "arabic": "عين صندل",
+        "ascii": "Ain Sandel",
+        "en": "Ain Sandel"
+      },
+      {
+        "arabic": "بوحشانة",
+        "ascii": "Bou Hachana",
+        "en": "Bou Hachana"
+      },
+      {
+        "arabic": "لخزارة",
+        "ascii": "Khezaras",
+        "en": "Khezaras"
+      }
+    ]
+  },
+  {
+    "code": 25,
+    "arabic": "قسنطينة",
+    "ascii": "Constantine",
+    "en": "Constantine",
+    "communes": [
+      {
+        "arabic": "ديدوش مراد",
+        "ascii": "Didouche Mourad",
+        "en": "Didouche Mourad"
+      },
+      {
+        "arabic": "حامة بوزيان",
+        "ascii": "Hamma Bouziane",
+        "en": "Hamma Bouziane"
+      },
+      {
+        "arabic": "بني حميدان",
+        "ascii": "Beni Hamidane",
+        "en": "Beni Hamidane"
+      },
+      {
+        "arabic": "زيغود يوسف",
+        "ascii": "Zighoud Youcef",
+        "en": "Zighoud Youcef"
+      },
+      {
+        "arabic": "عين السمارة",
+        "ascii": "Ain Smara",
+        "en": "Ain Smara"
+      },
+      {
+        "arabic": "الخروب",
+        "ascii": "El Khroub",
+        "en": "El Khroub"
+      },
+      {
+        "arabic": "أولاد رحمون",
+        "ascii": "Ouled Rahmoun",
+        "en": "Ouled Rahmoun"
+      },
+      {
+        "arabic": "عين عبيد",
+        "ascii": "Ain Abid",
+        "en": "Ain Abid"
+      },
+      {
+        "arabic": "أبن باديس الهرية",
+        "ascii": "Ben Badis",
+        "en": "Ben Badis"
+      },
+      {
+        "arabic": "ابن زياد",
+        "ascii": "Ibn Ziad",
+        "en": "Ibn Ziad"
+      },
+      {
+        "arabic": "بوجريو مسعود",
+        "ascii": "Messaoud Boudjeriou",
+        "en": "Messaoud Boudjeriou"
+      },
+      {
+        "arabic": "قسنطينة",
+        "ascii": "Constantine",
+        "en": "Constantine"
+      }
+    ]
+  },
+  {
+    "code": 26,
+    "arabic": "المدية",
+    "ascii": "Medea",
+    "en": "Medea",
+    "communes": [
+      {
+        "arabic": "السواقي",
+        "ascii": "Souagui",
+        "en": "Souagui"
+      },
+      {
+        "arabic": "جواب",
+        "ascii": "Djouab",
+        "en": "Djouab"
+      },
+      {
+        "arabic": "سيدي زهار",
+        "ascii": "Sidi Zahar",
+        "en": "Sidi Zahar"
+      },
+      {
+        "arabic": "سيدي زيان",
+        "ascii": "Sidi Ziane",
+        "en": "Sidi Ziane"
+      },
+      {
+        "arabic": "العزيزية",
+        "ascii": "Al Azizia",
+        "en": "Al Azizia"
+      },
+      {
+        "arabic": "مغراوة",
+        "ascii": "Meghraoua",
+        "en": "Meghraoua"
+      },
+      {
+        "arabic": "ميهوب",
+        "ascii": "Mihoub",
+        "en": "Mihoub"
+      },
+      {
+        "arabic": "حناشة",
+        "ascii": "Hannacha",
+        "en": "Hannacha"
+      },
+      {
+        "arabic": "عوامري",
+        "ascii": "Ouamri",
+        "en": "Ouamri"
+      },
+      {
+        "arabic": "وادي حربيل",
+        "ascii": "Oued Harbil",
+        "en": "Oued Harbil"
+      },
+      {
+        "arabic": "بني سليمان",
+        "ascii": "Beni Slimane",
+        "en": "Beni Slimane"
+      },
+      {
+        "arabic": "بوسكن",
+        "ascii": "Bouskene",
+        "en": "Bouskene"
+      },
+      {
+        "arabic": "سيدي الربيع",
+        "ascii": "Sidi Errabie",
+        "en": "Sidi Errabie"
+      },
+      {
+        "arabic": "بوعيشون",
+        "ascii": "Bouaichoune",
+        "en": "Bouaichoune"
+      },
+      {
+        "arabic": "أولاد بوعشرة",
+        "ascii": "Ouled Bouachra",
+        "en": "Ouled Bouachra"
+      },
+      {
+        "arabic": "سي المحجوب",
+        "ascii": "Si Mahdjoub",
+        "en": "Si Mahdjoub"
+      },
+      {
+        "arabic": "البرواقية",
+        "ascii": "Berrouaghia",
+        "en": "Berrouaghia"
+      },
+      {
+        "arabic": "أولاد دايد",
+        "ascii": "Ouled Deide",
+        "en": "Ouled Deide"
+      },
+      {
+        "arabic": "الربعية",
+        "ascii": "Rebaia",
+        "en": "Rebaia"
+      },
+      {
+        "arabic": "مجبر",
+        "ascii": "Medjebar",
+        "en": "Medjebar"
+      },
+      {
+        "arabic": "ثلاث دوائر",
+        "ascii": "Eddouair",
+        "en": "Eddouair"
+      },
+      {
+        "arabic": "الزبيرية",
+        "ascii": "Zoubiria",
+        "en": "Zoubiria"
+      },
+      {
+        "arabic": "سغوان",
+        "ascii": "Seghouane",
+        "en": "Seghouane"
+      },
+      {
+        "arabic": "العيساوية",
+        "ascii": "Aissaouia",
+        "en": "Aissaouia"
+      },
+      {
+        "arabic": "الحوضان",
+        "ascii": "Deux Bassins",
+        "en": "Deux Bassins"
+      },
+      {
+        "arabic": "مزغنة",
+        "ascii": "Mezghenna",
+        "en": "Mezghenna"
+      },
+      {
+        "arabic": "تابلاط",
+        "ascii": "Tablat",
+        "en": "Tablat"
+      },
+      {
+        "arabic": "ذراع السمار",
+        "ascii": "Draa Essamar",
+        "en": "Draa Essamar"
+      },
+      {
+        "arabic": "المدية",
+        "ascii": "Medea",
+        "en": "Medea"
+      },
+      {
+        "arabic": "تمسقيدة",
+        "ascii": "Tamezguida",
+        "en": "Tamezguida"
+      },
+      {
+        "arabic": "بن شكاو",
+        "ascii": "Benchicao",
+        "en": "Benchicao"
+      },
+      {
+        "arabic": "الحمدانية",
+        "ascii": "El Hamdania",
+        "en": "El Hamdania"
+      },
+      {
+        "arabic": "وزرة",
+        "ascii": "Ouzera",
+        "en": "Ouzera"
+      },
+      {
+        "arabic": "تيزي مهدي",
+        "ascii": "Tizi Mahdi",
+        "en": "Tizi Mahdi"
+      },
+      {
+        "arabic": "بعطة",
+        "ascii": "Baata",
+        "en": "Baata"
+      },
+      {
+        "arabic": "العمارية",
+        "ascii": "El Omaria",
+        "en": "El Omaria"
+      },
+      {
+        "arabic": "أولاد إبراهيم",
+        "ascii": "Ouled Brahim",
+        "en": "Ouled Brahim"
+      },
+      {
+        "arabic": "بئر بن عابد",
+        "ascii": "Bir Ben Abed",
+        "en": "Bir Ben Abed"
+      },
+      {
+        "arabic": "القلب الكبير",
+        "ascii": "El Guelb El Kebir",
+        "en": "El Guelb El Kebir"
+      },
+      {
+        "arabic": "سدراية",
+        "ascii": "Sedraia",
+        "en": "Sedraia"
+      },
+      {
+        "arabic": "بوشراحيل",
+        "ascii": "Bouchrahil",
+        "en": "Bouchrahil"
+      },
+      {
+        "arabic": "خمس جوامع",
+        "ascii": "Khamsa Djoumaa",
+        "en": "Khamsa Djoumaa"
+      },
+      {
+        "arabic": "سيدي نعمان",
+        "ascii": "Sidi Naamane",
+        "en": "Sidi Naamane"
+      }
+    ]
+  },
+  {
+    "code": 27,
+    "arabic": "مستغانم",
+    "ascii": "Mostaganem",
+    "en": "Mostaganem",
+    "communes": [
+      {
+        "arabic": "فرناقة",
+        "ascii": "Fornaka",
+        "en": "Fornaka"
+      },
+      {
+        "arabic": "الحسيان بني ياحي",
+        "ascii": "Hassiane",
+        "en": "Hassiane"
+      },
+      {
+        "arabic": "عين نويسي",
+        "ascii": "Ain-Nouissy",
+        "en": "Ain-Nouissy"
+      },
+      {
+        "arabic": "وادي الخير",
+        "ascii": "Oued El Kheir",
+        "en": "Oued El Kheir"
+      },
+      {
+        "arabic": "عين تادلس",
+        "ascii": "Ain-Tedles",
+        "en": "Ain-Tedles"
+      },
+      {
+        "arabic": "سيدي بلعطار",
+        "ascii": "Sidi Belaattar",
+        "en": "Sidi Belaattar"
+      },
+      {
+        "arabic": "سور",
+        "ascii": "Sour",
+        "en": "Sour"
+      },
+      {
+        "arabic": "حاسي ماماش",
+        "ascii": "Hassi Mameche",
+        "en": "Hassi Mameche"
+      },
+      {
+        "arabic": "مزغران",
+        "ascii": "Mazagran",
+        "en": "Mazagran"
+      },
+      {
+        "arabic": "ستيدية",
+        "ascii": "Stidia",
+        "en": "Stidia"
+      },
+      {
+        "arabic": "عين بودينار",
+        "ascii": "Ain-Boudinar",
+        "en": "Ain-Boudinar"
+      },
+      {
+        "arabic": "خير الدين",
+        "ascii": "Kheir-Eddine",
+        "en": "Kheir-Eddine"
+      },
+      {
+        "arabic": "صيادة",
+        "ascii": "Sayada",
+        "en": "Sayada"
+      },
+      {
+        "arabic": "سيدي علي",
+        "ascii": "Sidi Ali",
+        "en": "Sidi Ali"
+      },
+      {
+        "arabic": "تزقايت",
+        "ascii": "Tazgait",
+        "en": "Tazgait"
+      },
+      {
+        "arabic": "أولاد مع الله",
+        "ascii": "Ouled-Maalah",
+        "en": "Ouled-Maalah"
+      },
+      {
+        "arabic": "بن عبد المالك رمضان",
+        "ascii": "Benabdelmalek Ramdane",
+        "en": "Benabdelmalek Ramdane"
+      },
+      {
+        "arabic": "حجاج",
+        "ascii": "Hadjadj",
+        "en": "Hadjadj"
+      },
+      {
+        "arabic": "سيدي لخضر",
+        "ascii": "Sidi-Lakhdar",
+        "en": "Sidi-Lakhdar"
+      },
+      {
+        "arabic": "مستغانم",
+        "ascii": "Mostaganem",
+        "en": "Mostaganem"
+      },
+      {
+        "arabic": "عشعاشة",
+        "ascii": "Achaacha",
+        "en": "Achaacha"
+      },
+      {
+        "arabic": "خضرة",
+        "ascii": "Khadra",
+        "en": "Khadra"
+      },
+      {
+        "arabic": "نكمارية",
+        "ascii": "Nekmaria",
+        "en": "Nekmaria"
+      },
+      {
+        "arabic": "أولاد بوغالم",
+        "ascii": "Ouled Boughalem",
+        "en": "Ouled Boughalem"
+      },
+      {
+        "arabic": "بوقيراط",
+        "ascii": "Bouguirat",
+        "en": "Bouguirat"
+      },
+      {
+        "arabic": "صفصاف",
+        "ascii": "Safsaf",
+        "en": "Safsaf"
+      },
+      {
+        "arabic": "سيرات",
+        "ascii": "Sirat",
+        "en": "Sirat"
+      },
+      {
+        "arabic": "السوافلية",
+        "ascii": "Souaflia",
+        "en": "Souaflia"
+      },
+      {
+        "arabic": "عين سيدي الشريف",
+        "ascii": "Ain-Sidi Cherif",
+        "en": "Ain-Sidi Cherif"
+      },
+      {
+        "arabic": "ماسرة",
+        "ascii": "Mesra",
+        "en": "Mesra"
+      },
+      {
+        "arabic": "الطواهرية",
+        "ascii": "Touahria",
+        "en": "Touahria"
+      },
+      {
+        "arabic": "منصورة",
+        "ascii": "Mansourah",
+        "en": "Mansourah"
+      }
+    ]
+  },
+  {
+    "code": 28,
+    "arabic": "المسيلة",
+    "ascii": "M'Sila",
+    "en": "M'Sila",
+    "communes": [
+      {
+        "arabic": "المسيلة",
+        "ascii": "M'Sila",
+        "en": "M'Sila"
+      },
+      {
+        "arabic": "شلال",
+        "ascii": "Chellal",
+        "en": "Chellal"
+      },
+      {
+        "arabic": "أولاد ماضي",
+        "ascii": "Ouled Madhi",
+        "en": "Ouled Madhi"
+      },
+      {
+        "arabic": "خطوطي سد الجير",
+        "ascii": "Khetouti Sed El Djir",
+        "en": "Khetouti Sed El Djir"
+      },
+      {
+        "arabic": "المعاريف",
+        "ascii": "Maarif",
+        "en": "Maarif"
+      },
+      {
+        "arabic": "مقرة",
+        "ascii": "Magra",
+        "en": "Magra"
+      },
+      {
+        "arabic": "برهوم",
+        "ascii": "Berhoum",
+        "en": "Berhoum"
+      },
+      {
+        "arabic": "عين الخضراء",
+        "ascii": "Ain Khadra",
+        "en": "Ain Khadra"
+      },
+      {
+        "arabic": "بلعايبة",
+        "ascii": "Belaiba",
+        "en": "Belaiba"
+      },
+      {
+        "arabic": "دهاهنة",
+        "ascii": "Dehahna",
+        "en": "Dehahna"
+      },
+      {
+        "arabic": "سيدي عيسى",
+        "ascii": "Sidi Aissa",
+        "en": "Sidi Aissa"
+      },
+      {
+        "arabic": "بوطي السايح",
+        "ascii": "Bouti Sayah",
+        "en": "Bouti Sayah"
+      },
+      {
+        "arabic": "بني يلمان",
+        "ascii": "Beni Ilmane",
+        "en": "Beni Ilmane"
+      },
+      {
+        "arabic": "عين الحجل",
+        "ascii": "Ain El Hadjel",
+        "en": "Ain El Hadjel"
+      },
+      {
+        "arabic": "سيدي هجرس",
+        "ascii": "Sidi Hadjeres",
+        "en": "Sidi Hadjeres"
+      },
+      {
+        "arabic": "حمام الضلعة",
+        "ascii": "Hammam Dhalaa",
+        "en": "Hammam Dhalaa"
+      },
+      {
+        "arabic": "ونوغة",
+        "ascii": "Ouanougha",
+        "en": "Ouanougha"
+      },
+      {
+        "arabic": "أولاد منصور",
+        "ascii": "Ouled Mansour",
+        "en": "Ouled Mansour"
+      },
+      {
+        "arabic": "تارمونت",
+        "ascii": "Tarmount",
+        "en": "Tarmount"
+      },
+      {
+        "arabic": "أولاد دراج",
+        "ascii": "Ouled Derradj",
+        "en": "Ouled Derradj"
+      },
+      {
+        "arabic": "السوامع",
+        "ascii": "Souamaa",
+        "en": "Souamaa"
+      },
+      {
+        "arabic": "أولاد عدي لقبالة",
+        "ascii": "Ouled Addi Guebala",
+        "en": "Ouled Addi Guebala"
+      },
+      {
+        "arabic": "المعاضيد",
+        "ascii": "Maadid",
+        "en": "Maadid"
+      },
+      {
+        "arabic": "امطارفة",
+        "ascii": "M'Tarfa",
+        "en": "M'Tarfa"
+      }
+    ]
+  },
+  {
+    "code": 29,
+    "arabic": "معسكر",
+    "ascii": "Mascara",
+    "en": "Mascara",
+    "communes": [
+      {
+        "arabic": "وادي الأبطال",
+        "ascii": "Oued El Abtal",
+        "en": "Oued El Abtal"
+      },
+      {
+        "arabic": "سيدي عبد الجبار",
+        "ascii": "Sidi Abdeldjebar",
+        "en": "Sidi Abdeldjebar"
+      },
+      {
+        "arabic": "عين فراح",
+        "ascii": "Ain Ferah",
+        "en": "Ain Ferah"
+      },
+      {
+        "arabic": "سيدي عبد المومن",
+        "ascii": "Sidi Abdelmoumene",
+        "en": "Sidi Abdelmoumene"
+      },
+      {
+        "arabic": "سجرارة",
+        "ascii": "Sedjerara",
+        "en": "Sedjerara"
+      },
+      {
+        "arabic": "مقطع الدوز",
+        "ascii": "Mocta-Douz",
+        "en": "Mocta-Douz"
+      },
+      {
+        "arabic": "فراقيق",
+        "ascii": "Ferraguig",
+        "en": "Ferraguig"
+      },
+      {
+        "arabic": "الغمري",
+        "ascii": "El Ghomri",
+        "en": "El Ghomri"
+      },
+      {
+        "arabic": "المحمدية",
+        "ascii": "Mohammadia",
+        "en": "Mohammadia"
+      },
+      {
+        "arabic": "تيغنيف",
+        "ascii": "Tighennif",
+        "en": "Tighennif"
+      },
+      {
+        "arabic": "سيدي قادة",
+        "ascii": "Sidi Kada",
+        "en": "Sidi Kada"
+      },
+      {
+        "arabic": "السهايلية",
+        "ascii": "Sehailia",
+        "en": "Sehailia"
+      },
+      {
+        "arabic": "زهانة",
+        "ascii": "Zahana",
+        "en": "Zahana"
+      },
+      {
+        "arabic": "القعدة",
+        "ascii": "El Gaada",
+        "en": "El Gaada"
+      },
+      {
+        "arabic": "رأس عين عميروش",
+        "ascii": "Ras El Ain Amirouche",
+        "en": "Ras El Ain Amirouche"
+      },
+      {
+        "arabic": "عقاز",
+        "ascii": "Oggaz",
+        "en": "Oggaz"
+      },
+      {
+        "arabic": "العلايمية",
+        "ascii": "Alaimia",
+        "en": "Alaimia"
+      },
+      {
+        "arabic": "سيق",
+        "ascii": "Sig",
+        "en": "Sig"
+      },
+      {
+        "arabic": "الشرفاء",
+        "ascii": "Chorfa",
+        "en": "Chorfa"
+      },
+      {
+        "arabic": "بوهني",
+        "ascii": "Bou Henni",
+        "en": "Bou Henni"
+      },
+      {
+        "arabic": "المأمونية",
+        "ascii": "El Mamounia",
+        "en": "El Mamounia"
+      },
+      {
+        "arabic": "القطنة",
+        "ascii": "El Gueitena",
+        "en": "El Gueitena"
+      },
+      {
+        "arabic": "بوحنيفية",
+        "ascii": "Bouhanifia",
+        "en": "Bouhanifia"
+      },
+      {
+        "arabic": "حسين",
+        "ascii": "Hacine",
+        "en": "Hacine"
+      },
+      {
+        "arabic": "عين فارس",
+        "ascii": "Ain Fares",
+        "en": "Ain Fares"
+      },
+      {
+        "arabic": "غروس",
+        "ascii": "Gharrous",
+        "en": "Gharrous"
+      },
+      {
+        "arabic": "بنيان",
+        "ascii": "Benian",
+        "en": "Benian"
+      },
+      {
+        "arabic": "عوف",
+        "ascii": "Aouf",
+        "en": "Aouf"
+      },
+      {
+        "arabic": "قرجوم",
+        "ascii": "Guerdjoum",
+        "en": "Guerdjoum"
+      },
+      {
+        "arabic": "وادي التاغية",
+        "ascii": "Oued Taria",
+        "en": "Oued Taria"
+      },
+      {
+        "arabic": "عين أفرص",
+        "ascii": "Ain Frass",
+        "en": "Ain Frass"
+      },
+      {
+        "arabic": "عين فكان",
+        "ascii": "Ain Fekan",
+        "en": "Ain Fekan"
+      },
+      {
+        "arabic": "خلوية",
+        "ascii": "Khalouia",
+        "en": "Khalouia"
+      },
+      {
+        "arabic": "المنور",
+        "ascii": "El Menaouer",
+        "en": "El Menaouer"
+      },
+      {
+        "arabic": "البرج",
+        "ascii": "El Bordj",
+        "en": "El Bordj"
+      },
+      {
+        "arabic": "سيدي بوسعيد",
+        "ascii": "Sidi Boussaid",
+        "en": "Sidi Boussaid"
+      },
+      {
+        "arabic": "المطمور",
+        "ascii": "Matemore",
+        "en": "Matemore"
+      },
+      {
+        "arabic": "ماقضة",
+        "ascii": "Makhda",
+        "en": "Makhda"
+      },
+      {
+        "arabic": "غريس",
+        "ascii": "Ghriss",
+        "en": "Ghriss"
+      },
+      {
+        "arabic": "ماوسة",
+        "ascii": "Maoussa",
+        "en": "Maoussa"
+      },
+      {
+        "arabic": "معسكر",
+        "ascii": "Mascara",
+        "en": "Mascara"
+      },
+      {
+        "arabic": "القرط",
+        "ascii": "El Keurt",
+        "en": "El Keurt"
+      },
+      {
+        "arabic": "فروحة",
+        "ascii": "Froha",
+        "en": "Froha"
+      },
+      {
+        "arabic": "تيزي",
+        "ascii": "Tizi",
+        "en": "Tizi"
+      },
+      {
+        "arabic": "الحشم",
+        "ascii": "El Hachem",
+        "en": "El Hachem"
+      },
+      {
+        "arabic": "نسمط",
+        "ascii": "Nesmot",
+        "en": "Nesmot"
+      },
+      {
+        "arabic": "زلامطة",
+        "ascii": "Zelamta",
+        "en": "Zelamta"
+      }
+    ]
+  },
+  {
+    "code": 30,
+    "arabic": "ورقلة",
+    "ascii": "Ouargla",
+    "en": "Ouargla",
+    "communes": [
+      {
+        "arabic": "ورقلة",
+        "ascii": "Ouargla",
+        "en": "Ouargla"
+      },
+      {
+        "arabic": "الرويسات",
+        "ascii": "Rouissat",
+        "en": "Rouissat"
+      },
+      {
+        "arabic": "حاسي مسعود",
+        "ascii": "Hassi Messaoud",
+        "en": "Hassi Messaoud"
+      },
+      {
+        "arabic": "عين البيضاء",
+        "ascii": "Ain Beida",
+        "en": "Ain Beida"
+      },
+      {
+        "arabic": "حاسي بن عبد الله",
+        "ascii": "Hassi Ben Abdellah",
+        "en": "Hassi Ben Abdellah"
+      },
+      {
+        "arabic": "سيدي خويلد",
+        "ascii": "Sidi Khouiled",
+        "en": "Sidi Khouiled"
+      },
+      {
+        "arabic": "البرمة",
+        "ascii": "El Borma",
+        "en": "El Borma"
+      },
+      {
+        "arabic": "انقوسة",
+        "ascii": "N'goussa",
+        "en": "N'goussa"
+      }
+    ]
+  },
+  {
+    "code": 31,
+    "arabic": "وهران",
+    "ascii": "Oran",
+    "en": "Oran",
+    "communes": [
+      {
+        "arabic": "سيدي الشحمي",
+        "ascii": "Sidi Chami",
+        "en": "Sidi Chami"
+      },
+      {
+        "arabic": "الكرمة",
+        "ascii": "El Kerma",
+        "en": "El Kerma"
+      },
+      {
+        "arabic": "السانية",
+        "ascii": "Es Senia",
+        "en": "Es Senia"
+      },
+      {
+        "arabic": "حاسي مفسوخ",
+        "ascii": "Hassi Mefsoukh",
+        "en": "Hassi Mefsoukh"
+      },
+      {
+        "arabic": "قديل",
+        "ascii": "Gdyel",
+        "en": "Gdyel"
+      },
+      {
+        "arabic": "بن فريحة",
+        "ascii": "Ben Freha",
+        "en": "Ben Freha"
+      },
+      {
+        "arabic": "بئر الجير",
+        "ascii": "Bir El Djir",
+        "en": "Bir El Djir"
+      },
+      {
+        "arabic": "حاسي بن عقبة",
+        "ascii": "Hassi Ben Okba",
+        "en": "Hassi Ben Okba"
+      },
+      {
+        "arabic": "حاسي بونيف",
+        "ascii": "Hassi Bounif",
+        "en": "Hassi Bounif"
+      },
+      {
+        "arabic": "أرزيو",
+        "ascii": "Arzew",
+        "en": "Arzew"
+      },
+      {
+        "arabic": "سيدي بن يبقى",
+        "ascii": "Sidi Ben Yebka",
+        "en": "Sidi Ben Yebka"
+      },
+      {
+        "arabic": "عين البية",
+        "ascii": "Ain Biya",
+        "en": "Ain Biya"
+      },
+      {
+        "arabic": "بطيوة",
+        "ascii": "Bethioua",
+        "en": "Bethioua"
+      },
+      {
+        "arabic": "مرسى الحجاج",
+        "ascii": "Marsat El Hadjadj",
+        "en": "Marsat El Hadjadj"
+      },
+      {
+        "arabic": "عين الترك",
+        "ascii": "Ain Turk",
+        "en": "Ain Turk"
+      },
+      {
+        "arabic": "وهران",
+        "ascii": "Oran",
+        "en": "Oran"
+      },
+      {
+        "arabic": "العنصر",
+        "ascii": "El Ancor",
+        "en": "El Ancor"
+      },
+      {
+        "arabic": "المرسى الكبير",
+        "ascii": "Mers El Kebir",
+        "en": "Mers El Kebir"
+      },
+      {
+        "arabic": "بوسفر",
+        "ascii": "Bousfer",
+        "en": "Bousfer"
+      },
+      {
+        "arabic": "بوفاتيس",
+        "ascii": "Boufatis",
+        "en": "Boufatis"
+      },
+      {
+        "arabic": "البراية",
+        "ascii": "El Braya",
+        "en": "El Braya"
+      },
+      {
+        "arabic": "وادي تليلات",
+        "ascii": "Oued Tlelat",
+        "en": "Oued Tlelat"
+      },
+      {
+        "arabic": "طفراوي",
+        "ascii": "Tafraoui",
+        "en": "Tafraoui"
+      },
+      {
+        "arabic": "عين الكرمة",
+        "ascii": "Ain Kerma",
+        "en": "Ain Kerma"
+      },
+      {
+        "arabic": "بوتليليس",
+        "ascii": "Boutlelis",
+        "en": "Boutlelis"
+      },
+      {
+        "arabic": "مسرغين",
+        "ascii": "Messerghin",
+        "en": "Messerghin"
+      }
+    ]
+  },
+  {
+    "code": 32,
+    "arabic": "البيض",
+    "ascii": "El Bayadh",
+    "en": "El Bayadh",
+    "communes": [
+      {
+        "arabic": "البيض",
+        "ascii": "El Bayadh",
+        "en": "El Bayadh"
+      },
+      {
+        "arabic": "رقاصة",
+        "ascii": "Rogassa",
+        "en": "Rogassa"
+      },
+      {
+        "arabic": "الشقيق",
+        "ascii": "Cheguig",
+        "en": "Cheguig"
+      },
+      {
+        "arabic": "الكاف الأحمر",
+        "ascii": "Kef El Ahmar",
+        "en": "Kef El Ahmar"
+      },
+      {
+        "arabic": "بريزينة",
+        "ascii": "Brezina",
+        "en": "Brezina"
+      },
+      {
+        "arabic": "غسول",
+        "ascii": "Ghassoul",
+        "en": "Ghassoul"
+      },
+      {
+        "arabic": "كراكدة",
+        "ascii": "Krakda",
+        "en": "Krakda"
+      },
+      {
+        "arabic": "بوقطب",
+        "ascii": "Bougtob",
+        "en": "Bougtob"
+      },
+      {
+        "arabic": "الخيثر",
+        "ascii": "El Kheither",
+        "en": "El Kheither"
+      },
+      {
+        "arabic": "توسمولين",
+        "ascii": "Tousmouline",
+        "en": "Tousmouline"
+      },
+      {
+        "arabic": "بوعلام",
+        "ascii": "Boualem",
+        "en": "Boualem"
+      },
+      {
+        "arabic": "سيدي سليمان",
+        "ascii": "Sidi Slimane",
+        "en": "Sidi Slimane"
+      },
+      {
+        "arabic": "سيدي طيفور",
+        "ascii": "Sidi Tifour",
+        "en": "Sidi Tifour"
+      },
+      {
+        "arabic": "ستيتن",
+        "ascii": "Stitten",
+        "en": "Stitten"
+      },
+      {
+        "arabic": "سيدي عامر",
+        "ascii": "Sidi Amar",
+        "en": "Sidi Amar"
+      }
+    ]
+  },
+  {
+    "code": 33,
+    "arabic": "إليزي",
+    "ascii": "Illizi",
+    "en": "Illizi",
+    "communes": [
+      {
+        "arabic": "برج عمر إدريس",
+        "ascii": "Bordj Omar Driss",
+        "en": "Bordj Omar Driss"
+      },
+      {
+        "arabic": "دبداب",
+        "ascii": "Debdeb",
+        "en": "Debdeb"
+      },
+      {
+        "arabic": "إن أمناس",
+        "ascii": "In Amenas",
+        "en": "In Amenas"
+      },
+      {
+        "arabic": "إيليزي",
+        "ascii": "Illizi",
+        "en": "Illizi"
+      }
+    ]
+  },
+  {
+    "code": 34,
+    "arabic": "برج بوعريريج",
+    "ascii": "Bordj Bou Arreridj",
+    "en": "Bordj Bou Arreridj",
+    "communes": [
+      {
+        "arabic": "الحمادية",
+        "ascii": "Elhammadia",
+        "en": "Elhammadia"
+      },
+      {
+        "arabic": "العش",
+        "ascii": "El Euch",
+        "en": "El Euch"
+      },
+      {
+        "arabic": "القصور",
+        "ascii": "Ksour",
+        "en": "Ksour"
+      },
+      {
+        "arabic": "الرابطة",
+        "ascii": "Rabta",
+        "en": "Rabta"
+      },
+      {
+        "arabic": "أولاد سيدي ابراهيم",
+        "ascii": "Ouled Sidi-Brahim",
+        "en": "Ouled Sidi-Brahim"
+      },
+      {
+        "arabic": "عين تاغروت",
+        "ascii": "Ain Taghrout",
+        "en": "Ain Taghrout"
+      },
+      {
+        "arabic": "تيكستار",
+        "ascii": "Tixter",
+        "en": "Tixter"
+      },
+      {
+        "arabic": "بليمور",
+        "ascii": "Belimour",
+        "en": "Belimour"
+      },
+      {
+        "arabic": "العناصر",
+        "ascii": "El Annasseur",
+        "en": "El Annasseur"
+      },
+      {
+        "arabic": "غيلاسة",
+        "ascii": "Ghailasa",
+        "en": "Ghailasa"
+      },
+      {
+        "arabic": "تقلعيت",
+        "ascii": "Taglait",
+        "en": "Taglait"
+      },
+      {
+        "arabic": "برج الغدير",
+        "ascii": "Bordj Ghedir",
+        "en": "Bordj Ghedir"
+      },
+      {
+        "arabic": "سيدي أمبارك",
+        "ascii": "Sidi-Embarek",
+        "en": "Sidi-Embarek"
+      },
+      {
+        "arabic": "خليل",
+        "ascii": "Khelil",
+        "en": "Khelil"
+      },
+      {
+        "arabic": "بئر قاصد علي",
+        "ascii": "Bir Kasdali",
+        "en": "Bir Kasdali"
+      },
+      {
+        "arabic": "تفرق",
+        "ascii": "Tefreg",
+        "en": "Tefreg"
+      },
+      {
+        "arabic": "الماين",
+        "ascii": "El Main",
+        "en": "El Main"
+      },
+      {
+        "arabic": "جعافرة",
+        "ascii": "Djaafra",
+        "en": "Djaafra"
+      },
+      {
+        "arabic": "القلة",
+        "ascii": "Colla",
+        "en": "Colla"
+      },
+      {
+        "arabic": "ثنية النصر",
+        "ascii": "Teniet En Nasr",
+        "en": "Teniet En Nasr"
+      },
+      {
+        "arabic": "الياشير",
+        "ascii": "El Achir",
+        "en": "El Achir"
+      },
+      {
+        "arabic": "حسناوة",
+        "ascii": "Hasnaoua",
+        "en": "Hasnaoua"
+      },
+      {
+        "arabic": "مجانة",
+        "ascii": "Medjana",
+        "en": "Medjana"
+      },
+      {
+        "arabic": "المهير",
+        "ascii": "El M'hir",
+        "en": "El M'hir"
+      },
+      {
+        "arabic": "المنصورة",
+        "ascii": "Mansoura",
+        "en": "Mansoura"
+      },
+      {
+        "arabic": "حرازة",
+        "ascii": "Haraza",
+        "en": "Haraza"
+      },
+      {
+        "arabic": "بن داود",
+        "ascii": "Ben Daoud",
+        "en": "Ben Daoud"
+      },
+      {
+        "arabic": "عين تسرة",
+        "ascii": "Ain Tesra",
+        "en": "Ain Tesra"
+      },
+      {
+        "arabic": "أولاد أبراهم",
+        "ascii": "Ouled Brahem",
+        "en": "Ouled Brahem"
+      },
+      {
+        "arabic": "رأس الوادي",
+        "ascii": "Ras El Oued",
+        "en": "Ras El Oued"
+      },
+      {
+        "arabic": "برج زمورة",
+        "ascii": "Bordj Zemmoura",
+        "en": "Bordj Zemmoura"
+      },
+      {
+        "arabic": "أولاد دحمان",
+        "ascii": "Ouled Dahmane",
+        "en": "Ouled Dahmane"
+      },
+      {
+        "arabic": "تسامرت",
+        "ascii": "Tassamert",
+        "en": "Tassamert"
+      },
+      {
+        "arabic": "برج بوعريريج",
+        "ascii": "Bordj Bou Arreridj",
+        "en": "Bordj Bou Arreridj"
+      }
+    ]
+  },
+  {
+    "code": 35,
+    "arabic": "بومرداس",
+    "ascii": "Boumerdes",
+    "en": "Boumerdes",
+    "communes": [
+      {
+        "arabic": "الخروبة",
+        "ascii": "El Kharrouba",
+        "en": "El Kharrouba"
+      },
+      {
+        "arabic": "بوزقزة قدارة",
+        "ascii": "Bouzegza Keddara",
+        "en": "Bouzegza Keddara"
+      },
+      {
+        "arabic": "أولاد هداج",
+        "ascii": "Ouled Hedadj",
+        "en": "Ouled Hedadj"
+      },
+      {
+        "arabic": "بودواو",
+        "ascii": "Boudouaou",
+        "en": "Boudouaou"
+      },
+      {
+        "arabic": "بودواو البحري",
+        "ascii": "Boudouaou El Bahri",
+        "en": "Boudouaou El Bahri"
+      },
+      {
+        "arabic": "دلس",
+        "ascii": "Dellys",
+        "en": "Dellys"
+      },
+      {
+        "arabic": "بن شود",
+        "ascii": "Ben Choud",
+        "en": "Ben Choud"
+      },
+      {
+        "arabic": "أعفير",
+        "ascii": "Afir",
+        "en": "Afir"
+      },
+      {
+        "arabic": "الثنية",
+        "ascii": "Thenia",
+        "en": "Thenia"
+      },
+      {
+        "arabic": "بني عمران",
+        "ascii": "Beni Amrane",
+        "en": "Beni Amrane"
+      },
+      {
+        "arabic": "عمال",
+        "ascii": "Ammal",
+        "en": "Ammal"
+      },
+      {
+        "arabic": "سوق الحد",
+        "ascii": "Souk El Had",
+        "en": "Souk El Had"
+      },
+      {
+        "arabic": "خميس الخشنة",
+        "ascii": "Khemis El Khechna",
+        "en": "Khemis El Khechna"
+      },
+      {
+        "arabic": "الاربعطاش",
+        "ascii": "Larbatache",
+        "en": "Larbatache"
+      },
+      {
+        "arabic": "أولاد موسى",
+        "ascii": "Ouled Moussa",
+        "en": "Ouled Moussa"
+      },
+      {
+        "arabic": "حمادي",
+        "ascii": "Hammedi",
+        "en": "Hammedi"
+      },
+      {
+        "arabic": "تيمزريت",
+        "ascii": "Timezrit",
+        "en": "Timezrit"
+      },
+      {
+        "arabic": "زموري",
+        "ascii": "Zemmouri",
+        "en": "Zemmouri"
+      },
+      {
+        "arabic": "لقاطة",
+        "ascii": "Leghata",
+        "en": "Leghata"
+      },
+      {
+        "arabic": "جنات",
+        "ascii": "Djinet",
+        "en": "Djinet"
+      },
+      {
+        "arabic": "برج منايل",
+        "ascii": "Bordj Menaiel",
+        "en": "Bordj Menaiel"
+      },
+      {
+        "arabic": "يسر",
+        "ascii": "Isser",
+        "en": "Isser"
+      },
+      {
+        "arabic": "شعبة العامر",
+        "ascii": "Chabet El Ameur",
+        "en": "Chabet El Ameur"
+      },
+      {
+        "arabic": "سي مصطفى",
+        "ascii": "Si Mustapha",
+        "en": "Si Mustapha"
+      },
+      {
+        "arabic": "أولاد عيسى",
+        "ascii": "Ouled Aissa",
+        "en": "Ouled Aissa"
+      },
+      {
+        "arabic": "الناصرية",
+        "ascii": "Naciria",
+        "en": "Naciria"
+      },
+      {
+        "arabic": "سيدي داود",
+        "ascii": "Sidi Daoud",
+        "en": "Sidi Daoud"
+      },
+      {
+        "arabic": "بغلية",
+        "ascii": "Baghlia",
+        "en": "Baghlia"
+      },
+      {
+        "arabic": "تاورقة",
+        "ascii": "Taourga",
+        "en": "Taourga"
+      },
+      {
+        "arabic": "تيجلابين",
+        "ascii": "Tidjelabine",
+        "en": "Tidjelabine"
+      },
+      {
+        "arabic": "بومرداس",
+        "ascii": "Boumerdes",
+        "en": "Boumerdes"
+      },
+      {
+        "arabic": "قورصو",
+        "ascii": "Corso",
+        "en": "Corso"
+      }
+    ]
+  },
+  {
+    "code": 36,
+    "arabic": "الطارف",
+    "ascii": "El Tarf",
+    "en": "El Tarf",
+    "communes": [
+      {
+        "arabic": "عين العسل",
+        "ascii": "Ain El Assel",
+        "en": "Ain El Assel"
+      },
+      {
+        "arabic": "بوقوس",
+        "ascii": "Bougous",
+        "en": "Bougous"
+      },
+      {
+        "arabic": "الطارف",
+        "ascii": "El Tarf",
+        "en": "El Tarf"
+      },
+      {
+        "arabic": "الزيتونة",
+        "ascii": "Zitouna",
+        "en": "Zitouna"
+      },
+      {
+        "arabic": "البسباس",
+        "ascii": "Besbes",
+        "en": "Besbes"
+      },
+      {
+        "arabic": "زريزر",
+        "ascii": "Zerizer",
+        "en": "Zerizer"
+      },
+      {
+        "arabic": "عصفور",
+        "ascii": "Asfour",
+        "en": "Asfour"
+      },
+      {
+        "arabic": "عين الكرمة",
+        "ascii": "Ain Kerma",
+        "en": "Ain Kerma"
+      },
+      {
+        "arabic": "بوحجار",
+        "ascii": "Bouhadjar",
+        "en": "Bouhadjar"
+      },
+      {
+        "arabic": "حمام بني صالح",
+        "ascii": "Hammam Beni Salah",
+        "en": "Hammam Beni Salah"
+      },
+      {
+        "arabic": "وادي الزيتون",
+        "ascii": "Oued Zitoun",
+        "en": "Oued Zitoun"
+      },
+      {
+        "arabic": "بن مهيدي",
+        "ascii": "Ben M Hidi",
+        "en": "Ben M Hidi"
+      },
+      {
+        "arabic": "بريحان",
+        "ascii": "Berrihane",
+        "en": "Berrihane"
+      },
+      {
+        "arabic": "الشط",
+        "ascii": "Echatt",
+        "en": "Echatt"
+      },
+      {
+        "arabic": "شبيطة مختار",
+        "ascii": "Chebaita Mokhtar",
+        "en": "Chebaita Mokhtar"
+      },
+      {
+        "arabic": "شحاني",
+        "ascii": "Chihani",
+        "en": "Chihani"
+      },
+      {
+        "arabic": "الذرعان",
+        "ascii": "Drean",
+        "en": "Drean"
+      },
+      {
+        "arabic": "العيون",
+        "ascii": "El Aioun",
+        "en": "El Aioun"
+      },
+      {
+        "arabic": "القالة",
+        "ascii": "El Kala",
+        "en": "El Kala"
+      },
+      {
+        "arabic": "السوارخ",
+        "ascii": "Souarekh",
+        "en": "Souarekh"
+      },
+      {
+        "arabic": "رمل السوق",
+        "ascii": "Raml Souk",
+        "en": "Raml Souk"
+      },
+      {
+        "arabic": "بوثلجة",
+        "ascii": "Bouteldja",
+        "en": "Bouteldja"
+      },
+      {
+        "arabic": "الشافية",
+        "ascii": "Chefia",
+        "en": "Chefia"
+      },
+      {
+        "arabic": "بحيرة الطيور",
+        "ascii": "Lac Des Oiseaux",
+        "en": "Lac Des Oiseaux"
+      }
+    ]
+  },
+  {
+    "code": 37,
+    "arabic": "تندوف",
+    "ascii": "Tindouf",
+    "en": "Tindouf",
+    "communes": [
+      {
+        "arabic": "تندوف",
+        "ascii": "Tindouf",
+        "en": "Tindouf"
+      },
+      {
+        "arabic": "أم العسل",
+        "ascii": "Oum El Assel",
+        "en": "Oum El Assel"
+      }
+    ]
+  },
+  {
+    "code": 38,
+    "arabic": "تسمسيلت",
+    "ascii": "Tissemsilt",
+    "en": "Tissemsilt",
+    "communes": [
+      {
+        "arabic": "خميستي",
+        "ascii": "Khemisti",
+        "en": "Khemisti"
+      },
+      {
+        "arabic": "العيون",
+        "ascii": "Layoune",
+        "en": "Layoune"
+      },
+      {
+        "arabic": "ثنية الاحد",
+        "ascii": "Theniet El Had",
+        "en": "Theniet El Had"
+      },
+      {
+        "arabic": "سيدي بوتوشنت",
+        "ascii": "Sidi Boutouchent",
+        "en": "Sidi Boutouchent"
+      },
+      {
+        "arabic": "أولاد بسام",
+        "ascii": "Ouled Bessam",
+        "en": "Ouled Bessam"
+      },
+      {
+        "arabic": "تيسمسيلت",
+        "ascii": "Tissemsilt",
+        "en": "Tissemsilt"
+      },
+      {
+        "arabic": "سيدي العنتري",
+        "ascii": "Sidi Lantri",
+        "en": "Sidi Lantri"
+      },
+      {
+        "arabic": "لرجام",
+        "ascii": "Lardjem",
+        "en": "Lardjem"
+      },
+      {
+        "arabic": "الملعب",
+        "ascii": "Melaab",
+        "en": "Melaab"
+      },
+      {
+        "arabic": "تملاحت",
+        "ascii": "Tamellahet",
+        "en": "Tamellahet"
+      },
+      {
+        "arabic": "بني شعيب",
+        "ascii": "Beni Chaib",
+        "en": "Beni Chaib"
+      },
+      {
+        "arabic": "بني لحسن",
+        "ascii": "Beni Lahcene",
+        "en": "Beni Lahcene"
+      },
+      {
+        "arabic": "برج بونعامة",
+        "ascii": "Bordj Bounaama",
+        "en": "Bordj Bounaama"
+      },
+      {
+        "arabic": "سيدي عابد",
+        "ascii": "Sidi Abed",
+        "en": "Sidi Abed"
+      },
+      {
+        "arabic": "عماري",
+        "ascii": "Ammari",
+        "en": "Ammari"
+      },
+      {
+        "arabic": "المعاصم",
+        "ascii": "Maacem",
+        "en": "Maacem"
+      },
+      {
+        "arabic": "سيدي سليمان",
+        "ascii": "Sidi Slimane",
+        "en": "Sidi Slimane"
+      },
+      {
+        "arabic": "بوقائد",
+        "ascii": "Boucaid",
+        "en": "Boucaid"
+      },
+      {
+        "arabic": "الأزهرية",
+        "ascii": "Lazharia",
+        "en": "Lazharia"
+      },
+      {
+        "arabic": "الأربعاء",
+        "ascii": "Larbaa",
+        "en": "Larbaa"
+      },
+      {
+        "arabic": "اليوسفية",
+        "ascii": "Youssoufia",
+        "en": "Youssoufia"
+      },
+      {
+        "arabic": "برج الأمير عبد القادر",
+        "ascii": "Bordj El Emir Abdelkader",
+        "en": "Bordj El Emir Abdelkader"
+      }
+    ]
+  },
+  {
+    "code": 39,
+    "arabic": "الوادي",
+    "ascii": "El Oued",
+    "en": "El Oued",
+    "communes": [
+      {
+        "arabic": "دوار الماء",
+        "ascii": "Douar El Maa",
+        "en": "Douar El Maa"
+      },
+      {
+        "arabic": "بن قشة",
+        "ascii": "Ben Guecha",
+        "en": "Ben Guecha"
+      },
+      {
+        "arabic": "الطالب العربي",
+        "ascii": "Taleb Larbi",
+        "en": "Taleb Larbi"
+      },
+      {
+        "arabic": "العقلة",
+        "ascii": "El Ogla",
+        "en": "El Ogla"
+      },
+      {
+        "arabic": "المقرن",
+        "ascii": "Magrane",
+        "en": "Magrane"
+      },
+      {
+        "arabic": "سيدي عون",
+        "ascii": "Sidi Aoun",
+        "en": "Sidi Aoun"
+      },
+      {
+        "arabic": "اميه وانسة",
+        "ascii": "Mih Ouansa",
+        "en": "Mih Ouansa"
+      },
+      {
+        "arabic": "وادي العلندة",
+        "ascii": "Oued El Alenda",
+        "en": "Oued El Alenda"
+      },
+      {
+        "arabic": "كوينين",
+        "ascii": "Kouinine",
+        "en": "Kouinine"
+      },
+      {
+        "arabic": "الوادي",
+        "ascii": "El-Oued",
+        "en": "El-Oued"
+      },
+      {
+        "arabic": "البياضة",
+        "ascii": "Bayadha",
+        "en": "Bayadha"
+      },
+      {
+        "arabic": "النخلة",
+        "ascii": "Nakhla",
+        "en": "Nakhla"
+      },
+      {
+        "arabic": "الرباح",
+        "ascii": "Robbah",
+        "en": "Robbah"
+      },
+      {
+        "arabic": "قمار",
+        "ascii": "Guemar",
+        "en": "Guemar"
+      },
+      {
+        "arabic": "ورماس",
+        "ascii": "Ourmes",
+        "en": "Ourmes"
+      },
+      {
+        "arabic": "تغزوت",
+        "ascii": "Taghzout",
+        "en": "Taghzout"
+      },
+      {
+        "arabic": "الحمراية",
+        "ascii": "Hamraia",
+        "en": "Hamraia"
+      },
+      {
+        "arabic": "الرقيبة",
+        "ascii": "Reguiba",
+        "en": "Reguiba"
+      },
+      {
+        "arabic": "الدبيلة",
+        "ascii": "Debila",
+        "en": "Debila"
+      },
+      {
+        "arabic": "حساني عبد الكريم",
+        "ascii": "Hassani Abdelkrim",
+        "en": "Hassani Abdelkrim"
+      },
+      {
+        "arabic": "حاسي خليفة",
+        "ascii": "Hassi Khalifa",
+        "en": "Hassi Khalifa"
+      },
+      {
+        "arabic": "الطريفاوي",
+        "ascii": "Trifaoui",
+        "en": "Trifaoui"
+      }
+    ]
+  },
+  {
+    "code": 40,
+    "arabic": "خنشلة",
+    "ascii": "Khenchela",
+    "en": "Khenchela",
+    "communes": [
+      {
+        "arabic": "خيران",
+        "ascii": "Khirane",
+        "en": "Khirane"
+      },
+      {
+        "arabic": "جلال",
+        "ascii": "Djellal",
+        "en": "Djellal"
+      },
+      {
+        "arabic": "الولجة",
+        "ascii": "El Oueldja",
+        "en": "El Oueldja"
+      },
+      {
+        "arabic": "ششار",
+        "ascii": "Chechar",
+        "en": "Chechar"
+      },
+      {
+        "arabic": "بابار",
+        "ascii": "Babar",
+        "en": "Babar"
+      },
+      {
+        "arabic": "المحمل",
+        "ascii": "El Mahmal",
+        "en": "El Mahmal"
+      },
+      {
+        "arabic": "أولاد رشاش",
+        "ascii": "Ouled Rechache",
+        "en": "Ouled Rechache"
+      },
+      {
+        "arabic": "يابوس",
+        "ascii": "Yabous",
+        "en": "Yabous"
+      },
+      {
+        "arabic": "شلية",
+        "ascii": "Chelia",
+        "en": "Chelia"
+      },
+      {
+        "arabic": "بوحمامة",
+        "ascii": "Bouhmama",
+        "en": "Bouhmama"
+      },
+      {
+        "arabic": "مصارة",
+        "ascii": "M'sara",
+        "en": "M'sara"
+      },
+      {
+        "arabic": "خنشلة",
+        "ascii": "Khenchela",
+        "en": "Khenchela"
+      },
+      {
+        "arabic": "قايس",
+        "ascii": "Kais",
+        "en": "Kais"
+      },
+      {
+        "arabic": "الرميلة",
+        "ascii": "Remila",
+        "en": "Remila"
+      },
+      {
+        "arabic": "تاوزيانت",
+        "ascii": "Taouzianat",
+        "en": "Taouzianat"
+      },
+      {
+        "arabic": "بغاي",
+        "ascii": "Baghai",
+        "en": "Baghai"
+      },
+      {
+        "arabic": "الحامة",
+        "ascii": "El Hamma",
+        "en": "El Hamma"
+      },
+      {
+        "arabic": "انسيغة",
+        "ascii": "Ensigha",
+        "en": "Ensigha"
+      },
+      {
+        "arabic": "طامزة",
+        "ascii": "Tamza",
+        "en": "Tamza"
+      },
+      {
+        "arabic": "عين الطويلة",
+        "ascii": "Ain Touila",
+        "en": "Ain Touila"
+      },
+      {
+        "arabic": "متوسة",
+        "ascii": "M'toussa",
+        "en": "M'toussa"
+      }
+    ]
+  },
+  {
+    "code": 41,
+    "arabic": "سوق أهراس",
+    "ascii": "Souk Ahras",
+    "en": "Souk Ahras",
+    "communes": [
+      {
+        "arabic": "سوق أهراس",
+        "ascii": "Souk Ahras",
+        "en": "Souk Ahras"
+      },
+      {
+        "arabic": "عين سلطان",
+        "ascii": "Ain Soltane",
+        "en": "Ain Soltane"
+      },
+      {
+        "arabic": "سدراتة",
+        "ascii": "Sedrata",
+        "en": "Sedrata"
+      },
+      {
+        "arabic": "خميسة",
+        "ascii": "Khemissa",
+        "en": "Khemissa"
+      },
+      {
+        "arabic": "الحنانشة",
+        "ascii": "Hanencha",
+        "en": "Hanencha"
+      },
+      {
+        "arabic": "المشروحة",
+        "ascii": "Machroha",
+        "en": "Machroha"
+      },
+      {
+        "arabic": "عين الزانة",
+        "ascii": "Ain Zana",
+        "en": "Ain Zana"
+      },
+      {
+        "arabic": "أولاد إدريس",
+        "ascii": "Ouled Driss",
+        "en": "Ouled Driss"
+      },
+      {
+        "arabic": "ترقالت",
+        "ascii": "Terraguelt",
+        "en": "Terraguelt"
+      },
+      {
+        "arabic": "أم العظايم",
+        "ascii": "Oum El Adhaim",
+        "en": "Oum El Adhaim"
+      },
+      {
+        "arabic": "وادي الكبريت",
+        "ascii": "Oued Kebrit",
+        "en": "Oued Kebrit"
+      },
+      {
+        "arabic": "تيفاش",
+        "ascii": "Tiffech",
+        "en": "Tiffech"
+      },
+      {
+        "arabic": "الراقوبة",
+        "ascii": "Ragouba",
+        "en": "Ragouba"
+      },
+      {
+        "arabic": "مداوروش",
+        "ascii": "M'daourouche",
+        "en": "M'daourouche"
+      },
+      {
+        "arabic": "الدريعة",
+        "ascii": "Drea",
+        "en": "Drea"
+      },
+      {
+        "arabic": "تاورة",
+        "ascii": "Taoura",
+        "en": "Taoura"
+      },
+      {
+        "arabic": "الزعرورية",
+        "ascii": "Zaarouria",
+        "en": "Zaarouria"
+      },
+      {
+        "arabic": "الحدادة",
+        "ascii": "Haddada",
+        "en": "Haddada"
+      },
+      {
+        "arabic": "الخضارة",
+        "ascii": "Khedara",
+        "en": "Khedara"
+      },
+      {
+        "arabic": "أولاد مومن",
+        "ascii": "Ouled Moumen",
+        "en": "Ouled Moumen"
+      },
+      {
+        "arabic": "المراهنة",
+        "ascii": "Merahna",
+        "en": "Merahna"
+      },
+      {
+        "arabic": "ويلان",
+        "ascii": "Ouillen",
+        "en": "Ouillen"
+      },
+      {
+        "arabic": "سيدي فرج",
+        "ascii": "Sidi Fredj",
+        "en": "Sidi Fredj"
+      },
+      {
+        "arabic": "بئر بوحوش",
+        "ascii": "Bir Bouhouche",
+        "en": "Bir Bouhouche"
+      },
+      {
+        "arabic": "سافل الويدان",
+        "ascii": "Safel El Ouiden",
+        "en": "Safel El Ouiden"
+      },
+      {
+        "arabic": "الزوابي",
+        "ascii": "Zouabi",
+        "en": "Zouabi"
+      }
+    ]
+  },
+  {
+    "code": 42,
+    "arabic": "تيبازة",
+    "ascii": "Tipaza",
+    "en": "Tipaza",
+    "communes": [
+      {
+        "arabic": "حجوط",
+        "ascii": "Hadjout",
+        "en": "Hadjout"
+      },
+      {
+        "arabic": "مراد",
+        "ascii": "Merad",
+        "en": "Merad"
+      },
+      {
+        "arabic": "مناصر",
+        "ascii": "Menaceur",
+        "en": "Menaceur"
+      },
+      {
+        "arabic": "الناظور",
+        "ascii": "Nador",
+        "en": "Nador"
+      },
+      {
+        "arabic": "سيدي عامر",
+        "ascii": "Sidi-Amar",
+        "en": "Sidi-Amar"
+      },
+      {
+        "arabic": "أغبال",
+        "ascii": "Aghbal",
+        "en": "Aghbal"
+      },
+      {
+        "arabic": "قوراية",
+        "ascii": "Gouraya",
+        "en": "Gouraya"
+      },
+      {
+        "arabic": "مسلمون",
+        "ascii": "Messelmoun",
+        "en": "Messelmoun"
+      },
+      {
+        "arabic": "شرشال",
+        "ascii": "Cherchell",
+        "en": "Cherchell"
+      },
+      {
+        "arabic": "حجرة النص",
+        "ascii": "Hadjret Ennous",
+        "en": "Hadjret Ennous"
+      },
+      {
+        "arabic": "سيدي غيلاس",
+        "ascii": "Sidi Ghiles",
+        "en": "Sidi Ghiles"
+      },
+      {
+        "arabic": "سيدي سميان",
+        "ascii": "Sidi Semiane",
+        "en": "Sidi Semiane"
+      },
+      {
+        "arabic": "الداموس",
+        "ascii": "Damous",
+        "en": "Damous"
+      },
+      {
+        "arabic": "الأرهاط",
+        "ascii": "Larhat",
+        "en": "Larhat"
+      },
+      {
+        "arabic": "بني ميلك",
+        "ascii": "Beni Mileuk",
+        "en": "Beni Mileuk"
+      },
+      {
+        "arabic": "فوكة",
+        "ascii": "Fouka",
+        "en": "Fouka"
+      },
+      {
+        "arabic": "دواودة",
+        "ascii": "Douaouda",
+        "en": "Douaouda"
+      },
+      {
+        "arabic": "عين تاقورايت",
+        "ascii": "Ain Tagourait",
+        "en": "Ain Tagourait"
+      },
+      {
+        "arabic": "بوهارون",
+        "ascii": "Bou Haroun",
+        "en": "Bou Haroun"
+      },
+      {
+        "arabic": "بواسماعيل",
+        "ascii": "Bou Ismail",
+        "en": "Bou Ismail"
+      },
+      {
+        "arabic": "خميستي",
+        "ascii": "Khemisti",
+        "en": "Khemisti"
+      },
+      {
+        "arabic": "أحمر العين",
+        "ascii": "Ahmer El Ain",
+        "en": "Ahmer El Ain"
+      },
+      {
+        "arabic": "بورقيقة",
+        "ascii": "Bourkika",
+        "en": "Bourkika"
+      },
+      {
+        "arabic": "سيدي راشد",
+        "ascii": "Sidi Rached",
+        "en": "Sidi Rached"
+      },
+      {
+        "arabic": "الحطاطبة",
+        "ascii": "Attatba",
+        "en": "Attatba"
+      },
+      {
+        "arabic": "الشعيبة",
+        "ascii": "Chaiba",
+        "en": "Chaiba"
+      },
+      {
+        "arabic": "القليعة",
+        "ascii": "Kolea",
+        "en": "Kolea"
+      },
+      {
+        "arabic": "تيبازة",
+        "ascii": "Tipaza",
+        "en": "Tipaza"
+      }
+    ]
+  },
+  {
+    "code": 43,
+    "arabic": "ميلة",
+    "ascii": "Mila",
+    "en": "Mila",
+    "communes": [
+      {
+        "arabic": "مشيرة",
+        "ascii": "El Mechira",
+        "en": "El Mechira"
+      },
+      {
+        "arabic": "التلاغمة",
+        "ascii": "Teleghma",
+        "en": "Teleghma"
+      },
+      {
+        "arabic": "وادي سقان",
+        "ascii": "Oued Seguen",
+        "en": "Oued Seguen"
+      },
+      {
+        "arabic": "العياضي برباس",
+        "ascii": "El Ayadi Barbes",
+        "en": "El Ayadi Barbes"
+      },
+      {
+        "arabic": "عين البيضاء أحريش",
+        "ascii": "Ain Beida Harriche",
+        "en": "Ain Beida Harriche"
+      },
+      {
+        "arabic": "تسالة لمطاعي",
+        "ascii": "Tassala Lematai",
+        "en": "Tassala Lematai"
+      },
+      {
+        "arabic": "ترعي باينان",
+        "ascii": "Terrai Bainen",
+        "en": "Terrai Bainen"
+      },
+      {
+        "arabic": "اعميرة اراس",
+        "ascii": "Amira Arres",
+        "en": "Amira Arres"
+      },
+      {
+        "arabic": "تسدان حدادة",
+        "ascii": "Tassadane Haddada",
+        "en": "Tassadane Haddada"
+      },
+      {
+        "arabic": "مينار زارزة",
+        "ascii": "Minar Zarza",
+        "en": "Minar Zarza"
+      },
+      {
+        "arabic": "سيدي مروان",
+        "ascii": "Sidi Merouane",
+        "en": "Sidi Merouane"
+      },
+      {
+        "arabic": "الشيقارة",
+        "ascii": "Chigara",
+        "en": "Chigara"
+      },
+      {
+        "arabic": "حمالة",
+        "ascii": "Hamala",
+        "en": "Hamala"
+      },
+      {
+        "arabic": "القرارم قوقة",
+        "ascii": "Grarem Gouga",
+        "en": "Grarem Gouga"
+      },
+      {
+        "arabic": "تيبرقنت",
+        "ascii": "Tiberguent",
+        "en": "Tiberguent"
+      },
+      {
+        "arabic": "الرواشد",
+        "ascii": "Rouached",
+        "en": "Rouached"
+      },
+      {
+        "arabic": "دراحي بوصلاح",
+        "ascii": "Derrahi Bousselah",
+        "en": "Derrahi Bousselah"
+      },
+      {
+        "arabic": "بوحاتم",
+        "ascii": "Bouhatem",
+        "en": "Bouhatem"
+      },
+      {
+        "arabic": "زغاية",
+        "ascii": "Zeghaia",
+        "en": "Zeghaia"
+      },
+      {
+        "arabic": "وادي النجاء",
+        "ascii": "Oued Endja",
+        "en": "Oued Endja"
+      },
+      {
+        "arabic": "أحمد راشدي",
+        "ascii": "Ahmed Rachedi",
+        "en": "Ahmed Rachedi"
+      },
+      {
+        "arabic": "تاجنانت",
+        "ascii": "Tadjenanet",
+        "en": "Tadjenanet"
+      },
+      {
+        "arabic": "أولاد اخلوف",
+        "ascii": "Ouled Khalouf",
+        "en": "Ouled Khalouf"
+      },
+      {
+        "arabic": "بن يحي عبد الرحمن",
+        "ascii": "Benyahia Abderrahmane",
+        "en": "Benyahia Abderrahmane"
+      },
+      {
+        "arabic": "عين الملوك",
+        "ascii": "Ain Mellouk",
+        "en": "Ain Mellouk"
+      },
+      {
+        "arabic": "وادي العثمانية",
+        "ascii": "Oued Athmenia",
+        "en": "Oued Athmenia"
+      },
+      {
+        "arabic": "شلغوم العيد",
+        "ascii": "Chelghoum Laid",
+        "en": "Chelghoum Laid"
+      },
+      {
+        "arabic": "عين التين",
+        "ascii": "Ain Tine",
+        "en": "Ain Tine"
+      },
+      {
+        "arabic": "سيدي خليفة",
+        "ascii": "Sidi Khelifa",
+        "en": "Sidi Khelifa"
+      },
+      {
+        "arabic": "ميلة",
+        "ascii": "Mila",
+        "en": "Mila"
+      },
+      {
+        "arabic": "يحي بني قشة",
+        "ascii": "Yahia Beniguecha",
+        "en": "Yahia Beniguecha"
+      },
+      {
+        "arabic": "فرجيوة",
+        "ascii": "Ferdjioua",
+        "en": "Ferdjioua"
+      }
+    ]
+  },
+  {
+    "code": 44,
+    "arabic": "عين الدفلى",
+    "ascii": "Ain Defla",
+    "en": "Ain Defla",
+    "communes": [
+      {
+        "arabic": "خميس مليانة",
+        "ascii": "Khemis-Miliana",
+        "en": "Khemis-Miliana"
+      },
+      {
+        "arabic": "سيدي الأخضر",
+        "ascii": "Sidi-Lakhdar",
+        "en": "Sidi-Lakhdar"
+      },
+      {
+        "arabic": "عين البنيان",
+        "ascii": "Ain-Benian",
+        "en": "Ain-Benian"
+      },
+      {
+        "arabic": "عين التركي",
+        "ascii": "Ain-Torki",
+        "en": "Ain-Torki"
+      },
+      {
+        "arabic": "حمام ريغة",
+        "ascii": "Hammam-Righa",
+        "en": "Hammam-Righa"
+      },
+      {
+        "arabic": "بوراشد",
+        "ascii": "Bourached",
+        "en": "Bourached"
+      },
+      {
+        "arabic": "جليدة",
+        "ascii": "Djelida",
+        "en": "Djelida"
+      },
+      {
+        "arabic": "جمعة أولاد الشيخ",
+        "ascii": "Djemaa Ouled Cheikh",
+        "en": "Djemaa Ouled Cheikh"
+      },
+      {
+        "arabic": "الحسينية",
+        "ascii": "Hoceinia",
+        "en": "Hoceinia"
+      },
+      {
+        "arabic": "بومدفع",
+        "ascii": "Boumedfaa",
+        "en": "Boumedfaa"
+      },
+      {
+        "arabic": "عريب",
+        "ascii": "Arib",
+        "en": "Arib"
+      },
+      {
+        "arabic": "العامرة",
+        "ascii": "El-Amra",
+        "en": "El-Amra"
+      },
+      {
+        "arabic": "المخاطرية",
+        "ascii": "Mekhatria",
+        "en": "Mekhatria"
+      },
+      {
+        "arabic": "العطاف",
+        "ascii": "El-Attaf",
+        "en": "El-Attaf"
+      },
+      {
+        "arabic": "تبركانين",
+        "ascii": "Tiberkanine",
+        "en": "Tiberkanine"
+      },
+      {
+        "arabic": "عين بويحيى",
+        "ascii": "Ain-Bouyahia",
+        "en": "Ain-Bouyahia"
+      },
+      {
+        "arabic": "العبادية",
+        "ascii": "El-Abadia",
+        "en": "El-Abadia"
+      },
+      {
+        "arabic": "تاشتة زقاغة",
+        "ascii": "Tacheta Zegagha",
+        "en": "Tacheta Zegagha"
+      },
+      {
+        "arabic": "بربوش",
+        "ascii": "Birbouche",
+        "en": "Birbouche"
+      },
+      {
+        "arabic": "جندل",
+        "ascii": "Djendel",
+        "en": "Djendel"
+      },
+      {
+        "arabic": "وادي الشرفاء",
+        "ascii": "Oued Chorfa",
+        "en": "Oued Chorfa"
+      },
+      {
+        "arabic": "بن علال",
+        "ascii": "Ben Allal",
+        "en": "Ben Allal"
+      },
+      {
+        "arabic": "مليانة",
+        "ascii": "Miliana",
+        "en": "Miliana"
+      },
+      {
+        "arabic": "عين الاشياخ",
+        "ascii": "Ain-Lechiakh",
+        "en": "Ain-Lechiakh"
+      },
+      {
+        "arabic": "واد الجمعة",
+        "ascii": "Oued Djemaa",
+        "en": "Oued Djemaa"
+      },
+      {
+        "arabic": "عين السلطان",
+        "ascii": "Ain-Soltane",
+        "en": "Ain-Soltane"
+      },
+      {
+        "arabic": "الماين",
+        "ascii": "El-Maine",
+        "en": "El-Maine"
+      },
+      {
+        "arabic": "الروينة",
+        "ascii": "Rouina",
+        "en": "Rouina"
+      },
+      {
+        "arabic": "زدين",
+        "ascii": "Zeddine",
+        "en": "Zeddine"
+      },
+      {
+        "arabic": "بئر ولد خليفة",
+        "ascii": "Bir-Ould-Khelifa",
+        "en": "Bir-Ould-Khelifa"
+      },
+      {
+        "arabic": "برج الأمير خالد",
+        "ascii": "Bordj-Emir-Khaled",
+        "en": "Bordj-Emir-Khaled"
+      },
+      {
+        "arabic": "طارق بن زياد",
+        "ascii": "Tarik-Ibn-Ziad",
+        "en": "Tarik-Ibn-Ziad"
+      },
+      {
+        "arabic": "بطحية",
+        "ascii": "Bathia",
+        "en": "Bathia"
+      },
+      {
+        "arabic": "بلعاص",
+        "ascii": "Belaas",
+        "en": "Belaas"
+      },
+      {
+        "arabic": "الحسانية",
+        "ascii": "Hassania",
+        "en": "Hassania"
+      },
+      {
+        "arabic": "عين الدفلى",
+        "ascii": "Ain-Defla",
+        "en": "Ain-Defla"
+      }
+    ]
+  },
+  {
+    "code": 45,
+    "arabic": "النعامة",
+    "ascii": "Naama",
+    "en": "Naama",
+    "communes": [
+      {
+        "arabic": "تيوت",
+        "ascii": "Tiout",
+        "en": "Tiout"
+      },
+      {
+        "arabic": "عين الصفراء",
+        "ascii": "Ain Sefra",
+        "en": "Ain Sefra"
+      },
+      {
+        "arabic": "مغرار",
+        "ascii": "Moghrar",
+        "en": "Moghrar"
+      },
+      {
+        "arabic": "جنين بورزق",
+        "ascii": "Djenienne Bourezg",
+        "en": "Djenienne Bourezg"
+      },
+      {
+        "arabic": "عسلة",
+        "ascii": "Asla",
+        "en": "Asla"
+      },
+      {
+        "arabic": "القصدير",
+        "ascii": "Kasdir",
+        "en": "Kasdir"
+      },
+      {
+        "arabic": "مكمن بن عمار",
+        "ascii": "Makmen Ben Amar",
+        "en": "Makmen Ben Amar"
+      },
+      {
+        "arabic": "المشرية",
+        "ascii": "Mecheria",
+        "en": "Mecheria"
+      },
+      {
+        "arabic": "البيوض",
+        "ascii": "El Biodh",
+        "en": "El Biodh"
+      },
+      {
+        "arabic": "عين بن خليل",
+        "ascii": "Ain Ben Khelil",
+        "en": "Ain Ben Khelil"
+      },
+      {
+        "arabic": "النعامة",
+        "ascii": "Naama",
+        "en": "Naama"
+      },
+      {
+        "arabic": "سفيسيفة",
+        "ascii": "Sfissifa",
+        "en": "Sfissifa"
+      }
+    ]
+  },
+  {
+    "code": 46,
+    "arabic": "عين تموشنت",
+    "ascii": "Ain Temouchent",
+    "en": "Ain Temouchent",
+    "communes": [
+      {
+        "arabic": "سيدي بومدين",
+        "ascii": "Sidi Boumediene",
+        "en": "Sidi Boumediene"
+      },
+      {
+        "arabic": "تامزورة",
+        "ascii": "Tamzoura",
+        "en": "Tamzoura"
+      },
+      {
+        "arabic": "وادي الصباح",
+        "ascii": "Oued Sebbah",
+        "en": "Oued Sebbah"
+      },
+      {
+        "arabic": "عين الأربعاء",
+        "ascii": "Ain El Arbaa",
+        "en": "Ain El Arbaa"
+      },
+      {
+        "arabic": "شعبة اللحم",
+        "ascii": "Chaabat El Ham",
+        "en": "Chaabat El Ham"
+      },
+      {
+        "arabic": "المالح",
+        "ascii": "El Maleh",
+        "en": "El Maleh"
+      },
+      {
+        "arabic": "أولاد الكيحل",
+        "ascii": "Ouled Kihal",
+        "en": "Ouled Kihal"
+      },
+      {
+        "arabic": "تارقة",
+        "ascii": "Terga",
+        "en": "Terga"
+      },
+      {
+        "arabic": "شنتوف",
+        "ascii": "Chentouf",
+        "en": "Chentouf"
+      },
+      {
+        "arabic": "الحساسنة",
+        "ascii": "Hassasna",
+        "en": "Hassasna"
+      },
+      {
+        "arabic": "وادي برقش",
+        "ascii": "Oued Berkeche",
+        "en": "Oued Berkeche"
+      },
+      {
+        "arabic": "حمام بوحجر",
+        "ascii": "Hammam Bou Hadjar",
+        "en": "Hammam Bou Hadjar"
+      },
+      {
+        "arabic": "العامرية",
+        "ascii": "El Amria",
+        "en": "El Amria"
+      },
+      {
+        "arabic": "حاسي الغلة",
+        "ascii": "Hassi El Ghella",
+        "en": "Hassi El Ghella"
+      },
+      {
+        "arabic": "أولاد بوجمعة",
+        "ascii": "Ouled Boudjemaa",
+        "en": "Ouled Boudjemaa"
+      },
+      {
+        "arabic": "المساعيد",
+        "ascii": "El Messaid",
+        "en": "El Messaid"
+      },
+      {
+        "arabic": "بوزجار",
+        "ascii": "Bouzedjar",
+        "en": "Bouzedjar"
+      },
+      {
+        "arabic": "أغلال",
+        "ascii": "Aghlal",
+        "en": "Aghlal"
+      },
+      {
+        "arabic": "عين الكيحل",
+        "ascii": "Ain Kihal",
+        "en": "Ain Kihal"
+      },
+      {
+        "arabic": "عين الطلبة",
+        "ascii": "Ain Tolba",
+        "en": "Ain Tolba"
+      },
+      {
+        "arabic": "عقب الليل",
+        "ascii": "Aoubellil",
+        "en": "Aoubellil"
+      },
+      {
+        "arabic": "بني صاف",
+        "ascii": "Beni Saf",
+        "en": "Beni Saf"
+      },
+      {
+        "arabic": "سيدي صافي",
+        "ascii": "Sidi Safi",
+        "en": "Sidi Safi"
+      },
+      {
+        "arabic": "الأمير عبد القادر",
+        "ascii": "Emir Abdelkader",
+        "en": "Emir Abdelkader"
+      },
+      {
+        "arabic": "ولهاصة الغرابة",
+        "ascii": "Oulhaca El Gheraba",
+        "en": "Oulhaca El Gheraba"
+      },
+      {
+        "arabic": "سيدي ورياش",
+        "ascii": "Sidi Ouriache",
+        "en": "Sidi Ouriache"
+      },
+      {
+        "arabic": "سيدي بن عدة",
+        "ascii": "Sidi Ben Adda",
+        "en": "Sidi Ben Adda"
+      },
+      {
+        "arabic": "عين تموشنت",
+        "ascii": "Ain Temouchent",
+        "en": "Ain Temouchent"
+      }
+    ]
+  },
+  {
+    "code": 47,
+    "arabic": "غرداية",
+    "ascii": "Ghardaia",
+    "en": "Ghardaia",
+    "communes": [
+      {
+        "arabic": "ضاية بن ضحوة",
+        "ascii": "Dhayet Bendhahoua",
+        "en": "Dhayet Bendhahoua"
+      },
+      {
+        "arabic": "المنصورة",
+        "ascii": "Mansoura",
+        "en": "Mansoura"
+      },
+      {
+        "arabic": "العطف",
+        "ascii": "El Atteuf",
+        "en": "El Atteuf"
+      },
+      {
+        "arabic": "بونورة",
+        "ascii": "Bounoura",
+        "en": "Bounoura"
+      },
+      {
+        "arabic": "زلفانة",
+        "ascii": "Zelfana",
+        "en": "Zelfana"
+      },
+      {
+        "arabic": "القرارة",
+        "ascii": "El Guerrara",
+        "en": "El Guerrara"
+      },
+      {
+        "arabic": "سبسب",
+        "ascii": "Sebseb",
+        "en": "Sebseb"
+      },
+      {
+        "arabic": "متليلي",
+        "ascii": "Metlili",
+        "en": "Metlili"
+      },
+      {
+        "arabic": "بريان",
+        "ascii": "Berriane",
+        "en": "Berriane"
+      },
+      {
+        "arabic": "غرداية",
+        "ascii": "Ghardaia",
+        "en": "Ghardaia"
+      }
+    ]
+  },
+  {
+    "code": 48,
+    "arabic": "غليزان",
+    "ascii": "Relizane",
+    "en": "Relizane",
+    "communes": [
+      {
+        "arabic": "القطار",
+        "ascii": "El-Guettar",
+        "en": "El-Guettar"
+      },
+      {
+        "arabic": "مازونة",
+        "ascii": "Mazouna",
+        "en": "Mazouna"
+      },
+      {
+        "arabic": "أولاد يعيش",
+        "ascii": "Ouled Aiche",
+        "en": "Ouled Aiche"
+      },
+      {
+        "arabic": "عمي موسى",
+        "ascii": "Ammi Moussa",
+        "en": "Ammi Moussa"
+      },
+      {
+        "arabic": "بني درقن",
+        "ascii": "Beni Dergoun",
+        "en": "Beni Dergoun"
+      },
+      {
+        "arabic": "دار بن عبد الله",
+        "ascii": "Dar Ben Abdelah",
+        "en": "Dar Ben Abdelah"
+      },
+      {
+        "arabic": "زمورة",
+        "ascii": "Zemmoura",
+        "en": "Zemmoura"
+      },
+      {
+        "arabic": "جديوية",
+        "ascii": "Djidiouia",
+        "en": "Djidiouia"
+      },
+      {
+        "arabic": "حمري",
+        "ascii": "Hamri",
+        "en": "Hamri"
+      },
+      {
+        "arabic": "أولاد سيدي الميهوب",
+        "ascii": "Ouled Sidi Mihoub",
+        "en": "Ouled Sidi Mihoub"
+      },
+      {
+        "arabic": "بلعسل بوزقزة",
+        "ascii": "Belaassel Bouzagza",
+        "en": "Belaassel Bouzagza"
+      },
+      {
+        "arabic": "المطمر",
+        "ascii": "El-Matmar",
+        "en": "El-Matmar"
+      },
+      {
+        "arabic": "سيدي خطاب",
+        "ascii": "Sidi Khettab",
+        "en": "Sidi Khettab"
+      },
+      {
+        "arabic": "سيدي امحمد بن عودة",
+        "ascii": "Sidi M'hamed Benaouda",
+        "en": "Sidi M'hamed Benaouda"
+      },
+      {
+        "arabic": "عين طارق",
+        "ascii": "Ain-Tarek",
+        "en": "Ain-Tarek"
+      },
+      {
+        "arabic": "حد الشكالة",
+        "ascii": "Had Echkalla",
+        "en": "Had Echkalla"
+      },
+      {
+        "arabic": "الولجة",
+        "ascii": "El Ouldja",
+        "en": "El Ouldja"
+      },
+      {
+        "arabic": "عين الرحمة",
+        "ascii": "Ain Rahma",
+        "en": "Ain Rahma"
+      },
+      {
+        "arabic": "القلعة",
+        "ascii": "Kalaa",
+        "en": "Kalaa"
+      },
+      {
+        "arabic": "سيدي سعادة",
+        "ascii": "Sidi Saada",
+        "en": "Sidi Saada"
+      },
+      {
+        "arabic": "يلل",
+        "ascii": "Yellel",
+        "en": "Yellel"
+      },
+      {
+        "arabic": "سوق الحد",
+        "ascii": "Souk El Had",
+        "en": "Souk El Had"
+      },
+      {
+        "arabic": "منداس",
+        "ascii": "Mendes",
+        "en": "Mendes"
+      },
+      {
+        "arabic": "وادي السلام",
+        "ascii": "Oued Essalem",
+        "en": "Oued Essalem"
+      },
+      {
+        "arabic": "سيدي لزرق",
+        "ascii": "Sidi Lazreg",
+        "en": "Sidi Lazreg"
+      },
+      {
+        "arabic": "واريزان",
+        "ascii": "Ouarizane",
+        "en": "Ouarizane"
+      },
+      {
+        "arabic": "مرجة سيدي عابد",
+        "ascii": "Merdja Sidi Abed",
+        "en": "Merdja Sidi Abed"
+      },
+      {
+        "arabic": "وادي رهيو",
+        "ascii": "Oued-Rhiou",
+        "en": "Oued-Rhiou"
+      },
+      {
+        "arabic": "لحلاف",
+        "ascii": "Lahlef",
+        "en": "Lahlef"
+      },
+      {
+        "arabic": "بن داود",
+        "ascii": "Bendaoud",
+        "en": "Bendaoud"
+      },
+      {
+        "arabic": "غليزان",
+        "ascii": "Relizane",
+        "en": "Relizane"
+      },
+      {
+        "arabic": "الحاسي",
+        "ascii": "El Hassi",
+        "en": "El Hassi"
+      },
+      {
+        "arabic": "سيدي أمحمد بن علي",
+        "ascii": "Sidi M'hamed Benali",
+        "en": "Sidi M'hamed Benali"
+      },
+      {
+        "arabic": "مديونة",
+        "ascii": "Mediouna",
+        "en": "Mediouna"
+      },
+      {
+        "arabic": "بني زنطيس",
+        "ascii": "Beni Zentis",
+        "en": "Beni Zentis"
+      },
+      {
+        "arabic": "وادي الجمعة",
+        "ascii": "Oued El Djemaa",
+        "en": "Oued El Djemaa"
+      },
+      {
+        "arabic": "الحمادنة",
+        "ascii": "El H'madna",
+        "en": "El H'madna"
+      },
+      {
+        "arabic": "الرمكة",
+        "ascii": "Ramka",
+        "en": "Ramka"
+      }
+    ]
+  },
+  {
+    "code": 49,
+    "arabic": "تيميمون",
+    "ascii": "Timimoun",
+    "en": "Timimoun",
+    "communes": [
+      {
+        "arabic": "تنركوك",
+        "ascii": "Tinerkouk",
+        "en": "Tinerkouk"
+      },
+      {
+        "arabic": "قصر قدور",
+        "ascii": "Ksar Kaddour",
+        "en": "Ksar Kaddour"
+      },
+      {
+        "arabic": "تيميمون",
+        "ascii": "Timimoun",
+        "en": "Timimoun"
+      },
+      {
+        "arabic": "أولاد السعيد",
+        "ascii": "Ouled Said",
+        "en": "Ouled Said"
+      },
+      {
+        "arabic": "المطارفة",
+        "ascii": "Metarfa",
+        "en": "Metarfa"
+      },
+      {
+        "arabic": "أوقروت",
+        "ascii": "Aougrout",
+        "en": "Aougrout"
+      },
+      {
+        "arabic": "طالمين",
+        "ascii": "Talmine",
+        "en": "Talmine"
+      },
+      {
+        "arabic": "شروين",
+        "ascii": "Charouine",
+        "en": "Charouine"
+      },
+      {
+        "arabic": "أولاد عيسى",
+        "ascii": "Ouled Aissa",
+        "en": "Ouled Aissa"
+      },
+      {
+        "arabic": "دلدول",
+        "ascii": "Deldoul",
+        "en": "Deldoul"
+      }
+    ]
+  },
+  {
+    "code": 50,
+    "arabic": "برج باجي مختار",
+    "ascii": "Bordj Badji Mokhtar",
+    "en": "Bordj Badji Mokhtar",
+    "communes": [
+      {
+        "arabic": "تيمياوين",
+        "ascii": "Timiaouine",
+        "en": "Timiaouine"
+      },
+      {
+        "arabic": "برج باجي مختار",
+        "ascii": "Bordj Badji Mokhtar",
+        "en": "Bordj Badji Mokhtar"
+      }
+    ]
+  },
+  {
+    "code": 51,
+    "arabic": "أولاد جلال",
+    "ascii": "Ouled Djellal",
+    "en": "Ouled Djellal",
+    "communes": [
+      {
+        "arabic": "رأس الميعاد",
+        "ascii": "Ras El Miad",
+        "en": "Ras El Miad"
+      },
+      {
+        "arabic": "بسباس",
+        "ascii": "Besbes",
+        "en": "Besbes"
+      },
+      {
+        "arabic": "سيدي خالد",
+        "ascii": "Sidi Khaled",
+        "en": "Sidi Khaled"
+      },
+      {
+        "arabic": "الدوسن",
+        "ascii": "Doucen",
+        "en": "Doucen"
+      },
+      {
+        "arabic": "أولاد جلال",
+        "ascii": "Ouled Djellal",
+        "en": "Ouled Djellal"
+      },
+      {
+        "arabic": "الشعيبة",
+        "ascii": "Chaiba",
+        "en": "Chaiba"
+      }
+    ]
+  },
+  {
+    "code": 52,
+    "arabic": "بني عباس",
+    "ascii": "Beni Abbes",
+    "en": "Beni Abbes",
+    "communes": [
+      {
+        "arabic": "بني عباس",
+        "ascii": "Beni-Abbes",
+        "en": "Beni-Abbes"
+      },
+      {
+        "arabic": "تامترت",
+        "ascii": "Tamtert",
+        "en": "Tamtert"
+      },
+      {
+        "arabic": "إقلي",
+        "ascii": "Igli",
+        "en": "Igli"
+      },
+      {
+        "arabic": "الواتة",
+        "ascii": "El Ouata",
+        "en": "El Ouata"
+      },
+      {
+        "arabic": "أولاد خضير",
+        "ascii": "Ouled-Khodeir",
+        "en": "Ouled-Khodeir"
+      },
+      {
+        "arabic": "القصابي",
+        "ascii": "Ksabi",
+        "en": "Ksabi"
+      },
+      {
+        "arabic": "كرزاز",
+        "ascii": "Kerzaz",
+        "en": "Kerzaz"
+      },
+      {
+        "arabic": "تيمودي",
+        "ascii": "Timoudi",
+        "en": "Timoudi"
+      },
+      {
+        "arabic": "بن يخلف",
+        "ascii": "Beni-Ikhlef",
+        "en": "Beni-Ikhlef"
+      }
+    ]
+  },
+  {
+    "code": 53,
+    "arabic": "عين صالح",
+    "ascii": "In Salah",
+    "en": "In Salah",
+    "communes": [
+      {
+        "arabic": "إينغر",
+        "ascii": "Inghar",
+        "en": "Inghar"
+      },
+      {
+        "arabic": "عين صالح",
+        "ascii": "Ain Salah",
+        "en": "Ain Salah"
+      },
+      {
+        "arabic": "فقارة الزوى",
+        "ascii": "Foggaret Ezzoua",
+        "en": "Foggaret Ezzoua"
+      }
+    ]
+  },
+  {
+    "code": 54,
+    "arabic": "عين قزام",
+    "ascii": "In Guezzam",
+    "en": "In Guezzam",
+    "communes": [
+      {
+        "arabic": "تين زواتين",
+        "ascii": "Tin Zouatine",
+        "en": "Tin Zouatine"
+      },
+      {
+        "arabic": "عين قزام",
+        "ascii": "Ain Guezzam",
+        "en": "Ain Guezzam"
+      }
+    ]
+  },
+  {
+    "code": 55,
+    "arabic": "تقرت",
+    "ascii": "Touggourt",
+    "en": "Touggourt",
+    "communes": [
+      {
+        "arabic": "تماسين",
+        "ascii": "Temacine",
+        "en": "Temacine"
+      },
+      {
+        "arabic": "بلدة اعمر",
+        "ascii": "Blidet Amor",
+        "en": "Blidet Amor"
+      },
+      {
+        "arabic": "سيدي سليمان",
+        "ascii": "Sidi Slimane",
+        "en": "Sidi Slimane"
+      },
+      {
+        "arabic": "المقارين",
+        "ascii": "Megarine",
+        "en": "Megarine"
+      },
+      {
+        "arabic": "النزلة",
+        "ascii": "Nezla",
+        "en": "Nezla"
+      },
+      {
+        "arabic": "تبسبست",
+        "ascii": "Tebesbest",
+        "en": "Tebesbest"
+      },
+      {
+        "arabic": "تقرت",
+        "ascii": "Touggourt",
+        "en": "Touggourt"
+      },
+      {
+        "arabic": "الزاوية العابدية",
+        "ascii": "Zaouia El Abidia",
+        "en": "Zaouia El Abidia"
+      },
+      {
+        "arabic": "الطيبات",
+        "ascii": "Taibet",
+        "en": "Taibet"
+      },
+      {
+        "arabic": "بن ناصر",
+        "ascii": "Benaceur",
+        "en": "Benaceur"
+      },
+      {
+        "arabic": "المنقر",
+        "ascii": "M'naguer",
+        "en": "M'naguer"
+      },
+      {
+        "arabic": "العالية",
+        "ascii": "El Alia",
+        "en": "El Alia"
+      },
+      {
+        "arabic": "الحجيرة",
+        "ascii": "El-Hadjira",
+        "en": "El-Hadjira"
+      }
+    ]
+  },
+  {
+    "code": 56,
+    "arabic": "جانت",
+    "ascii": "Djanet",
+    "en": "Djanet",
+    "communes": [
+      {
+        "arabic": "جانت",
+        "ascii": "Djanet",
+        "en": "Djanet"
+      },
+      {
+        "arabic": "برج الحواس",
+        "ascii": "Bordj El Haouass",
+        "en": "Bordj El Haouass"
+      }
+    ]
+  },
+  {
+    "code": 57,
+    "arabic": "المغير",
+    "ascii": "El M'Ghair",
+    "en": "El M'Ghair",
+    "communes": [
+      {
+        "arabic": "أم الطيور",
+        "ascii": "Oum Touyour",
+        "en": "Oum Touyour"
+      },
+      {
+        "arabic": "المغير",
+        "ascii": "El-M'ghaier",
+        "en": "El-M'ghaier"
+      },
+      {
+        "arabic": "سطيل",
+        "ascii": "Still",
+        "en": "Still"
+      },
+      {
+        "arabic": "سيدي خليل",
+        "ascii": "Sidi Khelil",
+        "en": "Sidi Khelil"
+      },
+      {
+        "arabic": "سيدي عمران",
+        "ascii": "Sidi Amrane",
+        "en": "Sidi Amrane"
+      },
+      {
+        "arabic": "المرارة",
+        "ascii": "M'rara",
+        "en": "M'rara"
+      },
+      {
+        "arabic": "جامعة",
+        "ascii": "Djamaa",
+        "en": "Djamaa"
+      },
+      {
+        "arabic": "تندلة",
+        "ascii": "Tenedla",
+        "en": "Tenedla"
+      }
+    ]
+  },
+  {
+    "code": 58,
+    "arabic": "المنيعة",
+    "ascii": "El Meniaa",
+    "en": "El Meniaa",
+    "communes": [
+      {
+        "arabic": "المنيعة",
+        "ascii": "El Meniaa",
+        "en": "El Meniaa"
+      },
+      {
+        "arabic": "حاسي القارة",
+        "ascii": "Hassi Gara",
+        "en": "Hassi Gara"
+      },
+      {
+        "arabic": "حاسي الفحل",
+        "ascii": "Hassi Fehal",
+        "en": "Hassi Fehal"
+      }
+    ]
+  },
+  {
+    "code": 59,
+    "arabic": "أفلو",
+    "ascii": "Aflou",
+    "en": "Aflou",
+    "communes": [
+      {
+        "arabic": "أفلو",
+        "ascii": "Aflou",
+        "en": "Aflou"
+      },
+      {
+        "arabic": "سبقاق",
+        "ascii": "Sebgag",
+        "en": "Sebgag"
+      },
+      {
+        "arabic": "سيدي بوزيد",
+        "ascii": "Sidi Bouzid",
+        "en": "Sidi Bouzid"
+      },
+      {
+        "arabic": "بريدة",
+        "ascii": "Brida",
+        "en": "Brida"
+      },
+      {
+        "arabic": "الحاج المشري",
+        "ascii": "Hadj Mechri",
+        "en": "Hadj Mechri"
+      },
+      {
+        "arabic": "تاويالة",
+        "ascii": "Taouiala",
+        "en": "Taouiala"
+      },
+      {
+        "arabic": "قلتة سيدي سعد",
+        "ascii": "Gueltat Sidi Saad",
+        "en": "Gueltat Sidi Saad"
+      },
+      {
+        "arabic": "عين سيدي علي",
+        "ascii": "Ain Sidi Ali",
+        "en": "Ain Sidi Ali"
+      },
+      {
+        "arabic": "البيضاء",
+        "ascii": "El Beidha",
+        "en": "El Beidha"
+      },
+      {
+        "arabic": "وادي مرة",
+        "ascii": "Oued Morra",
+        "en": "Oued Morra"
+      },
+      {
+        "arabic": "وادي مزي",
+        "ascii": "Oued M'Zi",
+        "en": "Oued M'Zi"
+      },
+      {
+        "arabic": "الغيشة",
+        "ascii": "El Ghicha",
+        "en": "El Ghicha"
+      }
+    ]
+  },
+  {
+    "code": 60,
+    "arabic": "بريكة",
+    "ascii": "Barika",
+    "en": "Barika",
+    "communes": [
+      {
+        "arabic": "بريكة",
+        "ascii": "Barika",
+        "en": "Barika"
+      },
+      {
+        "arabic": "بيطام",
+        "ascii": "Bitam",
+        "en": "Bitam"
+      },
+      {
+        "arabic": "م دوكال",
+        "ascii": "M'Doukal",
+        "en": "M'Doukal"
+      },
+      {
+        "arabic": "سقانة",
+        "ascii": "Seggana",
+        "en": "Seggana"
+      },
+      {
+        "arabic": "تيلاطو",
+        "ascii": "Tilatou",
+        "en": "Tilatou"
+      },
+      {
+        "arabic": "عبد القادر عزيز",
+        "ascii": "Abdelkader Azil",
+        "en": "Abdelkader Azil"
+      },
+      {
+        "arabic": "جزار",
+        "ascii": "Djezzar",
+        "en": "Djezzar"
+      },
+      {
+        "arabic": "أولاد عمار",
+        "ascii": "Ouled Ammar",
+        "en": "Ouled Ammar"
+      }
+    ]
+  },
+  {
+    "code": 61,
+    "arabic": "القنطرة",
+    "ascii": "El Kantara",
+    "en": "El Kantara",
+    "communes": [
+      {
+        "arabic": "القنطرة",
+        "ascii": "El Kantara",
+        "en": "El Kantara"
+      },
+      {
+        "arabic": "عين زعطوط",
+        "ascii": "Ain Zaatout",
+        "en": "Ain Zaatout"
+      },
+      {
+        "arabic": "برانيس",
+        "ascii": "Branis",
+        "en": "Branis"
+      },
+      {
+        "arabic": "الوتية",
+        "ascii": "El Outaya",
+        "en": "El Outaya"
+      },
+      {
+        "arabic": "جمورة",
+        "ascii": "Djemourah",
+        "en": "Djemourah"
+      }
+    ]
+  },
+  {
+    "code": 62,
+    "arabic": "بئر العاتر",
+    "ascii": "Bir El Ater",
+    "en": "Bir El Ater",
+    "communes": [
+      {
+        "arabic": "بئر العاتر",
+        "ascii": "Bir El Ater",
+        "en": "Bir El Ater"
+      },
+      {
+        "arabic": "نقرين",
+        "ascii": "Negrine",
+        "en": "Negrine"
+      },
+      {
+        "arabic": "العقلة المالحة",
+        "ascii": "El Ogla El Melha",
+        "en": "El Ogla El Melha"
+      },
+      {
+        "arabic": "فركان",
+        "ascii": "Ferkane",
+        "en": "Ferkane"
+      }
+    ]
+  },
+  {
+    "code": 63,
+    "arabic": "العريشة",
+    "ascii": "El Aricha",
+    "en": "El Aricha",
+    "communes": [
+      {
+        "arabic": "العريشة",
+        "ascii": "El Aricha",
+        "en": "El Aricha"
+      },
+      {
+        "arabic": "الگور",
+        "ascii": "El Gor",
+        "en": "El Gor"
+      },
+      {
+        "arabic": "سيدي جيلالي",
+        "ascii": "Sidi Djillali",
+        "en": "Sidi Djillali"
+      },
+      {
+        "arabic": "البويهي",
+        "ascii": "El Bouihi",
+        "en": "El Bouihi"
+      }
+    ]
+  },
+  {
+    "code": 64,
+    "arabic": "قصر الشلالة",
+    "ascii": "Ksar Chellala",
+    "en": "Ksar Chellala",
+    "communes": [
+      {
+        "arabic": "قصر الشلالة",
+        "ascii": "Ksar Chellala",
+        "en": "Ksar Chellala"
+      },
+      {
+        "arabic": "زمالة الأمير عبد القادر",
+        "ascii": "Zmalet El Emir Abdelkader",
+        "en": "Zmalet El Emir Abdelkader"
+      },
+      {
+        "arabic": "حمادية",
+        "ascii": "Hamadia",
+        "en": "Hamadia"
+      },
+      {
+        "arabic": "الرشايقة",
+        "ascii": "Rechaiga",
+        "en": "Rechaiga"
+      },
+      {
+        "arabic": "سرغين",
+        "ascii": "Serguine",
+        "en": "Serguine"
+      },
+      {
+        "arabic": "بوغارة",
+        "ascii": "Bougara",
+        "en": "Bougara"
+      }
+    ]
+  },
+  {
+    "code": 65,
+    "arabic": "عين وسارة",
+    "ascii": "Ain Oussara",
+    "en": "Ain Oussara",
+    "communes": [
+      {
+        "arabic": "عين وسارة",
+        "ascii": "Ain Ouessara",
+        "en": "Ain Ouessara"
+      },
+      {
+        "arabic": "الخميس",
+        "ascii": "El Khemis",
+        "en": "El Khemis"
+      },
+      {
+        "arabic": "البيرين",
+        "ascii": "Birine",
+        "en": "Birine"
+      },
+      {
+        "arabic": "بويرة الأحداب",
+        "ascii": "Bouira Lahdab",
+        "en": "Bouira Lahdab"
+      },
+      {
+        "arabic": "سيدي لخضر",
+        "ascii": "Sidi Ladjel",
+        "en": "Sidi Ladjel"
+      },
+      {
+        "arabic": "حاسي فدول",
+        "ascii": "Hassi Fedoul",
+        "en": "Hassi Fedoul"
+      },
+      {
+        "arabic": "عين فكة",
+        "ascii": "Ain Fekka",
+        "en": "Ain Fekka"
+      },
+      {
+        "arabic": "حاضرة",
+        "ascii": "Had Sahary",
+        "en": "Had Sahary"
+      },
+      {
+        "arabic": "قرنيني",
+        "ascii": "Guernini",
+        "en": "Guernini"
+      },
+      {
+        "arabic": "بنهار",
+        "ascii": "Benhar",
+        "en": "Benhar"
+      }
+    ]
+  },
+  {
+    "code": 66,
+    "arabic": "مسعد",
+    "ascii": "Messaad",
+    "en": "Messaad",
+    "communes": [
+      {
+        "arabic": "مسعد",
+        "ascii": "Messaad",
+        "en": "Messaad"
+      },
+      {
+        "arabic": "سلمانة",
+        "ascii": "Selmana",
+        "en": "Selmana"
+      },
+      {
+        "arabic": "دلدول",
+        "ascii": "Deldoul",
+        "en": "Deldoul"
+      },
+      {
+        "arabic": "فيض البطمة",
+        "ascii": "Faidh El Botma",
+        "en": "Faidh El Botma"
+      },
+      {
+        "arabic": "أم العظام",
+        "ascii": "Oum Laadham",
+        "en": "Oum Laadham"
+      },
+      {
+        "arabic": "عمورة",
+        "ascii": "Amourah",
+        "en": "Amourah"
+      },
+      {
+        "arabic": "سد الرحال",
+        "ascii": "Sed Rahal",
+        "en": "Sed Rahal"
+      },
+      {
+        "arabic": "قطارة",
+        "ascii": "Guettara",
+        "en": "Guettara"
+      }
+    ]
+  },
+  {
+    "code": 67,
+    "arabic": "قصر البخاري",
+    "ascii": "Ksar El Boukhari",
+    "en": "Ksar El Boukhari",
+    "communes": [
+      {
+        "arabic": "قصر البخاري",
+        "ascii": "Ksar El Boukhari",
+        "en": "Ksar El Boukhari"
+      },
+      {
+        "arabic": "أولاد معرف",
+        "ascii": "Ouled Maaref",
+        "en": "Ouled Maaref"
+      },
+      {
+        "arabic": "سيدي دامد",
+        "ascii": "Sidi Damed",
+        "en": "Sidi Damed"
+      },
+      {
+        "arabic": "عين بوسيف",
+        "ascii": "Ain Boucif",
+        "en": "Ain Boucif"
+      },
+      {
+        "arabic": "الكاف الأحمر",
+        "ascii": "Kef Lakhdar",
+        "en": "Kef Lakhdar"
+      },
+      {
+        "arabic": "عين اقصير",
+        "ascii": "Ain Ouksir",
+        "en": "Ain Ouksir"
+      },
+      {
+        "arabic": "الدراق",
+        "ascii": "Derrag",
+        "en": "Derrag"
+      },
+      {
+        "arabic": "بوطاط",
+        "ascii": "Bouaiche",
+        "en": "Bouaiche"
+      },
+      {
+        "arabic": "شلالة العذاورة",
+        "ascii": "Chelalet El Adhaoura",
+        "en": "Chelalet El Adhaoura"
+      },
+      {
+        "arabic": "بوغار",
+        "ascii": "Boghar",
+        "en": "Boghar"
+      },
+      {
+        "arabic": "أولاد عنتر",
+        "ascii": "Ouled Antar",
+        "en": "Ouled Antar"
+      },
+      {
+        "arabic": "العوينات",
+        "ascii": "El Ouinet",
+        "en": "El Ouinet"
+      },
+      {
+        "arabic": "عزيز",
+        "ascii": "Aziz",
+        "en": "Aziz"
+      },
+      {
+        "arabic": "شهبونية",
+        "ascii": "Chahbounia",
+        "en": "Chahbounia"
+      },
+      {
+        "arabic": "شنيقل",
+        "ascii": "Cheniguel",
+        "en": "Cheniguel"
+      },
+      {
+        "arabic": "أم الجليل",
+        "ascii": "Oum El Djallil",
+        "en": "Oum El Djallil"
+      },
+      {
+        "arabic": "مفاتحة",
+        "ascii": "M'Fatha",
+        "en": "M'Fatha"
+      },
+      {
+        "arabic": "بوقزول",
+        "ascii": "Boughezoul",
+        "en": "Boughezoul"
+      },
+      {
+        "arabic": "السناقصة",
+        "ascii": "Saneg",
+        "en": "Saneg"
+      },
+      {
+        "arabic": "أولاد هلال",
+        "ascii": "Ouled Hellal",
+        "en": "Ouled Hellal"
+      },
+      {
+        "arabic": "تفراوت",
+        "ascii": "Tafraout",
+        "en": "Tafraout"
+      }
+    ]
+  },
+  {
+    "code": 68,
+    "arabic": "بوسعادة",
+    "ascii": "Bou Saada",
+    "en": "Bou Saada",
+    "communes": [
+      {
+        "arabic": "بوسعادة",
+        "ascii": "Bou Saada",
+        "en": "Bou Saada"
+      },
+      {
+        "arabic": "أولاد سيدي ابراهيم",
+        "ascii": "Ouled Sidi Brahim",
+        "en": "Ouled Sidi Brahim"
+      },
+      {
+        "arabic": "سيدي عامر",
+        "ascii": "Sidi Ameur",
+        "en": "Sidi Ameur"
+      },
+      {
+        "arabic": "تامسة",
+        "ascii": "Tamsa",
+        "en": "Tamsa"
+      },
+      {
+        "arabic": "خوبانة",
+        "ascii": "Khoubana",
+        "en": "Khoubana"
+      },
+      {
+        "arabic": "مصيف",
+        "ascii": "M'Cif",
+        "en": "M'Cif"
+      },
+      {
+        "arabic": "أولاد سلامة",
+        "ascii": "Ouled Slimane",
+        "en": "Ouled Slimane"
+      },
+      {
+        "arabic": "بن سرور",
+        "ascii": "Ben Srour",
+        "en": "Ben Srour"
+      },
+      {
+        "arabic": "الحمادين",
+        "ascii": "El Houamed",
+        "en": "El Houamed"
+      },
+      {
+        "arabic": "الهامل",
+        "ascii": "El Hamel",
+        "en": "El Hamel"
+      },
+      {
+        "arabic": "الزرق",
+        "ascii": "Zarzour",
+        "en": "Zarzour"
+      },
+      {
+        "arabic": "محمد بودياف",
+        "ascii": "Mouhamed Boudiaf",
+        "en": "Mouhamed Boudiaf"
+      },
+      {
+        "arabic": "بنزو",
+        "ascii": "Benzouh",
+        "en": "Benzouh"
+      },
+      {
+        "arabic": "بئر فضة",
+        "ascii": "Bir Foda",
+        "en": "Bir Foda"
+      },
+      {
+        "arabic": "عين فارس",
+        "ascii": "Ain Fares",
+        "en": "Ain Fares"
+      },
+      {
+        "arabic": "سيدي امحمد",
+        "ascii": "Sidi M'Hamed",
+        "en": "Sidi M'Hamed"
+      },
+      {
+        "arabic": "مضاء",
+        "ascii": "Menaa",
+        "en": "Menaa"
+      },
+      {
+        "arabic": "عين الملح",
+        "ascii": "Ain El Meleh",
+        "en": "Ain El Meleh"
+      },
+      {
+        "arabic": "مدجيدل",
+        "ascii": "Medjedel",
+        "en": "Medjedel"
+      },
+      {
+        "arabic": "سليم",
+        "ascii": "Slim",
+        "en": "Slim"
+      },
+      {
+        "arabic": "عين الرش",
+        "ascii": "Ain Errich",
+        "en": "Ain Errich"
+      },
+      {
+        "arabic": "أولتام",
+        "ascii": "Oultem",
+        "en": "Oultem"
+      },
+      {
+        "arabic": "جبل مسعد",
+        "ascii": "Djebel Messaad",
+        "en": "Djebel Messaad"
+      }
+    ]
+  },
+  {
+    "code": 69,
+    "arabic": "الأبيض سيدي الشيخ",
+    "ascii": "El Abiodh Sidi Cheikh",
+    "en": "El Abiodh Sidi Cheikh",
+    "communes": [
+      {
+        "arabic": "الأبيض سيدي الشيخ",
+        "ascii": "El Abiodh Sidi Cheikh",
+        "en": "El Abiodh Sidi Cheikh"
+      },
+      {
+        "arabic": "عين العراك",
+        "ascii": "Ain El Orak",
+        "en": "Ain El Orak"
+      },
+      {
+        "arabic": "أربوات",
+        "ascii": "Arbaouat",
+        "en": "Arbaouat"
+      },
+      {
+        "arabic": "البنود",
+        "ascii": "El Bnoud",
+        "en": "El Bnoud"
+      },
+      {
+        "arabic": "بوسمغون",
+        "ascii": "Boussemghoun",
+        "en": "Boussemghoun"
+      },
+      {
+        "arabic": "الشلالة",
+        "ascii": "Chellala",
+        "en": "Chellala"
+      },
+      {
+        "arabic": "المحرة",
+        "ascii": "El Meharra",
+        "en": "El Meharra"
+      }
+    ]
+  }
+]

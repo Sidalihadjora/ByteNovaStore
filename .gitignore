@@ -1,0 +1,22 @@
+node_modules/
+client/node_modules/
+client/dist/
+.env
+.env.*
+!.env.example
+
+# Sensitive files and database
+.env
+.env.*
+server/.env
+server/data/*.db
+server/data/*.db-shm
+server/data/*.db-wal
+
+# Dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build files
+client/dist/

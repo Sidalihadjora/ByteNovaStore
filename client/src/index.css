@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+  
+  [dir="rtl"] body, [dir="rtl"] {
+    font-family: 'Cairo', system-ui, -apple-system, sans-serif;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
+}
+
+/* Print styles for invoices */
+@media print {
+  body * {
+    visibility: hidden;
+  }
+  #printable-invoice, #printable-invoice * {
+    visibility: visible;
+  }
+  #printable-invoice {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    margin: 0;
+    padding: 20px;
+    background: white;
+    box-shadow: none;
+  }
+  .no-print {
+    display: none !important;
+  }
+}
+
+.bg-blue-600 {
+  background-color: var(--brand-primary, #2563eb) !important;
+}
+
+.text-blue-600 {
+  color: var(--brand-primary, #2563eb) !important;
+}
+
+.border-blue-600 {
+  border-color: var(--brand-primary, #2563eb) !important;
+}
+
+.hover\:bg-blue-700:hover {
+  background-color: color-mix(in srgb, var(--brand-primary, #2563eb), black 15%) !important;
+}
